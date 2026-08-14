@@ -19,7 +19,7 @@
             "last_commit": "2025-05-07T12:11:11Z",
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3405
+            "stars": 3406
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-12T07:35:46Z",
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 295
+            "stars": 297
           }
         },
         {
@@ -907,7 +907,7 @@
             "last_commit": "2026-04-29T08:48:00Z",
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3830
+            "stars": 3829
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2025-07-18T18:33:21Z",
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3446
+            "stars": 3445
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2026-06-07T12:09:29Z",
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 850
+            "stars": 851
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2021-10-21T13:18:36Z",
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11080
+            "stars": 11079
           }
         },
         {
@@ -1110,7 +1110,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T14:01:22Z",
+            "last_commit": "2026-08-14T13:57:17Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 295
@@ -1789,7 +1789,7 @@
             "last_commit": "2025-09-02T19:58:48Z",
             "owner": "hajimehoshi",
             "repo": "wasmserve",
-            "stars": 291
+            "stars": 292
           }
         },
         {
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:07:35.476Z",
+    "last_updated": "2026-08-14T22:45:02.305Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_sha": "1639a27898fd8cc42ca22e0f4b47d76a095e76ac",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
