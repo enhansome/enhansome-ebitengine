@@ -235,7 +235,7 @@
             "last_commit": "2026-04-22T02:32:59Z",
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 931
+            "stars": 932
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-06T23:20:41Z",
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -372,20 +372,6 @@
         },
         {
           "node_type": "item",
-          "title": "etxt",
-          "description": "A library for font management and text rendering in Ebitengine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-19T13:24:09Z",
-            "owner": "tinne26",
-            "repo": "etxt",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
           "title": "goaseprite",
           "description": "A JSON loader for Aseprite files for Golang.",
           "children": [],
@@ -395,6 +381,20 @@
             "last_commit": "2026-07-28T21:52:59Z",
             "owner": "SolarLune",
             "repo": "goaseprite",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "etxt",
+          "description": "A library for font management and text rendering in Ebitengine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-19T13:24:09Z",
+            "owner": "tinne26",
+            "repo": "etxt",
             "stars": 68
           }
         },
@@ -873,7 +873,7 @@
             "last_commit": "2025-11-19T08:59:17Z",
             "owner": "quasilyte",
             "repo": "gdata",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2025-07-18T18:33:21Z",
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3445
+            "stars": 3446
           }
         },
         {
@@ -955,7 +955,7 @@
             "last_commit": "2026-05-15T06:23:56Z",
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4543
+            "stars": 4545
           }
         },
         {
@@ -1110,10 +1110,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T13:57:17Z",
+            "last_commit": "2026-08-15T13:12:13Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 295
+            "stars": 296
           }
         },
         {
@@ -1127,7 +1127,7 @@
             "last_commit": "2026-04-25T06:14:34Z",
             "owner": "hajimehoshi",
             "repo": "go-inovation",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:45:02.305Z",
+    "last_updated": "2026-08-15T22:42:29.145Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_sha": "1639a27898fd8cc42ca22e0f4b47d76a095e76ac",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
