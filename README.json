@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T07:35:46Z",
+            "last_commit": "2026-08-17T09:18:39Z",
             "owner": "mlange-42",
             "repo": "ark",
             "stars": 297
@@ -103,7 +103,7 @@
             "last_commit": "2024-11-05T01:02:58Z",
             "owner": "joelschutz",
             "repo": "stagehand",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2025-08-11T08:20:00Z",
             "owner": "noppikinatta",
             "repo": "bamenn",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -277,7 +277,7 @@
             "last_commit": "2026-05-11T22:51:23Z",
             "owner": "YindSoft",
             "repo": "ultralight-ebitengine-port",
-            "stars": 11
+            "stars": 12
           }
         }
       ],
@@ -325,7 +325,7 @@
             "last_commit": "2026-01-16T08:47:45Z",
             "owner": "mazznoer",
             "repo": "colorgrad",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -462,7 +462,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-16T21:27:15Z",
+            "last_commit": "2026-08-17T21:12:19Z",
             "owner": "quasilyte",
             "repo": "ebitengine-graphics",
             "stars": 20
@@ -921,7 +921,7 @@
             "last_commit": "2025-07-18T18:33:21Z",
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3446
+            "stars": 3447
           }
         },
         {
@@ -1037,7 +1037,7 @@
             "last_commit": "2026-06-07T12:09:29Z",
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 851
+            "stars": 852
           }
         },
         {
@@ -1110,7 +1110,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T13:13:48Z",
+            "last_commit": "2026-08-17T18:33:16Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 296
@@ -1761,7 +1761,7 @@
             "last_commit": "2023-03-19T20:26:56Z",
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3082
+            "stars": 3083
           }
         },
         {
@@ -1873,7 +1873,7 @@
             "last_commit": "2025-02-27T17:24:54Z",
             "owner": "gary23b",
             "repo": "turtle",
-            "stars": 2
+            "stars": 3
           }
         }
       ],
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:41:41.988Z",
+    "last_updated": "2026-08-17T22:45:11.832Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_sha": "1639a27898fd8cc42ca22e0f4b47d76a095e76ac",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
