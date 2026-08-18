@@ -61,7 +61,7 @@
             "last_commit": "2026-08-04T18:43:02Z",
             "owner": "unitoftime",
             "repo": "ecs",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-17T21:12:19Z",
             "owner": "quasilyte",
             "repo": "ebitengine-graphics",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2026-06-26T05:46:09Z",
             "owner": "gen2brain",
             "repo": "mpeg",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2025-12-26T01:17:07Z",
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 397
+            "stars": 396
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2025-07-18T18:33:21Z",
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3447
+            "stars": 3448
           }
         },
         {
@@ -955,7 +955,7 @@
             "last_commit": "2026-05-15T06:23:56Z",
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4543
+            "stars": 4544
           }
         },
         {
@@ -1110,10 +1110,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T18:33:16Z",
+            "last_commit": "2026-08-18T14:17:24Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 296
+            "stars": 297
           }
         },
         {
@@ -1794,6 +1794,20 @@
         },
         {
           "node_type": "item",
+          "title": "kutta",
+          "description": "A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-15T20:17:21Z",
+            "owner": "crgimenes",
+            "repo": "kutta",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
           "title": "sketchy",
           "description": "A framework for creating generative art in Go.",
           "children": [],
@@ -1915,9 +1929,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:45:11.832Z",
+    "last_updated": "2026-08-18T22:45:08.897Z",
     "original_repository": "sedyh/awesome-ebitengine",
-    "original_repository_sha": "1639a27898fd8cc42ca22e0f4b47d76a095e76ac",
+    "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
     "title": "Awesome Ebitengine with stars"
