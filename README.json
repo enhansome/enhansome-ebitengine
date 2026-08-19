@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Please take a quick gander at the contribution guidelines first. Thanks to all contributors; you rock!\nIf you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
       "description": "Various architectural patterns and approaches to game design",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12272337,
             "language": "Go",
             "last_commit": "2025-05-07T12:11:11Z",
             "owner": "looplab",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450453231,
             "language": "Go",
             "last_commit": "2026-05-17T11:41:48Z",
             "owner": "yohamta0",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934973326,
             "language": "Go",
             "last_commit": "2026-08-17T09:18:39Z",
             "owner": "mlange-42",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409979765,
             "language": "Go",
             "last_commit": "2026-08-04T18:43:02Z",
             "owner": "unitoftime",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435265644,
             "language": "Go",
             "last_commit": "2023-04-02T00:32:17Z",
             "owner": "sedyh",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515452970,
             "language": "Go",
             "last_commit": "2026-04-01T17:02:05Z",
             "owner": "elgopher",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634867277,
             "language": "Go",
             "last_commit": "2024-11-05T01:02:58Z",
             "owner": "joelschutz",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450090527,
             "language": "Go",
             "last_commit": "2023-07-12T12:54:11Z",
             "owner": "marioolofo",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 802998282,
             "language": "Go",
             "last_commit": "2024-10-04T17:41:50Z",
             "owner": "tinne26",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710048947,
             "language": "Go",
             "last_commit": "2024-04-01T16:19:55Z",
             "owner": "SolarLune",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690549828,
             "language": "Go",
             "last_commit": "2026-08-01T12:55:55Z",
             "owner": "LuigiVanacore",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246151280,
             "language": "Go",
             "last_commit": "2022-09-09T12:00:41Z",
             "owner": "x-hgg-x",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485851493,
             "language": "Go",
             "last_commit": "2024-04-13T10:29:45Z",
             "owner": "PenguinCabinet",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 770947691,
             "language": "Go",
             "last_commit": "2026-05-21T13:17:42Z",
             "owner": "greenthepear",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852809447,
             "language": "Go",
             "last_commit": "2025-08-11T08:20:00Z",
             "owner": "noppikinatta",
@@ -231,8 +241,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267666182,
             "language": "Go",
-            "last_commit": "2026-04-22T02:32:59Z",
+            "last_commit": "2026-08-19T02:33:24Z",
             "owner": "ebitenui",
             "repo": "ebitenui",
             "stars": 932
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300657568,
             "language": "Go",
             "last_commit": "2026-07-18T04:08:58Z",
             "owner": "yohamta0",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278199411,
             "language": "Go",
             "last_commit": "2023-10-31T22:25:47Z",
             "owner": "gabstv",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161438746,
             "language": "C",
             "last_commit": "2026-05-11T22:51:23Z",
             "owner": "YindSoft",
@@ -293,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8286279,
             "language": "Go",
             "last_commit": "2026-08-02T09:05:14Z",
             "owner": "lucasb-eyer",
@@ -307,8 +322,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424376048,
             "language": "Go",
-            "last_commit": "2026-08-06T23:20:41Z",
+            "last_commit": "2026-08-19T00:45:23Z",
             "owner": "SolarLune",
             "repo": "tetra3d",
             "stars": 513
@@ -321,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282250117,
             "language": "Go",
             "last_commit": "2026-01-16T08:47:45Z",
             "owner": "mazznoer",
@@ -335,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178705137,
             "language": "Go",
             "last_commit": "2025-04-07T01:37:42Z",
             "owner": "harbdog",
@@ -349,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107211877,
             "language": "Go",
             "last_commit": "2025-05-22T03:52:25Z",
             "owner": "tanema",
@@ -363,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418170330,
             "language": "Go",
             "last_commit": "2026-08-16T01:24:19Z",
             "owner": "yohamta0",
@@ -377,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104181916,
             "language": "Go",
             "last_commit": "2026-07-28T21:52:59Z",
             "owner": "SolarLune",
@@ -391,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476890794,
             "language": "Go",
             "last_commit": "2026-05-19T13:24:09Z",
             "owner": "tinne26",
@@ -405,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145295722,
             "language": "Go",
             "last_commit": "2026-08-11T09:46:37Z",
             "owner": "hajimehoshi",
@@ -419,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 738800593,
             "language": "Go",
             "last_commit": "2025-02-04T15:22:16Z",
             "owner": "aethiopicuschan",
@@ -433,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 533718552,
             "language": "Go",
             "last_commit": "2026-01-12T07:51:23Z",
             "owner": "askeladdk",
@@ -447,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462420626,
             "language": "Go",
             "last_commit": "2022-06-26T16:50:35Z",
             "owner": "eihigh",
@@ -461,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752590158,
             "language": "Go",
             "last_commit": "2026-08-17T21:12:19Z",
             "owner": "quasilyte",
@@ -475,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 860599228,
             "language": "Go",
             "last_commit": "2025-03-16T04:32:43Z",
             "owner": "setanarut",
@@ -489,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 967541120,
             "language": "Go",
             "last_commit": "2026-07-17T22:35:42Z",
             "owner": "bstkhq",
@@ -503,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1183700077,
             "language": "Go",
             "last_commit": "2026-07-12T01:22:28Z",
             "owner": "devthicket",
@@ -517,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 783609904,
             "language": "Go",
             "last_commit": "2026-03-01T11:23:21Z",
             "owner": "quasilyte",
@@ -531,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152470901,
             "language": "Go",
             "last_commit": "2026-02-16T22:09:41Z",
             "owner": "setanarut",
@@ -545,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1129955774,
             "language": "Go",
             "last_commit": "2026-02-12T21:32:15Z",
             "owner": "setanarut",
@@ -565,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556299931,
             "language": "Go",
             "last_commit": "2026-06-26T05:46:09Z",
             "owner": "gen2brain",
@@ -579,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 399644786,
             "language": "Go",
             "last_commit": "2023-07-27T01:42:50Z",
             "owner": "zergon321",
@@ -599,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529067052,
             "language": "Go",
             "last_commit": "2025-06-17T00:54:16Z",
             "owner": "SolarLune",
@@ -613,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707116408,
             "language": "Go",
             "last_commit": "2026-01-05T07:10:56Z",
             "owner": "quasilyte",
@@ -633,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148888218,
             "language": "Go",
             "last_commit": "2024-12-19T17:00:18Z",
             "owner": "SolarLune",
@@ -647,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99392487,
             "language": "Go",
             "last_commit": "2025-12-26T01:17:07Z",
             "owner": "jakecoffman",
@@ -661,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766905989,
             "language": "Go",
             "last_commit": "2026-03-21T11:49:13Z",
             "owner": "rudransh61",
@@ -675,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041619162,
             "language": "Go",
             "last_commit": "2025-09-16T12:13:01Z",
             "owner": "oliverbestmann",
@@ -689,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475023978,
             "language": "Go",
             "last_commit": "2023-04-15T22:40:03Z",
             "owner": "Alexander-r",
@@ -703,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436442639,
             "language": "Go",
             "last_commit": "2022-01-04T02:58:39Z",
             "owner": "koteyur",
@@ -717,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933871027,
             "language": "Go",
             "last_commit": "2026-07-05T18:32:37Z",
             "owner": "setanarut",
@@ -737,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20241916,
             "language": "Go",
             "last_commit": "2022-01-27T15:08:37Z",
             "owner": "beefsack",
@@ -751,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80017307,
             "language": "Go",
             "last_commit": "2026-07-10T15:10:05Z",
             "owner": "lafriks",
@@ -765,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156150040,
             "language": "Go",
             "last_commit": "2024-07-24T22:42:03Z",
             "owner": "SolarLune",
@@ -779,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 691906995,
             "language": "Go",
             "last_commit": "2026-08-12T09:01:29Z",
             "owner": "quasilyte",
@@ -793,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319748360,
             "language": "Go",
             "last_commit": "2024-08-21T15:23:15Z",
             "owner": "SolarLune",
@@ -807,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158954550,
             "language": "Go",
             "last_commit": "2023-11-14T19:20:52Z",
             "owner": "SolarLune",
@@ -821,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 735965012,
             "language": "Go",
             "last_commit": "2026-02-15T02:07:14Z",
             "owner": "setanarut",
@@ -835,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409739064,
             "language": "Go",
             "last_commit": "2023-12-23T21:10:18Z",
             "owner": "MelonFunction",
@@ -849,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570609529,
             "language": "Go",
             "last_commit": "2025-12-09T00:32:40Z",
             "owner": "s0rg",
@@ -869,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714367711,
             "language": "Go",
             "last_commit": "2025-11-19T08:59:17Z",
             "owner": "quasilyte",
@@ -883,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595189236,
             "language": "Go",
             "last_commit": "2026-04-06T14:39:21Z",
             "owner": "quasilyte",
@@ -903,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164809872,
             "language": "Go",
             "last_commit": "2026-04-29T08:48:00Z",
             "owner": "d5",
@@ -917,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15344288,
             "language": "Go",
             "last_commit": "2025-07-18T18:33:21Z",
             "owner": "Shopify",
@@ -931,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170464043,
             "language": "Go",
             "last_commit": "2026-05-15T13:21:08Z",
             "owner": "open2b",
@@ -951,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37511821,
             "language": "Go",
             "last_commit": "2026-05-15T06:23:56Z",
             "owner": "xtaci",
@@ -965,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284466884,
             "language": "C",
             "last_commit": "2025-07-28T07:26:47Z",
             "owner": "codecat",
@@ -979,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779987272,
             "language": "Go",
             "last_commit": "2025-06-25T12:45:28Z",
             "owner": "leap-fish",
@@ -999,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400825870,
             "language": "Go",
             "last_commit": "2026-08-07T14:09:40Z",
             "owner": "hajimehoshi",
@@ -1013,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515844746,
             "language": "Go",
             "last_commit": "2023-03-04T15:29:36Z",
             "owner": "EldersJavas",
@@ -1033,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314230339,
             "language": "Go",
             "last_commit": "2026-06-07T12:09:29Z",
             "owner": "golang-design",
@@ -1047,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 559195240,
             "language": "Go",
             "last_commit": "2026-06-16T17:59:12Z",
             "owner": "quasilyte",
@@ -1067,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 158645957,
             "language": "Go",
             "last_commit": "2021-10-21T13:18:36Z",
             "owner": "OpenDiablo2",
@@ -1081,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 220931544,
             "language": "Go",
             "last_commit": "2024-02-12T08:49:05Z",
             "owner": "akatsuki105",
@@ -1095,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599001957,
             "language": "Go",
             "last_commit": "2024-06-02T17:35:02Z",
             "owner": "quasilyte",
@@ -1109,8 +1177,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-18T14:17:24Z",
+            "last_commit": "2026-08-19T12:22:43Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 297
@@ -1123,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36880233,
             "language": "Go",
             "last_commit": "2026-04-25T06:14:34Z",
             "owner": "hajimehoshi",
@@ -1137,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241423940,
             "language": "Go",
             "last_commit": "2026-07-07T17:55:15Z",
             "owner": "x-hgg-x",
@@ -1151,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439084094,
             "language": "Go",
             "last_commit": "2023-03-18T15:00:11Z",
             "owner": "oddstream",
@@ -1165,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 345267534,
             "language": "Go",
             "last_commit": "2021-07-24T16:00:29Z",
             "owner": "rootVIII",
@@ -1179,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334508607,
             "language": "Go",
             "last_commit": "2024-04-07T20:12:08Z",
             "owner": "mevdschee",
@@ -1193,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251601258,
             "language": "Go",
             "last_commit": "2026-07-08T04:58:04Z",
             "owner": "x-hgg-x",
@@ -1207,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286696604,
             "language": "Go",
             "last_commit": "2022-10-02T08:26:28Z",
             "owner": "yohamta0",
@@ -1221,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 437695604,
             "language": "Go",
             "last_commit": "2022-11-17T10:07:20Z",
             "owner": "eliasdaler",
@@ -1235,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318938814,
             "language": "Go",
             "last_commit": "2023-08-21T19:09:47Z",
             "owner": "TheTophatDemon",
@@ -1249,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 508464467,
             "language": "Go",
             "last_commit": "2022-12-21T15:42:39Z",
             "owner": "tinne26",
@@ -1263,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570919872,
             "language": "Go",
             "last_commit": "2023-02-02T18:04:40Z",
             "owner": "quasilyte",
@@ -1277,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654011405,
             "language": "Go",
             "last_commit": "2023-10-09T10:32:13Z",
             "owner": "quasilyte",
@@ -1291,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407800430,
             "language": "Go",
             "last_commit": "2021-10-21T07:23:40Z",
             "owner": "spiritofsim",
@@ -1305,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 561064434,
             "language": "Go",
             "last_commit": "2025-10-24T07:25:55Z",
             "owner": "sionleroux",
@@ -1319,6 +1402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073723765,
             "language": "Go",
             "last_commit": "2026-08-04T06:45:53Z",
             "owner": "shpaker",
@@ -1333,6 +1417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 720198724,
             "language": "Go",
             "last_commit": "2026-08-13T15:24:12Z",
             "owner": "DTLP",
@@ -1347,6 +1432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256604603,
             "language": "Go",
             "last_commit": "2026-07-08T04:57:59Z",
             "owner": "x-hgg-x",
@@ -1361,6 +1447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 663547706,
             "language": "Go",
             "last_commit": "2023-09-18T09:03:05Z",
             "owner": "quasilyte",
@@ -1375,6 +1462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503650711,
             "language": "Go",
             "last_commit": "2022-07-20T07:02:27Z",
             "owner": "ketMix",
@@ -1389,6 +1477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93977010,
             "language": "Go",
             "last_commit": "2026-03-30T16:24:04Z",
             "owner": "kemokemo",
@@ -1403,6 +1492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654024087,
             "language": "Go",
             "last_commit": "2024-01-11T23:18:04Z",
             "owner": "ketMix",
@@ -1417,6 +1507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654310667,
             "language": "Go",
             "last_commit": "2023-06-29T02:36:29Z",
             "owner": "Critters",
@@ -1431,6 +1522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658881360,
             "language": "JavaScript",
             "last_commit": "2023-06-26T18:46:17Z",
             "owner": "hajimehoshi",
@@ -1445,6 +1537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503902161,
             "language": "Go",
             "last_commit": "2022-06-28T22:07:20Z",
             "owner": "Zyko0",
@@ -1459,6 +1552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415976449,
             "language": "Go",
             "last_commit": "2021-10-19T21:42:58Z",
             "owner": "danicat",
@@ -1473,6 +1567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 503744245,
             "language": "Go",
             "last_commit": "2022-06-18T18:11:40Z",
             "owner": "luisparravicini",
@@ -1487,6 +1582,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424040741,
             "language": "Go",
             "last_commit": "2024-10-06T08:27:09Z",
             "owner": "sionleroux",
@@ -1501,6 +1597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 981709534,
             "language": "Go",
             "last_commit": "2025-07-15T10:53:32Z",
             "owner": "fancellu",
@@ -1515,6 +1612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656588607,
             "language": "Go",
             "last_commit": "2023-06-25T05:28:55Z",
             "owner": "yohamta0",
@@ -1529,6 +1627,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423958144,
             "language": "Go",
             "last_commit": "2022-01-04T22:06:00Z",
             "owner": "Zyko0",
@@ -1543,6 +1642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38077997,
             "language": "Go",
             "last_commit": "2026-03-30T16:22:32Z",
             "owner": "drpaneas",
@@ -1557,6 +1657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654124122,
             "language": "Go",
             "last_commit": "2026-05-29T10:20:56Z",
             "owner": "hinst",
@@ -1571,6 +1672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659035849,
             "language": "Go",
             "last_commit": "2023-07-13T21:43:08Z",
             "owner": "nmorenor",
@@ -1585,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659938164,
             "language": "Go",
             "last_commit": "2023-07-02T14:11:19Z",
             "owner": "sjpau",
@@ -1599,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659648647,
             "language": "Go",
             "last_commit": "2023-06-29T05:33:49Z",
             "owner": "PrizeLobby",
@@ -1613,6 +1717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334693397,
             "language": "Go",
             "last_commit": "2021-01-31T16:23:22Z",
             "owner": "TheMightyGit",
@@ -1627,18 +1732,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1063717170,
             "language": "Go",
             "last_commit": "2025-10-06T01:06:47Z",
             "owner": "Akitsutori",
             "repo": "Zengo",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "attraction",
-          "description": "A sokoban-like puzzle game, where you move magnetic pieces in order to collect gems within a limited number of moves.",
-          "children": []
         }
       ],
       "title": "Games"
@@ -1653,6 +1753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80924593,
             "language": "Go",
             "last_commit": "2026-05-20T06:06:04Z",
             "owner": "Zebbeni",
@@ -1667,6 +1768,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298360125,
             "language": "Go",
             "last_commit": "2022-01-22T09:55:36Z",
             "owner": "Myu-Unix",
@@ -1681,6 +1783,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432265858,
             "language": "Go",
             "last_commit": "2026-07-23T22:39:24Z",
             "owner": "alexanderscrimgeour",
@@ -1695,6 +1798,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197468201,
             "language": "Go",
             "last_commit": "2025-10-21T20:11:44Z",
             "owner": "dim13",
@@ -1709,6 +1813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778289554,
             "language": "Go",
             "last_commit": "2024-05-07T16:50:53Z",
             "owner": "ConValance",
@@ -1723,6 +1828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722883150,
             "language": "Go",
             "last_commit": "2023-11-25T18:12:32Z",
             "owner": "icza",
@@ -1737,6 +1843,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1022692643,
             "language": "Go",
             "last_commit": "2025-09-07T14:17:16Z",
             "owner": "philyawj",
@@ -1757,6 +1864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153431471,
             "language": "Go",
             "last_commit": "2023-03-19T20:26:56Z",
             "owner": "liamg",
@@ -1771,6 +1879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407919887,
             "language": "Go",
             "last_commit": "2026-08-03T07:46:29Z",
             "owner": "crgimenes",
@@ -1785,6 +1894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140020861,
             "language": "Go",
             "last_commit": "2025-09-02T19:58:48Z",
             "owner": "hajimehoshi",
@@ -1799,6 +1909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1287173180,
             "language": "Go",
             "last_commit": "2026-08-15T20:17:21Z",
             "owner": "crgimenes",
@@ -1813,6 +1924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 456231583,
             "language": "Go",
             "last_commit": "2026-08-16T16:00:41Z",
             "owner": "aldernero",
@@ -1827,6 +1939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441235896,
             "language": "Go",
             "last_commit": "2022-06-22T18:12:22Z",
             "owner": "sedyh",
@@ -1841,6 +1954,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 777135546,
             "language": "Go",
             "last_commit": "2025-11-26T19:58:44Z",
             "owner": "TLINDEN",
@@ -1855,6 +1969,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717107832,
             "language": "Go",
             "last_commit": "2025-06-03T18:19:37Z",
             "owner": "SladkyCitron",
@@ -1869,6 +1984,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224533961,
             "language": "Go",
             "last_commit": "2026-05-15T16:11:33Z",
             "owner": "Tsukumogami-Software",
@@ -1883,54 +1999,59 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807853974,
             "language": "Go",
             "last_commit": "2025-02-27T17:24:54Z",
             "owner": "gary23b",
             "repo": "turtle",
             "stars": 3
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kage-desk",
+              "description": "Gentle introduction to the Kage shading language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581333856,
+                "language": "Go",
+                "last_commit": "2026-03-12T12:19:50Z",
+                "owner": "tinne26",
+                "repo": "kage-desk",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tps-vs-fps",
+              "description": "Detailed explanation of how fps and tps work in Ebitengine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481301788,
+                "language": null,
+                "last_commit": "2025-10-31T15:05:43Z",
+                "owner": "tinne26",
+                "repo": "tps-vs-fps",
+                "stars": 43
+              }
+            }
+          ],
+          "description": "Implementation details of the engine, game loop, etc.",
+          "node_type": "group",
+          "title": "Articles"
         }
       ],
       "title": "Applications"
-    },
-    {
-      "description": "Implementation details of the engine, game loop, etc.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kage-desk",
-          "description": "Gentle introduction to the Kage shading language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-12T12:19:50Z",
-            "owner": "tinne26",
-            "repo": "kage-desk",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tps-vs-fps",
-          "description": "Detailed explanation of how fps and tps work in Ebitengine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-31T15:05:43Z",
-            "owner": "tinne26",
-            "repo": "tps-vs-fps",
-            "stars": 43
-          }
-        }
-      ],
-      "title": "Articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:45:08.897Z",
+    "last_updated": "2026-08-19T12:27:45.537Z",
     "original_repository": "sedyh/awesome-ebitengine",
+    "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
