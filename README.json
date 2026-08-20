@@ -327,7 +327,7 @@
             "last_commit": "2026-08-19T00:45:23Z",
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 513
+            "stars": 514
           }
         },
         {
@@ -534,7 +534,7 @@
             "archived": false,
             "id": 1183700077,
             "language": "Go",
-            "last_commit": "2026-07-12T01:22:28Z",
+            "last_commit": "2026-08-20T19:31:54Z",
             "owner": "devthicket",
             "repo": "willow",
             "stars": 12
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-15T06:23:56Z",
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4544
+            "stars": 4546
           }
         },
         {
@@ -1098,7 +1098,7 @@
             "archived": false,
             "id": 314230339,
             "language": "Go",
-            "last_commit": "2026-08-19T14:49:04Z",
+            "last_commit": "2026-08-20T22:35:47Z",
             "owner": "golang-design",
             "repo": "clipboard",
             "stars": 852
@@ -1179,10 +1179,10 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-19T13:30:58Z",
+            "last_commit": "2026-08-20T18:23:32Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 297
+            "stars": 298
           }
         },
         {
@@ -1911,7 +1911,7 @@
             "archived": false,
             "id": 1287173180,
             "language": "Go",
-            "last_commit": "2026-08-15T20:17:21Z",
+            "last_commit": "2026-08-20T10:44:51Z",
             "owner": "crgimenes",
             "repo": "kutta",
             "stars": 136
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:45:54.886Z",
+    "last_updated": "2026-08-20T22:49:34.924Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
