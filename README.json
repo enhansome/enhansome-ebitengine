@@ -15,7 +15,7 @@
             "last_commit": "2025-05-07T12:11:11Z",
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3406
+            "stars": 3407
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-17T11:41:48Z",
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 376
+            "stars": 377
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2026-07-10T15:10:05Z",
             "owner": "lafriks",
             "repo": "go-tiled",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -1098,7 +1098,7 @@
             "archived": false,
             "id": 314230339,
             "language": "Go",
-            "last_commit": "2026-08-20T22:35:47Z",
+            "last_commit": "2026-08-21T08:52:43Z",
             "owner": "golang-design",
             "repo": "clipboard",
             "stars": 852
@@ -1137,7 +1137,7 @@
             "last_commit": "2021-10-21T13:18:36Z",
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11078
+            "stars": 11077
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-20T18:23:32Z",
+            "last_commit": "2026-08-21T13:30:26Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298
@@ -1914,7 +1914,7 @@
             "last_commit": "2026-08-20T10:44:51Z",
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 136
+            "stars": 137
           }
         },
         {
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:49:34.924Z",
+    "last_updated": "2026-08-21T22:45:40.080Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
