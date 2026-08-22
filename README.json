@@ -675,7 +675,7 @@
             "last_commit": "2024-12-19T17:00:18Z",
             "owner": "SolarLune",
             "repo": "resolv",
-            "stars": 529
+            "stars": 530
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2026-04-29T08:48:00Z",
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3829
+            "stars": 3830
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-15T06:23:56Z",
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4546
+            "stars": 4548
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2021-10-21T13:18:36Z",
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11077
+            "stars": 11080
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-21T13:30:26Z",
+            "last_commit": "2026-08-22T13:13:02Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298
@@ -1881,7 +1881,7 @@
             "archived": false,
             "id": 407919887,
             "language": "Go",
-            "last_commit": "2026-08-03T07:46:29Z",
+            "last_commit": "2026-08-22T21:32:39Z",
             "owner": "crgimenes",
             "repo": "neko",
             "stars": 627
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:45:40.080Z",
+    "last_updated": "2026-08-22T22:42:48.267Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
