@@ -1137,7 +1137,7 @@
             "last_commit": "2021-10-21T13:18:36Z",
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11080
+            "stars": 11081
           }
         },
         {
@@ -1382,21 +1382,6 @@
         },
         {
           "node_type": "item",
-          "title": "escort-mission",
-          "description": "Follow a dog through a post-apocalytpic wasteland full of zombies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 561064434,
-            "language": "Go",
-            "last_commit": "2025-10-24T07:25:55Z",
-            "owner": "sionleroux",
-            "repo": "escort-mission",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
           "title": "tnk9x",
           "description": "A remake of the classic arcade game Battle City (NES, 1985).",
           "children": [],
@@ -1407,6 +1392,21 @@
             "last_commit": "2026-08-04T06:45:53Z",
             "owner": "shpaker",
             "repo": "tnk9x",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "escort-mission",
+          "description": "Follow a dog through a post-apocalytpic wasteland full of zombies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 561064434,
+            "language": "Go",
+            "last_commit": "2025-10-24T07:25:55Z",
+            "owner": "sionleroux",
+            "repo": "escort-mission",
             "stars": 16
           }
         },
@@ -1884,7 +1884,7 @@
             "last_commit": "2026-08-22T21:32:39Z",
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:46.509Z",
+    "last_updated": "2026-08-24T22:48:20.996Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",

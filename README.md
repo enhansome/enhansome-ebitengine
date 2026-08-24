@@ -4,11 +4,11 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,418 | 🐛 277 | 🌐 Go | 📅 2026-08-24 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,418 | 🐛 275 | 🌐 Go | 📅 2026-08-24 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 985 | 🐛 1 | 📅 2026-08-18 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 985 | 🐛 1 | 📅 2026-08-18; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 985 | 🐛 2 | 📅 2026-08-18 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 985 | 🐛 2 | 📅 2026-08-18; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
@@ -193,8 +193,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [decipherism-game](https://github.com/quasilyte/decipherism-game) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2023-02-02 - A puzzle game where you solve the encoding machine ciphers.
 * [sinecord](https://github.com/quasilyte/sinecord) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2023-10-09 - Solve the puzzles and create the music along the way.
 * [go-space-crane](https://github.com/spiritofsim/go-space-crane) ⭐ 19 | 🐛 3 | 🌐 Go | 📅 2021-10-21 - Simple moonlander like game with some new mechanics.
+* [tnk9x](https://github.com/shpaker/tnk9x) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2026-08-04 - A remake of the classic arcade game Battle City (NES, 1985).
 * [escort-mission](https://github.com/sinisterstuf/escort-mission) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2025-10-24 - Follow a dog through a post-apocalytpic wasteland full of zombies.
-* [tnk9x](https://github.com/shpaker/tnk9x) ⭐ 16 | 🐛 0 | 🌐 Go | 📅 2026-08-04 - A remake of the classic arcade game Battle City (NES, 1985).
 * [mini-tanks](https://github.com/DTLP/mini_tanks) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-08-13 - Fight enemy tanks and defend your base.
 * [sokoban-go](https://github.com/x-hgg-x/sokoban-go) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - Sokoban game in Go using Ebitengine game engine with ECS.
 * [assemblox](https://github.com/quasilyte/gmtk2023) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2023-09-18 - A 2D real-time strategy game made for a GMTK2023 game jam.
@@ -243,7 +243,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebitengine*
 
 * [darktile](https://github.com/liamg/darktile) ⭐ 3,083 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - A GPU rendered terminal emulator designed for tiling window managers.
-* [neko](https://github.com/crgimenes/neko) ⭐ 627 | 🐛 7 | 🌐 Go | 📅 2026-08-22 - Neko is a cross-platform open-source animated cursor-chasing cat.
+* [neko](https://github.com/crgimenes/neko) ⭐ 628 | 🐛 7 | 🌐 Go | 📅 2026-08-22 - Neko is a cross-platform open-source animated cursor-chasing cat.
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) ⭐ 292 | 🐛 1 | 🌐 Go | 📅 2025-09-02 - An HTTP server for Wasm testing like gopherjs serve.
 * [kutta](https://github.com/crgimenes/kutta) ⭐ 137 | 🐛 2 | 🌐 Go | 📅 2026-08-20 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
 * [sketchy](https://github.com/aldernero/sketchy) ⭐ 104 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - A framework for creating generative art in Go.
