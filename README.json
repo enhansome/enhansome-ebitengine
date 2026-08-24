@@ -15,7 +15,7 @@
             "last_commit": "2025-05-07T12:11:11Z",
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3408
+            "stars": 3409
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-19T00:45:23Z",
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 515
+            "stars": 514
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2024-12-19T17:00:18Z",
             "owner": "SolarLune",
             "repo": "resolv",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2025-12-26T01:17:07Z",
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-15T06:23:56Z",
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4548
+            "stars": 4549
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-23T13:14:18Z",
+            "last_commit": "2026-08-24T13:05:13Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:42:57.992Z",
+    "last_updated": "2026-08-24T14:15:46.509Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
