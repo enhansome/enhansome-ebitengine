@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-24T13:05:13Z",
+            "last_commit": "2026-08-24T23:14:00Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:48:20.996Z",
+    "last_updated": "2026-08-25T06:14:31.052Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
