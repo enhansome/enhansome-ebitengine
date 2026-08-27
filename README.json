@@ -12,7 +12,7 @@
             "archived": false,
             "id": 12272337,
             "language": "Go",
-            "last_commit": "2025-05-07T12:11:11Z",
+            "last_commit": "2026-08-27T05:46:29Z",
             "owner": "looplab",
             "repo": "fsm",
             "stars": 3409
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-26T13:37:45Z",
+            "last_commit": "2026-08-27T04:08:50Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298
@@ -1884,7 +1884,7 @@
             "last_commit": "2026-08-22T21:32:39Z",
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 629
+            "stars": 630
           }
         },
         {
@@ -2049,9 +2049,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:22:54.841Z",
-    "original_repository": "sedyh/awesome-ebitengine",
-    "original_repository_id": 388439886,
+    "last_updated": "2026-08-27T11:38:58.718Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 388439886,
+      "language": null,
+      "last_commit": "2026-08-18T10:11:13Z",
+      "owner": "sedyh",
+      "repo": "awesome-ebitengine",
+      "stars": 987
+    },
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
