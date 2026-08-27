@@ -327,7 +327,7 @@
             "last_commit": "2026-08-19T00:45:23Z",
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 514
+            "stars": 515
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2026-04-29T08:48:00Z",
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3830
+            "stars": 3831
           }
         },
         {
@@ -978,7 +978,7 @@
             "last_commit": "2025-07-18T18:33:21Z",
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3449
+            "stars": 3451
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2021-10-21T13:18:36Z",
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11082
+            "stars": 11083
           }
         },
         {
@@ -1167,7 +1167,7 @@
             "last_commit": "2024-06-02T17:35:02Z",
             "owner": "quasilyte",
             "repo": "roboden-game",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "archived": false,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-25T13:32:16Z",
+            "last_commit": "2026-08-26T13:37:45Z",
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298
@@ -1367,21 +1367,6 @@
         },
         {
           "node_type": "item",
-          "title": "go-space-crane",
-          "description": "Simple moonlander like game with some new mechanics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 407800430,
-            "language": "Go",
-            "last_commit": "2021-10-21T07:23:40Z",
-            "owner": "spiritofsim",
-            "repo": "go-space-crane",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
           "title": "tnk9x",
           "description": "A remake of the classic arcade game Battle City (NES, 1985).",
           "children": [],
@@ -1392,6 +1377,21 @@
             "last_commit": "2026-08-04T06:45:53Z",
             "owner": "shpaker",
             "repo": "tnk9x",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-space-crane",
+          "description": "Simple moonlander like game with some new mechanics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 407800430,
+            "language": "Go",
+            "last_commit": "2021-10-21T07:23:40Z",
+            "owner": "spiritofsim",
+            "repo": "go-space-crane",
             "stars": 19
           }
         },
@@ -1884,7 +1884,7 @@
             "last_commit": "2026-08-22T21:32:39Z",
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 628
+            "stars": 629
           }
         },
         {
@@ -2049,7 +2049,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:49:41.591Z",
+    "last_updated": "2026-08-27T03:22:54.841Z",
     "original_repository": "sedyh/awesome-ebitengine",
     "original_repository_id": 388439886,
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
