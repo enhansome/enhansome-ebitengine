@@ -4,11 +4,11 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,421 | 🐛 268 | 🌐 Go | 📅 2026-08-26 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,427 | 🐛 274 | 🌐 Go | 📅 2026-08-28 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 987 | 🐛 2 | 📅 2026-08-18 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 987 | 🐛 2 | 📅 2026-08-18; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 986 | 🐛 2 | 📅 2026-08-18 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 986 | 🐛 2 | 📅 2026-08-18; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
@@ -57,7 +57,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Libraries for building GUI Applications*
 
-* [ebitenui](https://github.com/ebitenui/ebitenui) ⭐ 932 | 🐛 74 | 🌐 Go | 📅 2026-08-19 - A user interface engine and widget library for Ebitengine.
+* [ebitenui](https://github.com/ebitenui/ebitenui) ⭐ 933 | 🐛 75 | 🌐 Go | 📅 2026-08-19 - A user interface engine and widget library for Ebitengine.
 * [furex](https://github.com/yohamta/furex) ⭐ 168 | 🐛 8 | 🌐 Go | 📅 2026-07-18 - A simple UI framework with a subset of flexbox layout specification.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) ⭐ 141 | 🐛 6 | 🌐 Go | 📅 2023-10-31 - Dear ImGui renderer for Ebitengine.
 * [ultralight-ebitengine-port](https://github.com/YindSoft/ultralight-ebitengine-port) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-05-11 - Render HTML/CSS/JS interfaces as textures in Ebitengine using Ultralight.
@@ -187,7 +187,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [minesweeper-go](https://github.com/mevdschee/minesweeper.go) ⭐ 46 | 🐛 0 | 🌐 Go | 📅 2024-04-07 - Minesweeper game in Go that can compile to WASM (uses Ebitengine v2).
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - Space invaders game in Go using Ebitengine game engine with ECS.
 * [godanmaku](https://github.com/yohamta/godanmaku) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2022-10-02 - Simple shooting game using Ebitengine and Golang.
-* [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2022-11-17 - A simple breakout game made in Ebitengine.
+* [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) ⭐ 35 | 🐛 0 | 🌐 Go | 📅 2022-11-17 - A simple breakout game made in Ebitengine.
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2023-08-21 - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
 * [bindless](https://github.com/tinne26/bindless) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2022-12-21 - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
 * [decipherism-game](https://github.com/quasilyte/decipherism-game) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2023-02-02 - A puzzle game where you solve the encoding machine ciphers.
@@ -264,4 +264,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
