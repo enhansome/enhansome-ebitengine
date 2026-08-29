@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Finite State Machine for Go",
+            "homepage": null,
             "id": 12272337,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T05:46:29Z",
+            "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3409
+            "stars": 3409,
+            "topics": [
+              "finite-state-machine",
+              "fsm",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -26,12 +35,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just another ECS library for Go/Ebitengine",
+            "homepage": "https://pkg.go.dev/github.com/yohamta/donburi",
             "id": 450453231,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-17T11:41:48Z",
+            "open_issues": 8,
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "ebitengine",
+              "ecs",
+              "entity-component-system",
+              "game-engine",
+              "gamedev"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -42,12 +62,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ark -- Archetype-based Entity Component System (ECS) for Go.",
+            "homepage": "https://mlange-42.github.io/ark/",
             "id": 934973326,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T09:18:39Z",
+            "open_issues": 7,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 296
+            "stars": 297,
+            "topics": [
+              "agent-based-modeling",
+              "ecs",
+              "entity-component-system",
+              "gamedev",
+              "go",
+              "golang",
+              "individual-based-modelling",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -58,12 +92,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and generic ECS implementation in Go",
+            "homepage": null,
             "id": 409979765,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-04T18:43:02Z",
+            "open_issues": 0,
             "owner": "unitoftime",
             "repo": "ecs",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "ecs",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -74,12 +117,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entity Component System framework for Ebitengine",
+            "homepage": null,
             "id": 435265644,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-02T00:32:17Z",
+            "open_issues": 6,
             "owner": "sedyh",
             "repo": "mizu",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "ecs",
+              "engine",
+              "entity-component-system",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -90,12 +149,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.",
+            "homepage": null,
             "id": 515452970,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-01T17:02:05Z",
+            "open_issues": 4,
             "owner": "elgopher",
             "repo": "pi",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "amiga",
+              "ebiten",
+              "ebitengine",
+              "game",
+              "game-development",
+              "game-engine",
+              "game-library",
+              "gamedev",
+              "go",
+              "golang",
+              "pi",
+              "pico-8",
+              "pico8",
+              "picotron",
+              "pixel-perfect",
+              "pyxel",
+              "tic-80"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -106,12 +188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The only scene manager you will ever need for Ebitengine",
+            "homepage": null,
             "id": 634867277,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-11-05T01:02:58Z",
+            "open_issues": 2,
             "owner": "joelschutz",
             "repo": "stagehand",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "ebitengine",
+              "gamedev",
+              "go",
+              "go-game",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -122,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My implementation of Entity Component System in Go/Golang",
+            "homepage": null,
             "id": 450090527,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-12T12:54:11Z",
+            "open_issues": 2,
             "owner": "marioolofo",
             "repo": "go-gameengine-ecs",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -138,12 +236,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Assistance for Ebitengine pixel art games.",
+            "homepage": null,
             "id": 802998282,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-04T17:41:50Z",
+            "open_issues": 0,
             "owner": "tinne26",
             "repo": "mipix",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "ebitengine",
+              "game-development",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -154,12 +261,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Routine is a Go package for running routines, primarily for game development.",
+            "homepage": null,
             "id": 710048947,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-01T16:19:55Z",
+            "open_issues": 0,
             "owner": "SolarLune",
             "repo": "routine",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "coroutine",
+              "ebiten",
+              "events",
+              "gamedev",
+              "golang",
+              "routine",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -170,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 690549828,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T12:55:55Z",
+            "open_issues": 1,
             "owner": "LuigiVanacore",
             "repo": "ludum",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -186,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of the ECS paradigm in Go.",
+            "homepage": null,
             "id": 246151280,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-09T12:00:41Z",
+            "open_issues": 0,
             "owner": "x-hgg-x",
             "repo": "goecs",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -202,12 +332,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The state and stack machine library for the game programming using Ebiten",
+            "homepage": null,
             "id": 485851493,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-13T10:29:45Z",
+            "open_issues": 0,
             "owner": "PenguinCabinet",
             "repo": "pgfsm",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ebiten",
+              "gamedev",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -218,12 +358,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebitengine framework for creating simple grid-based games",
+            "homepage": null,
             "id": 770947691,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-21T13:17:42Z",
+            "open_issues": 1,
             "owner": "greenthepear",
             "repo": "egriden",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "framework",
+              "game",
+              "gameframework",
+              "grid"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -234,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple scene library for Ebitengine",
+            "homepage": null,
             "id": 852809447,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-11T08:20:00Z",
+            "open_issues": 1,
             "owner": "noppikinatta",
             "repo": "bamenn",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -256,12 +413,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User interface engine and widget library for Ebitengine",
+            "homepage": "https://ebitenui.github.io",
             "id": 267666182,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T02:33:24Z",
+            "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 933
+            "stars": 933,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "game",
+              "game-2d",
+              "game-development",
+              "game-library",
+              "go",
+              "golang",
+              "golang-library"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -272,12 +444,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal GUI framework built on top of Ebitengine that provides support for the Flex Layout Algorithm, building UI from HTML, and user interaction components such as buttons.",
+            "homepage": "https://pkg.go.dev/github.com/yohamta/furex/v2",
             "id": 300657568,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-18T04:08:58Z",
+            "open_issues": 8,
             "owner": "yohamta0",
             "repo": "furex-ui",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "ebitengine",
+              "flex",
+              "flexbox",
+              "flexbox-layout",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -288,12 +471,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dear ImGui renderer for Ebitengine",
+            "homepage": null,
             "id": 278199411,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-31T22:25:47Z",
+            "open_issues": 6,
             "owner": "gabstv",
             "repo": "ebiten-imgui",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "imgui"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -304,12 +498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embed HTML5 UI in Ebitengine games via Ultralight 1.4. Transparent overlays, bidirectional Go↔JS communication, multiple views, mouse/keyboard input. No CGo — works on Windows, Linux, and macOS.",
+            "homepage": null,
             "id": 1161438746,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-11T22:51:23Z",
+            "open_issues": 0,
             "owner": "YindSoft",
             "repo": "ultralight-ebitengine-port",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -326,12 +525,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for playing with colors in go (golang).",
+            "homepage": null,
             "id": 8286279,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-02T09:05:14Z",
+            "open_issues": 8,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1254
+            "stars": 1254,
+            "topics": [
+              "cie-spaces",
+              "colorspace",
+              "compare-colors",
+              "go",
+              "hcl",
+              "palette",
+              "rgb-color",
+              "rgb-space"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -342,12 +555,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tetra3D is a 3D hybrid software/hardware renderer made for games written in Go with Ebitengine.",
+            "homepage": null,
             "id": 424376048,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T00:45:23Z",
+            "open_issues": 4,
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "blender",
+              "ebiten-framework",
+              "ebitengine",
+              "gamedev",
+              "games",
+              "golang",
+              "hardware",
+              "hybrid",
+              "renderer",
+              "software"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -358,12 +589,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go (Golang) color scales library for maps, charts, data-visualization & creative coding.",
+            "homepage": null,
             "id": 282250117,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-16T08:47:45Z",
+            "open_issues": 0,
             "owner": "mazznoer",
             "repo": "colorgrad",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "color",
+              "color-scales",
+              "colormap",
+              "data-visualization",
+              "gradient",
+              "visual-encoding",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -374,12 +618,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang raycaster engine using the Ebitengine 2D Game Library",
+            "homepage": null,
             "id": 178705137,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-07T01:37:42Z",
+            "open_issues": 0,
             "owner": "harbdog",
             "repo": "raycaster-go",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "fps-engine-classic",
+              "game-development",
+              "golang",
+              "golang-module",
+              "raycaster",
+              "raycaster-engine"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -390,12 +646,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tween animation library for go with a simple interface.",
+            "homepage": null,
             "id": 107211877,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-22T03:52:25Z",
+            "open_issues": 1,
             "owner": "tanema",
             "repo": "gween",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "easing-functions",
+              "golang",
+              "golang-library",
+              "tween",
+              "tweening"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -406,12 +673,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sprite animation library for Ebitengine inspired by anim8",
+            "homepage": null,
             "id": 418170330,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T01:24:19Z",
+            "open_issues": 0,
             "owner": "yohamta0",
             "repo": "ganim8-lib",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "ebitengine",
+              "sprite-animation"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -422,12 +697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aseprite JSON loader for Go (Golang)",
+            "homepage": null,
             "id": 104181916,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-28T21:52:59Z",
+            "open_issues": 0,
             "owner": "SolarLune",
             "repo": "goaseprite",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -438,12 +718,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text rendering package for Ebitengine.",
+            "homepage": null,
             "id": 476890794,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-19T13:24:09Z",
+            "open_issues": 1,
             "owner": "tinne26",
             "repo": "etxt",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "ebitengine",
+              "font",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -454,12 +743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package bitmapfont offers a font.Face value of some bitmap fonts",
+            "homepage": null,
             "id": 145295722,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T09:46:37Z",
+            "open_issues": 3,
             "owner": "hajimehoshi",
             "repo": "bitmapfont",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -470,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Live2D Cubism SDK for Golang",
+            "homepage": null,
             "id": 738800593,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-02-04T15:22:16Z",
+            "open_issues": 12,
             "owner": "aethiopicuschan",
             "repo": "cubism-go",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -486,12 +785,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aseprite image loader for Go.",
+            "homepage": null,
             "id": 533718552,
             "language": "Go",
+            "license": "ISC",
             "last_commit": "2026-01-12T07:51:23Z",
+            "open_issues": 3,
             "owner": "askeladdk",
             "repo": "aseprite",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "aseprite",
+              "ebiten",
+              "ebitengine",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -502,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canvas for Ebitengine™: vector graphics for game development",
+            "homepage": "https://ebiten.org",
             "id": 462420626,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-06-26T16:50:35Z",
+            "open_issues": 4,
             "owner": "eihigh",
             "repo": "canvas",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -518,12 +833,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package implementing Graphics primitives for gscene package",
+            "homepage": null,
             "id": 752590158,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-17T21:12:19Z",
+            "open_issues": 2,
             "owner": "quasilyte",
             "repo": "ebitengine-graphics",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "golang",
+              "graphics",
+              "gscene",
+              "library",
+              "primitives",
+              "rendering",
+              "shapes",
+              "sprite",
+              "text"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -534,12 +868,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animation player for Ebitengine v2",
+            "homepage": "https://pkg.go.dev/github.com/setanarut/anim",
             "id": 860599228,
             "language": "Go",
+            "license": "CC0-1.0",
             "last_commit": "2025-03-16T04:32:43Z",
+            "open_issues": 0,
             "owner": "setanarut",
             "repo": "anim",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "2d-animation",
+              "ebiten-game-library",
+              "ebitengine",
+              "sprite-animation"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -550,12 +894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic shapes and effects for Ebitengine",
+            "homepage": null,
             "id": 967541120,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-17T22:35:42Z",
+            "open_issues": 3,
             "owner": "bstkhq",
             "repo": "go-shapes",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -566,12 +915,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A display tree 2D rendering framework for Go (Golang), inspired by Pixi and Starling, built on top of the Ebitengine.",
+            "homepage": "https://www.devthicket.org/willow",
             "id": 1183700077,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-20T19:31:54Z",
+            "open_issues": 0,
             "owner": "devthicket",
             "repo": "willow",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "camera",
+              "display-graph",
+              "display-list",
+              "display-tree",
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "golang",
+              "golang-library",
+              "scene-graph"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -582,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bitmap font for Go, made with bitfontier",
+            "homepage": null,
             "id": 783609904,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-01T11:23:21Z",
+            "open_issues": 0,
             "owner": "quasilyte",
             "repo": "bitsweetfont",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -598,12 +969,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aseprite file parser/decoder in Go",
+            "homepage": "https://pkg.go.dev/github.com/setanarut/aseprite",
             "id": 1152470901,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-16T22:09:41Z",
+            "open_issues": 0,
             "owner": "setanarut",
             "repo": "aseprite",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ase",
+              "aseprite",
+              "decoder",
+              "ebitengine",
+              "game",
+              "gamedev",
+              "go",
+              "golang",
+              "loader",
+              "parser",
+              "parser-library",
+              "pixel-game-engine"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -614,12 +1003,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aseprite animation player for Ebitengine",
+            "homepage": "https://pkg.go.dev/github.com/setanarut/aseplayer",
             "id": 1129955774,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-12T21:32:15Z",
+            "open_issues": 0,
             "owner": "setanarut",
             "repo": "aseplayer",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "2d-graphics",
+              "ase",
+              "aseprite",
+              "decoder",
+              "ebiten",
+              "ebitengine",
+              "go",
+              "golang",
+              "parser",
+              "player",
+              "sprite-animation"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -636,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MPEG-1 Video decoder, MP2 Audio decoder and MPEG-PS Demuxer in pure Go",
+            "homepage": null,
             "id": 556299931,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-26T05:46:09Z",
+            "open_issues": 0,
             "owner": "gen2brain",
             "repo": "mpeg",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -652,12 +1063,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple library to extract video and audio frames from media containers (based on libav).",
+            "homepage": null,
             "id": 399644786,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-27T01:42:50Z",
+            "open_issues": 9,
             "owner": "zergon321",
             "repo": "reisen",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "audio",
+              "avcodec",
+              "avformat",
+              "avutil",
+              "decoding",
+              "ffmpeg",
+              "ffmpeg-wrapper",
+              "frame",
+              "golang",
+              "golang-library",
+              "golang-package",
+              "image",
+              "libav",
+              "libavcodec",
+              "libavutil",
+              "rgba",
+              "sample",
+              "samples",
+              "sws",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -674,12 +1111,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resound is a library for applying sound effects to Ebitengine games and controlling sound playback easily.",
+            "homepage": null,
             "id": 529067052,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-17T00:54:16Z",
+            "open_issues": 2,
             "owner": "SolarLune",
             "repo": "resound",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "audio",
+              "ebitengine",
+              "effects",
+              "golang",
+              "music",
+              "sfx",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -690,12 +1140,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XM package provides Ebitengine-compatible mod music decoder",
+            "homepage": null,
             "id": 707116408,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-05T07:10:56Z",
+            "open_issues": 2,
             "owner": "quasilyte",
             "repo": "xm",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "audio",
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "golang",
+              "music",
+              "parser",
+              "pcm",
+              "player",
+              "stream",
+              "xm",
+              "xm-files"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -712,12 +1181,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Simple 2D Golang collision detection and resolution library for games",
+            "homepage": null,
             "id": 148888218,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-19T17:00:18Z",
+            "open_issues": 7,
             "owner": "SolarLune",
             "repo": "resolv",
-            "stars": 531
+            "stars": 531,
+            "topics": [
+              "bump",
+              "check",
+              "collision",
+              "game-development",
+              "gamedev",
+              "golang",
+              "movement",
+              "resolv",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -728,12 +1212,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pure Go physics library with no dependencies. Unofficial Chipmunk2D port.",
+            "homepage": "https://chipmunk-physics.net",
             "id": 99392487,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-26T01:17:07Z",
+            "open_issues": 2,
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "chipmunk2d",
+              "physics",
+              "physics-2d"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -744,12 +1237,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Physics engine in GoLang",
+            "homepage": null,
             "id": 766905989,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-21T11:49:13Z",
+            "open_issues": 5,
             "owner": "rudransh61",
             "repo": "Physix-go",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "2d",
+              "2d-graphics",
+              "collision",
+              "freedevs",
+              "game",
+              "gamedev",
+              "games",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "movement",
+              "physics",
+              "physics-2d",
+              "physics-engine"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -760,12 +1273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang port of erin catto's great box2d (v3) physic engine",
+            "homepage": null,
             "id": 1041619162,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-09-16T12:13:01Z",
+            "open_issues": 1,
             "owner": "oliverbestmann",
             "repo": "box2d-go",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -776,12 +1294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go port of Box2D - a 2D Physics Engine for Games.",
+            "homepage": null,
             "id": 475023978,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-15T22:40:03Z",
+            "open_issues": 0,
             "owner": "Alexander-r",
             "repo": "box2d",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -792,12 +1315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small demo of using physac 2d physics engine in golang",
+            "homepage": "https://koteyur.github.io/physac-go/",
             "id": 436442639,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-01-04T02:58:39Z",
+            "open_issues": 0,
             "owner": "koteyur",
             "repo": "physac-go",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -808,12 +1336,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2d collision library for Go",
+            "homepage": "https://pkg.go.dev/github.com/setanarut/coll",
             "id": 933871027,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-05T18:32:37Z",
+            "open_issues": 0,
             "owner": "setanarut",
             "repo": "coll",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "2d-collision",
+              "2d-collision-checker",
+              "2d-collision-library",
+              "aabb",
+              "axis-aligned-bounding-box",
+              "collision-detection",
+              "collision-resolution",
+              "dda-algorithm",
+              "ebiten",
+              "ebitengine",
+              "game-development",
+              "go",
+              "golang",
+              "golang-package",
+              "intersection",
+              "sat-solver",
+              "sweep-line",
+              "sweep-line-algorithm",
+              "tilemap-collision"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -830,12 +1383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go implementation of the A* search algorithm",
+            "homepage": null,
             "id": 20241916,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-01-27T15:08:37Z",
+            "open_issues": 3,
             "owner": "beefsack",
             "repo": "go-astar",
-            "stars": 629
+            "stars": 629,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -846,12 +1404,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go library to parse Tiled map editor file format (TMX) and render map to image",
+            "homepage": null,
             "id": 80017307,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T15:10:05Z",
+            "open_issues": 3,
             "owner": "lafriks",
             "repo": "go-tiled",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "go",
+              "golang",
+              "hacktoberfest",
+              "rendering-2d-graphics",
+              "tmx"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -862,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Golang library for random map generation for games.",
+            "homepage": null,
             "id": 156150040,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-24T22:42:03Z",
+            "open_issues": 5,
             "owner": "SolarLune",
             "repo": "dngn",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -878,12 +1452,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very fast & zero-allocation, grid-based, pathfinding library for Go.",
+            "homepage": null,
             "id": 691906995,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-12T09:01:29Z",
+            "open_issues": 0,
             "owner": "quasilyte",
             "repo": "pathing",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "a-star",
+              "ebiten",
+              "ebitengine",
+              "game-development",
+              "gamedev",
+              "go",
+              "golang",
+              "greedy-bfs",
+              "library",
+              "pathfinding",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -894,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LDtk-Go is a loader for LDtk projects written in Golang.",
+            "homepage": null,
             "id": 319748360,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-08-21T15:23:15Z",
+            "open_issues": 3,
             "owner": "SolarLune",
             "repo": "ldtkgo",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -910,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "paths is a pathfinding library written in Golang for use with games.",
+            "homepage": null,
             "id": 158954550,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-11-14T19:20:52Z",
+            "open_issues": 4,
             "owner": "SolarLune",
             "repo": "paths",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -926,12 +1527,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Camera package for Ebitengine v2",
+            "homepage": null,
             "id": 735965012,
             "language": "Go",
+            "license": "CC0-1.0",
             "last_commit": "2026-02-15T02:07:14Z",
+            "open_issues": 0,
             "owner": "setanarut",
             "repo": "kamera",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "2d-camera",
+              "camera-shake",
+              "ebiten",
+              "ebiten-game-library",
+              "ebitengine",
+              "go",
+              "go-game-engine",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -942,12 +1557,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple camera for ebiten",
+            "homepage": null,
             "id": 409739064,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-23T21:10:18Z",
+            "open_issues": 0,
             "owner": "MelonFunction",
             "repo": "ebiten-camera",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "ebiten",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -958,12 +1582,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic 2D grid",
+            "homepage": null,
             "id": 570609529,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-09T00:32:40Z",
+            "open_issues": 0,
             "owner": "s0rg",
             "repo": "grid",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "2d-game-library",
+              "astar-algorithm",
+              "bresenham-algorithm",
+              "dda-algorithm",
+              "dejkstra",
+              "generic",
+              "golang",
+              "golang-package",
+              "roguelike-library",
+              "shadowcasting"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -980,12 +1620,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gamedata package that provides convenient cross-platform storage for games",
+            "homepage": null,
             "id": 714367711,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-19T08:59:17Z",
+            "open_issues": 0,
             "owner": "quasilyte",
             "repo": "gdata",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -996,12 +1647,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource manager for Ebitengine",
+            "homepage": null,
             "id": 595189236,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-06T14:39:21Z",
+            "open_issues": 3,
             "owner": "quasilyte",
             "repo": "ebitengine-resource",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "golang",
+              "loader",
+              "resource-loader",
+              "resource-manager",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1018,12 +1684,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast script language for Go",
+            "homepage": "https://tengolang.com",
             "id": 164809872,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-29T08:48:00Z",
+            "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3831
+            "stars": 3831,
+            "topics": [
+              "compiler",
+              "embedded-language",
+              "go",
+              "golang",
+              "programming-language",
+              "script",
+              "tengo",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1034,12 +1714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lua VM in Go",
+            "homepage": null,
             "id": 15344288,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-07-18T18:33:21Z",
+            "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3451
+            "stars": 3451,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1050,12 +1735,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world’s most powerful template engine and Go embeddable interpreter",
+            "homepage": "https://scriggo.com",
             "id": 170464043,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-15T13:21:08Z",
+            "open_issues": 104,
             "owner": "open2b",
             "repo": "scriggo",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "cross-platform",
+              "embedded",
+              "go",
+              "interpreter",
+              "language",
+              "template",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1072,12 +1770,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A crypto-secure Reliable-UDP library for Golang with FEC support.",
+            "homepage": null,
             "id": 37511821,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-15T06:23:56Z",
+            "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4550
+            "stars": 4550,
+            "topics": [
+              "automatic-repeat-request",
+              "forward-error-correction",
+              "kcp",
+              "reed-solomon-codes",
+              "reliable-udp-library",
+              "symmetric-key-cryptography"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1088,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enet bindings for Go using cgo.",
+            "homepage": null,
             "id": 284466884,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-07-28T07:26:47Z",
+            "open_issues": 1,
             "owner": "codecat",
             "repo": "go-enet",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1104,12 +1819,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Networked Entity Component System; a networking layer for donburi",
+            "homepage": "https://leap.fish",
             "id": 779987272,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-25T12:45:28Z",
+            "open_issues": 1,
             "owner": "leap-fish",
             "repo": "necs",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "donburi",
+              "ebitengine",
+              "ecs",
+              "golang",
+              "multiplayer"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1126,12 +1852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Steamworks SDK binding for Go",
+            "homepage": null,
             "id": 400825870,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T14:09:40Z",
+            "open_issues": 4,
             "owner": "hajimehoshi",
             "repo": "go-steamworks",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1142,12 +1873,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Discord Rich Presence for Ebitengine",
+            "homepage": null,
             "id": 515844746,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-04T15:29:36Z",
+            "open_issues": 0,
             "owner": "EldersJavas",
             "repo": "ebitengine-discord-rpc",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "discord",
+              "ebiten",
+              "ebitengine",
+              "game",
+              "rpc"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1164,12 +1906,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS) ",
+            "homepage": "https://golang.design/x/clipboard",
             "id": 314230339,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:59:10Z",
+            "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 852
+            "stars": 855,
+            "topics": [
+              "android",
+              "clipboard",
+              "clipboard-library",
+              "cross-platform",
+              "go",
+              "golang",
+              "ios",
+              "linux",
+              "macos",
+              "nspasteboard",
+              "windows",
+              "x11"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1180,12 +1940,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Godot-inspired action input handling system for Ebitengine",
+            "homepage": null,
             "id": 559195240,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-16T17:59:12Z",
+            "open_issues": 14,
             "owner": "quasilyte",
             "repo": "ebitengine-input",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "gamepad",
+              "go",
+              "golang",
+              "user-input"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1202,12 +1975,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source re-implementation of Diablo 2",
+            "homepage": "https://opendiablo2.com/",
             "id": 158645957,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-21T13:18:36Z",
+            "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11084
+            "stars": 11084,
+            "topics": [
+              "2d",
+              "arpg",
+              "diablo",
+              "diablo2",
+              "engine",
+              "game",
+              "game-engine",
+              "games",
+              "go",
+              "golang",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1218,12 +2008,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is my OLD and BAD GameBoy Emulator, please visit DawnGB, my new GameBoy emulator!",
+            "homepage": "https://github.com/akatsuki105/dawngb",
             "id": 220931544,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-12T08:49:05Z",
+            "open_issues": 9,
             "owner": "akatsuki105",
             "repo": "worldwide",
-            "stars": 590
+            "stars": 590,
+            "topics": [
+              "emulation",
+              "emulator",
+              "gameboy",
+              "gameboy-color",
+              "gameboy-emulator",
+              "gbc",
+              "gbc-emulator",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1234,12 +2039,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An indirect control real-time strategy game about robot colonies",
+            "homepage": "https://store.steampowered.com/app/2416030/Roboden/",
             "id": 599001957,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-02T17:35:02Z",
+            "open_issues": 8,
             "owner": "quasilyte",
             "repo": "roboden-game",
-            "stars": 487
+            "stars": 488,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "game",
+              "gamedev",
+              "go",
+              "golang",
+              "roboden"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1250,12 +2068,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nonlinear 2D puzzle platformer taking place in impossible spaces.",
+            "homepage": null,
             "id": 324191722,
             "language": "Go",
-            "last_commit": "2026-08-27T22:33:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:36:27Z",
+            "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "2d",
+              "game",
+              "game-development",
+              "impossible-spaces",
+              "jumpnrun",
+              "non-euclidean",
+              "puzzle",
+              "puzzle-game"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1266,12 +2098,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go port of Inovation 2007 by Omega",
+            "homepage": "http://hajimehoshi.github.io/go-inovation/",
             "id": 36880233,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-25T06:14:34Z",
+            "open_issues": 2,
             "owner": "hajimehoshi",
             "repo": "go-inovation",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "game",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1282,12 +2123,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arkanoid game in Go using Ebitengine with ECS.",
+            "homepage": null,
             "id": 241423940,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-07T17:55:15Z",
+            "open_issues": 0,
             "owner": "x-hgg-x",
             "repo": "arkanoid-go",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1298,12 +2144,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Polymorphic Solitaire Game in Go + Ebiten",
+            "homepage": null,
             "id": 439084094,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-03-18T15:00:11Z",
+            "open_issues": 5,
             "owner": "oddstream",
             "repo": "gosol",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "card",
+              "card-game-engine",
+              "ebiten",
+              "freecell",
+              "game",
+              "golang",
+              "klondike",
+              "solitaire"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1314,12 +2174,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "💀 💀 💀 s k u l l s 💀 💀 💀",
+            "homepage": null,
             "id": 345267534,
             "language": "Go",
+            "license": "GPL-2.0",
             "last_commit": "2021-07-24T16:00:29Z",
+            "open_issues": 0,
             "owner": "rootVIII",
             "repo": "skulls",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "2d-game",
+              "android",
+              "ebiten",
+              "golang",
+              "gomobile"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1330,12 +2201,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minesweeper game in Go that can compile to WASM (uses ebiten v2) ",
+            "homepage": null,
             "id": 334508607,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-07T20:12:08Z",
+            "open_issues": 0,
             "owner": "mevdschee",
             "repo": "ebiten-mines",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "2d-game",
+              "ebiten",
+              "golang-game",
+              "minesweeper",
+              "wasm-game",
+              "web-game"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1346,12 +2229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Space invaders game in Go using Ebitengine with ECS.",
+            "homepage": null,
             "id": 251601258,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-08T04:58:04Z",
+            "open_issues": 0,
             "owner": "x-hgg-x",
             "repo": "space-invaders-go",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1362,12 +2250,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple shooting game using ebitengine and golang",
+            "homepage": null,
             "id": 286696604,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-10-02T08:26:28Z",
+            "open_issues": 0,
             "owner": "yohamta0",
             "repo": "go-danmaku",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "ebiten",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1378,12 +2274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple breakout game made in Ebiten",
+            "homepage": null,
             "id": 437695604,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-17T10:07:20Z",
+            "open_issues": 0,
             "owner": "eliasdaler",
             "repo": "ebiten_breakout",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1394,12 +2295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My old Flash game rewritten in Go using the Ebiten library",
+            "homepage": null,
             "id": 318938814,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-21T19:09:47Z",
+            "open_issues": 0,
             "owner": "TheTophatDemon",
             "repo": "Feta-Feles-Rebirth",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1410,12 +2316,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Puzzles in a magnetic world for Ebitengine's first game jam (2022).",
+            "homepage": null,
             "id": 508464467,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-12-21T15:42:39Z",
+            "open_issues": 0,
             "owner": "tinne26",
             "repo": "bindless",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "ebitengine",
+              "game",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1426,12 +2341,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A puzzle game where you solve the encoding machine ciphers",
+            "homepage": "https://quasilyte.itch.io/decipherism",
             "id": 570919872,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-02-02T18:04:40Z",
+            "open_issues": 0,
             "owner": "quasilyte",
             "repo": "decipherism-game",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "game",
+              "go",
+              "golang",
+              "puzzle"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1442,12 +2369,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create music by the power of math!",
+            "homepage": "https://quasilyte.itch.io/sinecord",
             "id": 654011405,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-09T10:32:13Z",
+            "open_issues": 0,
             "owner": "quasilyte",
             "repo": "sinecord",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "ebiten",
+              "ebitengine",
+              "game",
+              "gamejam",
+              "go",
+              "golang",
+              "indiegame",
+              "math",
+              "midi",
+              "music",
+              "synthesizer"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1458,12 +2402,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clone of the classic arcade game Battle City (NES, 1985), built with Go.",
+            "homepage": "https://shpaker.github.io/tnk9x/",
             "id": 1073723765,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-04T06:45:53Z",
+            "open_issues": 0,
             "owner": "shpaker",
             "repo": "tnk9x",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "battlecity",
+              "ebiten",
+              "ebitengine"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1474,12 +2427,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple moonlander like game with some new mechanics",
+            "homepage": null,
             "id": 407800430,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-10-21T07:23:40Z",
+            "open_issues": 3,
             "owner": "spiritofsim",
             "repo": "go-space-crane",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "box2d",
+              "ebiten",
+              "game",
+              "gamedev",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1490,12 +2454,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Follow a dog through a post-apocalytpic wasteland full of zombies 🐕 Entry for the 2022 Game Off jam",
+            "homepage": null,
             "id": 561064434,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-24T07:25:55Z",
+            "open_issues": 4,
             "owner": "sionleroux",
             "repo": "escort-mission",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ebitengine",
+              "game",
+              "game-development",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1506,12 +2481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple game inspired by Battle City",
+            "homepage": null,
             "id": 720198724,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-13T15:24:12Z",
+            "open_issues": 0,
             "owner": "DTLP",
             "repo": "mini_tanks",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1522,12 +2502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sokoban game in Go using Ebitengine with ECS.",
+            "homepage": null,
             "id": 256604603,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-08T04:57:59Z",
+            "open_issues": 0,
             "owner": "x-hgg-x",
             "repo": "sokoban-go",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1538,12 +2523,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 2D real-time strategy game made for a GMTK2023 game jam",
+            "homepage": "https://quasilyte.itch.io/assemblox",
             "id": 663547706,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-18T09:03:05Z",
+            "open_issues": 1,
             "owner": "quasilyte",
             "repo": "gmtk2023",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "2d",
+              "ebiten",
+              "ebitengine",
+              "game",
+              "gmtk",
+              "gmtk-2023",
+              "indiegame",
+              "pixel-art",
+              "rts",
+              "strategy",
+              "strategy-game"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1554,12 +2556,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebitengine Game Jam 2022",
+            "homepage": null,
             "id": 503650711,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-20T07:02:27Z",
+            "open_issues": 7,
             "owner": "ketMix",
             "repo": "magnet",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "co-op",
+              "ebitengine",
+              "game",
+              "gamejam-2022",
+              "multiplayer",
+              "nat-traversal",
+              "networked",
+              "tower-defense",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1570,12 +2587,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "コミック「ねこむすめ道草日記」の同人ゲーム「黒菜んダッシュ」 :dash:",
+            "homepage": "https://kemokemo.github.io/kuronan-dash/",
             "id": 93977010,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T16:24:04Z",
+            "open_issues": 2,
             "owner": "kemokemo",
             "repo": "kuronan-dash",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cross-platform",
+              "ebiten",
+              "ebitengine",
+              "game",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1586,12 +2615,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebitengine Game Jam 2023",
+            "homepage": null,
             "id": 654024087,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-11T23:18:04Z",
+            "open_issues": 0,
             "owner": "ketMix",
             "repo": "retromancer",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "2d-game",
+              "adventure",
+              "bullet-hell",
+              "co-op",
+              "ebitengine",
+              "game",
+              "puzzle"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1602,12 +2644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 654310667,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-06-29T02:36:29Z",
+            "open_issues": 0,
             "owner": "Critters",
             "repo": "TETRIVERSE",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1618,12 +2665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebitengine Game Jam 2023",
+            "homepage": null,
             "id": 658881360,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-26T18:46:17Z",
+            "open_issues": 0,
             "owner": "hajimehoshi",
             "repo": "ebitenginegamejam2023",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1634,12 +2686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebitengine game jam entry",
+            "homepage": null,
             "id": 503902161,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-06-28T22:07:20Z",
+            "open_issues": 0,
             "owner": "Zyko0",
             "repo": "Magnet",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1650,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A remake of an 80's card game classic \"Around the World\" (pt-br: \"Volta ao Mundo\")",
+            "homepage": null,
             "id": 415976449,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-19T21:42:58Z",
+            "open_issues": 0,
             "owner": "danicat",
             "repo": "travel-game",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1666,12 +2728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tetris clone in golang using ebitengine",
+            "homepage": null,
             "id": 503744245,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-06-18T18:11:40Z",
+            "open_issues": 0,
             "owner": "luisparravicini",
             "repo": "gtris",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1682,12 +2749,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "There is more than 1 bug in this game and some of them are intentional! 🦗 Entry for the 2021 Game Off jam.",
+            "homepage": "https://sinisterstuf.itch.io/cr1ckt",
             "id": 424040741,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-06T08:27:09Z",
+            "open_issues": 16,
             "owner": "sionleroux",
             "repo": "cr1ckt",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ebiten",
+              "game",
+              "platformer"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1698,12 +2774,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The classic Snake game written in Go. Using Ebitengine",
+            "homepage": null,
             "id": 981709534,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-07-15T10:53:32Z",
+            "open_issues": 0,
             "owner": "fancellu",
             "repo": "snake-ebitengine",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ebitengine",
+              "golang",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1714,12 +2799,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An action game built with Ebitengine",
+            "homepage": "https://yohamta.itch.io/revdriller",
             "id": 656588607,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-06-25T05:28:55Z",
+            "open_issues": 1,
             "owner": "yohamta0",
             "repo": "revdriller",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ebitengine",
+              "ecs"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1730,12 +2823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bug。",
+            "homepage": null,
             "id": 423958144,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-01-04T22:06:00Z",
+            "open_issues": 3,
             "owner": "Zyko0",
             "repo": "GameOff2021",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1746,12 +2844,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make the old-time classic game 'pong' using Go & Ebitenengine",
+            "homepage": "https://drpaneas.github.io/pong/",
             "id": 38077997,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-03-30T16:22:32Z",
+            "open_issues": 1,
             "owner": "drpaneas",
             "repo": "pong",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "game"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1762,12 +2867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 654124122,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-05-29T10:20:56Z",
+            "open_issues": 0,
             "owner": "hinst",
             "repo": "red-cat-run-2d",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1778,12 +2888,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiplayer game for Ebiten gamejam 2023",
+            "homepage": null,
             "id": 659035849,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-13T21:43:08Z",
+            "open_issues": 0,
             "owner": "nmorenor",
             "repo": "amaru",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ebitengine",
+              "game",
+              "gamejam-2023",
+              "golang",
+              "multiplayer"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1794,12 +2915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ebiten Game Jam 2023 entry",
+            "homepage": null,
             "id": 659938164,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-07-02T14:11:19Z",
+            "open_issues": 0,
             "owner": "sjpau",
             "repo": "passage",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1810,12 +2936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strategy game for Ebitengine jam 2023",
+            "homepage": null,
             "id": 659648647,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-06-29T05:33:49Z",
+            "open_issues": 0,
             "owner": "PrizeLobby",
             "repo": "reverset-raiders",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1826,12 +2957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entry for Global Game Jam 2021 - using the Marv300 fantasy console (unreleased)",
+            "homepage": null,
             "id": 334693397,
             "language": "Go",
+            "license": null,
             "last_commit": "2021-01-31T16:23:22Z",
+            "open_issues": 0,
             "owner": "TheMightyGit",
             "repo": "losttheplot-ggj21",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1842,12 +2978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "minimalist and relaxing puzzle game",
+            "homepage": null,
             "id": 1063717170,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-10-06T01:06:47Z",
+            "open_issues": 0,
             "owner": "Akitsutori",
             "repo": "Zengo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1864,12 +3005,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simulation of protozoan behavior and evolution",
+            "homepage": null,
             "id": 80924593,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-05-20T06:06:04Z",
+            "open_issues": 0,
             "owner": "Zebbeni",
             "repo": "protozoa",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "bacteria",
+              "decision-tree",
+              "decision-trees",
+              "ebiten",
+              "ebitengine",
+              "evolution",
+              "golang",
+              "protozoa",
+              "protozoans",
+              "simulation",
+              "simulations"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1880,12 +3038,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toy raycasting engine in Go + Ebiten",
+            "homepage": null,
             "id": 298360125,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-01-22T09:55:36Z",
+            "open_issues": 0,
             "owner": "Myu-Unix",
             "repo": "ray_engine",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "3d",
+              "ebiten",
+              "ebiten-framework",
+              "ebiten-game-library",
+              "engine",
+              "game-engine",
+              "go",
+              "golang",
+              "prototype",
+              "raycaster",
+              "raycasting"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1896,12 +3071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A genetic simulator written in Go",
+            "homepage": null,
             "id": 432265858,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-23T22:39:24Z",
+            "open_issues": 0,
             "owner": "alexanderscrimgeour",
             "repo": "biogo",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1912,12 +3092,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments with ebiten - Doomfire",
+            "homepage": null,
             "id": 197468201,
             "language": "Go",
+            "license": "ISC",
             "last_commit": "2025-10-21T20:11:44Z",
+            "open_issues": 2,
             "owner": "dim13",
             "repo": "fire",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "doomfire",
+              "ebiten",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1928,12 +3117,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple example for a hexboard with ebitengine",
+            "homepage": null,
             "id": 778289554,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-05-07T16:50:53Z",
+            "open_issues": 0,
             "owner": "ConValance",
             "repo": "ebitengine-hexboard",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ebitengine",
+              "go",
+              "hexagonal",
+              "pathfinding"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1944,12 +3143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bouncing balls demo (using Ebiten)",
+            "homepage": null,
             "id": 722883150,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-25T18:12:32Z",
+            "open_issues": 0,
             "owner": "icza",
             "repo": "balls-ebiten",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1960,12 +3164,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ports of The Nature of Code examples to Go using the Ebitengine game engine.",
+            "homepage": null,
             "id": 1022692643,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-07T14:17:16Z",
+            "open_issues": 0,
             "owner": "philyawj",
             "repo": "nature-of-code-ebiten",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "creative-coding",
+              "ebiten",
+              "ebitengine",
+              "go",
+              "golang",
+              "nature-of-code",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -1982,12 +3199,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers. ",
+            "homepage": null,
             "id": 153431471,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-19T20:26:56Z",
+            "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3083
+            "stars": 3083,
+            "topics": [
+              "golang",
+              "opengl",
+              "terminal",
+              "terminal-emulator",
+              "terminal-emulators",
+              "vt100",
+              "xterm",
+              "xterm-256color"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1998,12 +3229,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform cursor-chasing cat, a Go reimplementation of the X11 classic",
+            "homepage": null,
             "id": 407919887,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-22T21:32:39Z",
+            "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 630
+            "stars": 630,
+            "topics": [
+              "cat",
+              "ebitengine",
+              "go",
+              "golang",
+              "neko",
+              "retro"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2014,12 +3257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HTTP server for testing Wasm",
+            "homepage": null,
             "id": 140020861,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-02T19:58:48Z",
+            "open_issues": 1,
             "owner": "hajimehoshi",
             "repo": "wasmserve",
-            "stars": 292
+            "stars": 292,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2030,12 +3278,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 2D wind tunnel for aeromodelers and anyone who likes watching air misbehave",
+            "homepage": "https://crgimenes.github.io/kutta/",
             "id": 1287173180,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-20T10:44:51Z",
+            "open_issues": 2,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "aerodynamics",
+              "aeromodelling",
+              "airfoil",
+              "ebitengine",
+              "educational",
+              "fluid-simulation",
+              "go",
+              "golang",
+              "lattice-boltzmann",
+              "simulation",
+              "visualization",
+              "wind-tunnel"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2046,12 +3312,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for creating generative art in Go",
+            "homepage": null,
             "id": 456231583,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T16:00:41Z",
+            "open_issues": 0,
             "owner": "aldernero",
             "repo": "sketchy",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "creative-coding",
+              "ebiten",
+              "generative",
+              "generative-art",
+              "generative-design",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2062,12 +3340,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of a popular graphics benchmark written on Ebitengine.",
+            "homepage": null,
             "id": 441235896,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-22T18:12:22Z",
+            "open_issues": 2,
             "owner": "sedyh",
             "repo": "ebitengine-bunny-mark",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "benchmark",
+              "bunnymark",
+              "ebiten",
+              "ebitengine",
+              "game-development",
+              "gamedev",
+              "go",
+              "golang",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2078,12 +3371,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Viewer for shaders written in Kage, similar to glslviewer",
+            "homepage": null,
             "id": 777135546,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-26T19:58:44Z",
+            "open_issues": 0,
             "owner": "TLINDEN",
             "repo": "kageviewer",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "command-line",
+              "ebitengine",
+              "game-development",
+              "golang",
+              "kage",
+              "shader",
+              "shell",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2094,12 +3401,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for testing Kage shaders",
+            "homepage": null,
             "id": 717107832,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-06-03T18:19:37Z",
+            "open_issues": 0,
             "owner": "SladkyCitron",
             "repo": "kagei",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cli",
+              "cli-app",
+              "cli-tool",
+              "ebiten",
+              "ebitengine",
+              "glsl",
+              "go",
+              "golang",
+              "kage",
+              "shader",
+              "shaders"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2110,12 +3434,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View and tweak shaders made with Kage for Ebiten",
+            "homepage": null,
             "id": 1224533961,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-15T16:11:33Z",
+            "open_issues": 2,
             "owner": "Tsukumogami-Software",
             "repo": "luluka",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ebitengine",
+              "kage",
+              "shaders"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2126,12 +3459,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang Turtle Graphics System",
+            "homepage": null,
             "id": 807853974,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-27T17:24:54Z",
+            "open_issues": 0,
             "owner": "gary23b",
             "repo": "turtle",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "go",
+              "golang",
+              "learn-to-code",
+              "turtle",
+              "turtle-graphics"
+            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -2144,12 +3488,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "You know Ebitengine but not Kage?!",
+                "homepage": null,
                 "id": 581333856,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-03-12T12:19:50Z",
+                "open_issues": 0,
                 "owner": "tinne26",
                 "repo": "kage-desk",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "ebitengine",
+                  "kage",
+                  "shaders"
+                ]
               },
               "first_seen": "2026-08-28T06:11:01.315Z"
             },
@@ -2160,12 +3513,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TPS vs FPS explained for Ebitengine users.",
+                "homepage": null,
                 "id": 481301788,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-31T15:05:43Z",
+                "open_issues": 1,
                 "owner": "tinne26",
                 "repo": "tps-vs-fps",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "ebitengine"
+                ]
               },
               "first_seen": "2026-08-28T06:11:01.315Z"
             }
@@ -2179,15 +3539,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:11:01.315Z",
+    "last_updated": "2026-08-29T03:44:47.193Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
+      "homepage": null,
       "id": 388439886,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-18T10:11:13Z",
+      "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 986
+      "stars": 986,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ebiten",
+        "ebitengine",
+        "game-development",
+        "gamedev",
+        "go",
+        "golang"
+      ]
     },
     "original_repository_sha": "c20879af8f48af336d7d4768d2d1581d72267c13",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
