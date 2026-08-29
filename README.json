@@ -2073,7 +2073,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T22:36:27Z",
+            "last_commit": "2026-08-29T03:58:23Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3539,7 +3539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:47.193Z",
+    "last_updated": "2026-08-29T04:38:40.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
