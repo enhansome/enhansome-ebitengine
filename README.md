@@ -4,11 +4,11 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,430 | 🐛 282 | 🌐 Go | 📅 2026-08-28 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,432 | 🐛 281 | 🌐 Go | 📅 2026-08-29 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 986 | 🐛 2 | 📅 2026-08-18 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 986 | 🐛 2 | 📅 2026-08-18; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 987 | 🐛 1 | 📅 2026-08-29 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 987 | 🐛 1 | 📅 2026-08-29; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
@@ -94,6 +94,8 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [mpeg](https://github.com/gen2brain/mpeg) ⭐ 177 | 🐛 0 | 🌐 Go | 📅 2026-06-26 - A MPEG-1 video decoder, MP2 audio decoder and MPEG-PS demuxer in pure Go.
 * [reisen](https://github.com/zergon321/reisen) ⚠️ Archived - A simple library to extract video and audio frames from media containers (based on libav).
+* [go-avebi](https://github.com/bstkhq/go-avebi) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-08-24 - Video and live-stream playback for Ebitengine, powered by FFmpeg.
+* [go-ffmpeg-ffi](https://github.com/bstkhq/go-ffmpeg-ffi) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2026-08-24 - Cross-platform Go bindings for dynamically loaded FFmpeg libraries, built with PureGo.
 
 ### Audio
 
@@ -106,7 +108,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Rigid-body dynamics, collision detection and resolution*
 
-* [resolv](https://github.com/SolarLune/resolv) ⭐ 531 | 🐛 7 | 🌐 Go | 📅 2024-12-19 - 2D collision detection and resolution library.
+* [resolv](https://github.com/SolarLune/resolv) ⭐ 531 | 🐛 9 | 🌐 Go | 📅 2024-12-19 - 2D collision detection and resolution library.
 * [cp](https://github.com/jakecoffman/cp) ⭐ 397 | 🐛 2 | 🌐 Go | 📅 2025-12-26 - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [physix-go](https://github.com/rudransh61/Physix-go) ⭐ 238 | 🐛 5 | 🌐 Go | 📅 2026-03-21 - A simple physics engine in Golang.
 * [box2d-go](https://github.com/oliverbestmann/box2d-go) ⭐ 25 | 🐛 1 | 🌐 Go | 📅 2025-09-16 - A Go port of Box2D v3 physics library.
@@ -162,7 +164,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Input and output across platforms*
 
-* [clipboard](https://github.com/golang-design/clipboard) ⭐ 855 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Cross platform (MacOS/Linux/Windows/Android/iOS) clipboard package in Go.
+* [clipboard](https://github.com/golang-design/clipboard) ⭐ 857 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Cross platform (MacOS/Linux/Windows/Android/iOS) clipboard package in Go.
 * [ebitengine-input](https://github.com/quasilyte/ebitengine-input) ⭐ 98 | 🐛 14 | 🌐 Go | 📅 2026-06-16 - A Godot-inspired action input handling system for Ebitengine.
 * [kibodo](https://codeberg.org/tslocum/etk/src/branch/main/kibodo) - On-screen keyboard widget for Ebitengine.
 
@@ -243,7 +245,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebitengine*
 
 * [darktile](https://github.com/liamg/darktile) ⭐ 3,083 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - A GPU rendered terminal emulator designed for tiling window managers.
-* [neko](https://github.com/crgimenes/neko) ⭐ 630 | 🐛 7 | 🌐 Go | 📅 2026-08-22 - Neko is a cross-platform open-source animated cursor-chasing cat.
+* [neko](https://github.com/crgimenes/neko) ⭐ 631 | 🐛 7 | 🌐 Go | 📅 2026-08-22 - Neko is a cross-platform open-source animated cursor-chasing cat.
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) ⭐ 292 | 🐛 1 | 🌐 Go | 📅 2025-09-02 - An HTTP server for Wasm testing like gopherjs serve.
 * [kutta](https://github.com/crgimenes/kutta) ⭐ 137 | 🐛 2 | 🌐 Go | 📅 2026-08-20 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
 * [sketchy](https://github.com/aldernero/sketchy) ⭐ 104 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - A framework for creating generative art in Go.
@@ -264,4 +266,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
