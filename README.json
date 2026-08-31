@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3409,
+            "stars": 3410,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "ebitengine",
               "ecs",
@@ -534,7 +534,7 @@
             "open_issues": 8,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1254,
+            "stars": 1255,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -1288,7 +1288,7 @@
             "open_issues": 5,
             "owner": "rudransh61",
             "repo": "Physix-go",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "2d",
               "2d-graphics",
@@ -1765,7 +1765,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3451,
+            "stars": 3452,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4550,
+            "stars": 4551,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -1849,7 +1849,7 @@
             "open_issues": 1,
             "owner": "codecat",
             "repo": "go-enet",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1957,7 +1957,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 857,
+            "stars": 858,
             "topics": [
               "android",
               "clipboard",
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T16:54:41Z",
+            "last_commit": "2026-08-30T16:59:11Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3280,7 +3280,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "cat",
               "ebitengine",
@@ -3329,7 +3329,7 @@
             "open_issues": 2,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:26:41.515Z",
+    "last_updated": "2026-08-31T00:40:04.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
