@@ -71,7 +71,7 @@
             "open_issues": 7,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "agent-based-modeling",
               "ecs",
@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -1110,7 +1110,7 @@
             "id": 890493547,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-24T20:10:00Z",
+            "last_commit": "2026-08-31T21:45:01Z",
             "open_issues": 0,
             "owner": "bstkhq",
             "repo": "go-avebi",
@@ -1131,8 +1131,8 @@
             "id": 1330884925,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T14:52:11Z",
-            "open_issues": 1,
+            "last_commit": "2026-08-31T21:23:00Z",
+            "open_issues": 0,
             "owner": "bstkhq",
             "repo": "go-ffmpeg-ffi",
             "stars": 1,
@@ -1821,7 +1821,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4551,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -1957,7 +1957,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "android",
               "clipboard",
@@ -2115,8 +2115,8 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T16:59:11Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-31T19:16:23Z",
+            "open_issues": 10,
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 298,
@@ -3280,7 +3280,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 632,
+            "stars": 633,
             "topics": [
               "cat",
               "ebitengine",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:40:04.333Z",
+    "last_updated": "2026-09-01T01:19:18.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3590,7 +3590,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-08-29T09:21:32Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
       "stars": 987,
