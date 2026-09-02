@@ -4,7 +4,7 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,442 | 🐛 276 | 🌐 Go | 📅 2026-08-31 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,441 | 🐛 281 | 🌐 Go | 📅 2026-09-01 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
@@ -73,10 +73,10 @@ If you see a package or project here that is no longer maintained or is not a go
 * [colorgrad](https://github.com/mazznoer/colorgrad) ⭐ 230 | 🐛 0 | 🌐 Go | 📅 2026-01-16 - Go color scales library for data visualization, charts, games, maps, generative art and others.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) ⭐ 173 | 🐛 0 | 🌐 Go | 📅 2025-04-07 - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) ⭐ 102 | 🐛 1 | 🌐 Go | 📅 2025-05-22 - A small library to perform tweening in Go.
-* [ganim8](https://github.com/yohamta/ganim8) ⭐ 83 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8) ⭐ 988 | 🐛 7 | 🌐 Lua | 📅 2022-01-20.
+* [ganim8](https://github.com/yohamta/ganim8) ⭐ 83 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8) ⭐ 989 | 🐛 7 | 🌐 Lua | 📅 2022-01-20.
 * [goaseprite](https://github.com/SolarLune/goaseprite) ⭐ 69 | 🐛 0 | 🌐 Go | 📅 2026-07-28 - A JSON loader for Aseprite files for Golang.
 * [etxt](https://github.com/tinne26/etxt) ⭐ 68 | 🐛 1 | 🌐 Go | 📅 2026-05-19 - A library for font management and text rendering in Ebitengine.
-* [bitmapfont](https://github.com/hajimehoshi/bitmapfont) ⭐ 61 | 🐛 3 | 🌐 Go | 📅 2026-08-11 - A plug-and-play `font.Face`, that supports a wide range of languages and symbols
+* [bitmapfont](https://github.com/hajimehoshi/bitmapfont) ⭐ 61 | 🐛 3 | 🌐 Go | 📅 2026-09-01 - A plug-and-play `font.Face`, that supports a wide range of languages and symbols
 * [cubism-go](https://github.com/aethiopicuschan/cubism-go) ⭐ 32 | 🐛 12 | 🌐 Go | 📅 2025-02-04 - Unofficial Live2D Cubism SDK for Golang.
 * [aseprite](https://github.com/askeladdk/aseprite) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2026-01-12 - An image loader for Aseprite files, supports animation tags and more.
 * [canvas](https://github.com/eihigh/canvas) ⭐ 23 | 🐛 4 | 🌐 Go | 📅 2022-06-26 - Cairo in Go for Ebitengine.
@@ -94,7 +94,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [mpeg](https://github.com/gen2brain/mpeg) ⭐ 177 | 🐛 0 | 🌐 Go | 📅 2026-06-26 - A MPEG-1 video decoder, MP2 audio decoder and MPEG-PS demuxer in pure Go.
 * [reisen](https://github.com/zergon321/reisen) ⚠️ Archived - A simple library to extract video and audio frames from media containers (based on libav).
-* [go-avebi](https://github.com/bstkhq/go-avebi) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-08-31 - Video and live-stream playback for Ebitengine, powered by FFmpeg.
+* [go-avebi](https://github.com/bstkhq/go-avebi) ⭐ 2 | 🐛 1 | 🌐 Go | 📅 2026-09-01 - Video and live-stream playback for Ebitengine, powered by FFmpeg.
 * [go-ffmpeg-ffi](https://github.com/bstkhq/go-ffmpeg-ffi) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-08-31 - Cross-platform Go bindings for dynamically loaded FFmpeg libraries, built with PureGo.
 
 ### Audio
@@ -142,7 +142,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Embedded languages ​​and related tools*
 
 * [tengo](https://github.com/d5/tengo) ⭐ 3,831 | 🐛 90 | 🌐 Go | 📅 2026-04-29 - Fast scripting language for Go.
-* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,452 | 🐛 49 | 🌐 Go | 📅 2025-07-18 - Port of Lua VM in Go.
+* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,453 | 🐛 49 | 🌐 Go | 📅 2025-07-18 - Port of Lua VM in Go.
 * [scriggo](https://github.com/open2b/scriggo) ⭐ 574 | 🐛 104 | 🌐 Go | 📅 2026-05-15 - Powerful template engine and Go embeddable interpreter.
 
 ### Networking
@@ -181,12 +181,12 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) ⚠️ Archived - A toy GameBoy Color emulator written in golang.
 * [roboden-game](https://github.com/quasilyte/roboden-game) ⭐ 488 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - An indirect control real-time strategy game about robot colonies.
-* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 298 | 🐛 10 | 🌐 Go | 📅 2026-08-31 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 7 | 🌐 Go | 📅 2026-09-01 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) ⭐ 127 | 🐛 2 | 🌐 Go | 📅 2026-04-25 - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) ⭐ 86 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [gosol](https://github.com/oddstream/gosol) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2023-03-18 - Polymorphic solitaire engine in Go+Ebitengine.
 * [skulls](https://github.com/rootVIII/skulls) ⚠️ Archived - A simple columns-like strategy game developed in Golang with the Ebitengine library (for Android).
-* [minesweeper-go](https://github.com/mevdschee/minesweeper.go) ⭐ 46 | 🐛 0 | 🌐 Go | 📅 2024-04-07 - Minesweeper game in Go that can compile to WASM (uses Ebitengine v2).
+* [minesweeper-go](https://github.com/mevdschee/minesweeper.go) ⭐ 45 | 🐛 0 | 🌐 Go | 📅 2024-04-07 - Minesweeper game in Go that can compile to WASM (uses Ebitengine v2).
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) ⭐ 41 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - Space invaders game in Go using Ebitengine game engine with ECS.
 * [godanmaku](https://github.com/yohamta/godanmaku) ⭐ 40 | 🐛 0 | 🌐 Go | 📅 2022-10-02 - Simple shooting game using Ebitengine and Golang.
 * [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) ⭐ 35 | 🐛 0 | 🌐 Go | 📅 2022-11-17 - A simple breakout game made in Ebitengine.
@@ -266,4 +266,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
