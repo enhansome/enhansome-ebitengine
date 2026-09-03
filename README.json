@@ -71,7 +71,7 @@
             "open_issues": 7,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "agent-based-modeling",
               "ecs",
@@ -531,7 +531,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-02T09:05:14Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
             "stars": 1255,
@@ -1110,8 +1110,8 @@
             "id": 890493547,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T13:47:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-02T02:48:15Z",
+            "open_issues": 0,
             "owner": "bstkhq",
             "repo": "go-avebi",
             "stars": 2,
@@ -1821,7 +1821,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4554,
+            "stars": 4553,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2026,7 +2026,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11085,
+            "stars": 11086,
             "topics": [
               "2d",
               "arpg",
@@ -2059,7 +2059,7 @@
             "open_issues": 9,
             "owner": "akatsuki105",
             "repo": "worldwide",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "emulation",
               "emulator",
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T16:54:27Z",
+            "last_commit": "2026-09-02T16:51:07Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3280,7 +3280,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "cat",
               "ebitengine",
@@ -3329,7 +3329,7 @@
             "open_issues": 2,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3539,7 +3539,7 @@
                 "open_issues": 0,
                 "owner": "tinne26",
                 "repo": "kage-desk",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "ebitengine",
                   "kage",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:19:59.399Z",
+    "last_updated": "2026-09-03T00:22:03.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
