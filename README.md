@@ -4,7 +4,7 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,443 | 🐛 281 | 🌐 Go | 📅 2026-09-02 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,445 | 🐛 282 | 🌐 Go | 📅 2026-09-03 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
@@ -94,7 +94,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [mpeg](https://github.com/gen2brain/mpeg) ⭐ 177 | 🐛 0 | 🌐 Go | 📅 2026-06-26 - A MPEG-1 video decoder, MP2 audio decoder and MPEG-PS demuxer in pure Go.
 * [reisen](https://github.com/zergon321/reisen) ⚠️ Archived - A simple library to extract video and audio frames from media containers (based on libav).
-* [go-avebi](https://github.com/bstkhq/go-avebi) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-09-02 - Video and live-stream playback for Ebitengine, powered by FFmpeg.
+* [go-avebi](https://github.com/bstkhq/go-avebi) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-09-03 - Video and live-stream playback for Ebitengine, powered by FFmpeg.
 * [go-ffmpeg-ffi](https://github.com/bstkhq/go-ffmpeg-ffi) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-08-31 - Cross-platform Go bindings for dynamically loaded FFmpeg libraries, built with PureGo.
 
 ### Audio
@@ -124,7 +124,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [go-tiled](https://github.com/lafriks/go-tiled) ⭐ 257 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - Go library to parse Tiled map editor file format (TMX) and render map to image.
 * [dngn](https://github.com/SolarLune/dngn) ⭐ 142 | 🐛 5 | 🌐 Go | 📅 2024-07-24 - A golang library specifically created to help make generating random maps easier.
 * [pathing](https://github.com/quasilyte/pathing) ⭐ 135 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - A grid-based pathfinding; somewhat restrictive, but very efficient.
-* [ldtkgo](https://github.com/SolarLune/ldtkgo) ⭐ 118 | 🐛 3 | 🌐 Go | 📅 2024-08-21 - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
+* [ldtkgo](https://github.com/SolarLune/ldtkgo) ⭐ 119 | 🐛 3 | 🌐 Go | 📅 2024-08-21 - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
 * [paths](https://github.com/SolarLune/paths) ⭐ 64 | 🐛 4 | 🌐 Go | 📅 2023-11-14 - A pathfinding library written in Golang created mainly for video games.
 * [kamera](https://github.com/setanarut/kamera) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2026-02-15 - A camera with noise shake, lerp motion, rotation and zooming.
 * [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) ⭐ 32 | 🐛 0 | 🌐 Go | 📅 2023-12-23 - A simple camera implementation based on vrld's HUMP for Love2d.
@@ -181,7 +181,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) ⚠️ Archived - A toy GameBoy Color emulator written in golang.
 * [roboden-game](https://github.com/quasilyte/roboden-game) ⭐ 488 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - An indirect control real-time strategy game about robot colonies.
-* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 7 | 🌐 Go | 📅 2026-09-02 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 7 | 🌐 Go | 📅 2026-09-03 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) ⭐ 127 | 🐛 2 | 🌐 Go | 📅 2026-04-25 - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) ⭐ 86 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [gosol](https://github.com/oddstream/gosol) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2023-03-18 - Polymorphic solitaire engine in Go+Ebitengine.
@@ -193,8 +193,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2023-08-21 - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
 * [bindless](https://github.com/tinne26/bindless) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2022-12-21 - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
 * [decipherism-game](https://github.com/quasilyte/decipherism-game) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2023-02-02 - A puzzle game where you solve the encoding machine ciphers.
+* [tnk9x](https://github.com/shpaker/tnk9x) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2026-08-04 - A remake of the classic arcade game Battle City (NES, 1985).
 * [sinecord](https://github.com/quasilyte/sinecord) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2023-10-09 - Solve the puzzles and create the music along the way.
-* [tnk9x](https://github.com/shpaker/tnk9x) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2026-08-04 - A remake of the classic arcade game Battle City (NES, 1985).
 * [go-space-crane](https://github.com/spiritofsim/go-space-crane) ⭐ 19 | 🐛 3 | 🌐 Go | 📅 2021-10-21 - Simple moonlander like game with some new mechanics.
 * [escort-mission](https://github.com/sinisterstuf/escort-mission) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2025-10-24 - Follow a dog through a post-apocalytpic wasteland full of zombies.
 * [mini-tanks](https://github.com/DTLP/mini_tanks) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-08-13 - Fight enemy tanks and defend your base.
@@ -266,4 +266,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

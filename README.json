@@ -1110,7 +1110,7 @@
             "id": 890493547,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T02:48:15Z",
+            "last_commit": "2026-09-03T01:49:10Z",
             "open_issues": 0,
             "owner": "bstkhq",
             "repo": "go-avebi",
@@ -1536,7 +1536,7 @@
             "open_issues": 3,
             "owner": "SolarLune",
             "repo": "ldtkgo",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T16:51:07Z",
+            "last_commit": "2026-09-03T16:40:56Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2406,6 +2406,31 @@
         },
         {
           "node_type": "item",
+          "title": "tnk9x",
+          "description": "A remake of the classic arcade game Battle City (NES, 1985).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Clone of the classic arcade game Battle City (NES, 1985), built with Go.",
+            "homepage": "https://shpaker.github.io/tnk9x/",
+            "id": 1073723765,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-04T06:45:53Z",
+            "open_issues": 0,
+            "owner": "shpaker",
+            "repo": "tnk9x",
+            "stars": 22,
+            "topics": [
+              "battlecity",
+              "ebiten",
+              "ebitengine"
+            ]
+          },
+          "first_seen": "2026-08-28T06:11:01.315Z"
+        },
+        {
+          "node_type": "item",
           "title": "sinecord",
           "description": "Solve the puzzles and create the music along the way.",
           "children": [],
@@ -2433,31 +2458,6 @@
               "midi",
               "music",
               "synthesizer"
-            ]
-          },
-          "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tnk9x",
-          "description": "A remake of the classic arcade game Battle City (NES, 1985).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Clone of the classic arcade game Battle City (NES, 1985), built with Go.",
-            "homepage": "https://shpaker.github.io/tnk9x/",
-            "id": 1073723765,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-08-04T06:45:53Z",
-            "open_issues": 0,
-            "owner": "shpaker",
-            "repo": "tnk9x",
-            "stars": 21,
-            "topics": [
-              "battlecity",
-              "ebiten",
-              "ebitengine"
             ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:22:03.744Z",
+    "last_updated": "2026-09-04T00:10:08.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
