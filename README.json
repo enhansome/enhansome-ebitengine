@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3411,
+            "stars": 3412,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -101,7 +101,7 @@
             "open_issues": 0,
             "owner": "unitoftime",
             "repo": "ecs",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "ecs",
               "go",
@@ -158,7 +158,7 @@
             "open_issues": 4,
             "owner": "elgopher",
             "repo": "pi",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "amiga",
               "ebiten",
@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 934,
+            "stars": 936,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -1786,7 +1786,7 @@
             "open_issues": 104,
             "owner": "open2b",
             "repo": "scriggo",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "cross-platform",
               "embedded",
@@ -1821,7 +1821,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4554,
+            "stars": 4553,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -1957,7 +1957,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 861,
+            "stars": 860,
             "topics": [
               "android",
               "clipboard",
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T16:36:43Z",
+            "last_commit": "2026-09-05T15:31:30Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:11:47.506Z",
+    "last_updated": "2026-09-05T23:59:46.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
