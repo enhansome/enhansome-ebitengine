@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3410,
+            "stars": 3411,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -598,7 +598,7 @@
             "open_issues": 0,
             "owner": "mazznoer",
             "repo": "colorgrad",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "color",
               "color-scales",
@@ -1735,7 +1735,7 @@
             "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3831,
+            "stars": 3832,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1765,7 +1765,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3453,
+            "stars": 3454,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1821,7 +1821,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4553,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -1957,7 +1957,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 859,
+            "stars": 861,
             "topics": [
               "android",
               "clipboard",
@@ -2026,7 +2026,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11086,
+            "stars": 11088,
             "topics": [
               "2d",
               "arpg",
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T16:40:56Z",
+            "last_commit": "2026-09-04T16:36:43Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3180,6 +3180,35 @@
         },
         {
           "node_type": "item",
+          "title": "nature-of-code-ebiten",
+          "description": "Ports of The Nature of Code examples to Go using the Ebitengine game engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ports of The Nature of Code examples to Go using the Ebitengine game engine.",
+            "homepage": null,
+            "id": 1022692643,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2025-09-07T14:17:16Z",
+            "open_issues": 0,
+            "owner": "philyawj",
+            "repo": "nature-of-code-ebiten",
+            "stars": 2,
+            "topics": [
+              "creative-coding",
+              "ebiten",
+              "ebitengine",
+              "go",
+              "golang",
+              "nature-of-code",
+              "simulation"
+            ]
+          },
+          "first_seen": "2026-08-28T06:11:01.315Z"
+        },
+        {
+          "node_type": "item",
           "title": "balls-ebiten",
           "description": "Bouncing balls demo - collision and rotatable gravity simulation.",
           "children": [],
@@ -3196,35 +3225,6 @@
             "repo": "balls-ebiten",
             "stars": 1,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "nature-of-code-ebiten",
-          "description": "Ports of The Nature of Code examples to Go using the Ebitengine game engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ports of The Nature of Code examples to Go using the Ebitengine game engine.",
-            "homepage": null,
-            "id": 1022692643,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2025-09-07T14:17:16Z",
-            "open_issues": 0,
-            "owner": "philyawj",
-            "repo": "nature-of-code-ebiten",
-            "stars": 1,
-            "topics": [
-              "creative-coding",
-              "ebiten",
-              "ebitengine",
-              "go",
-              "golang",
-              "nature-of-code",
-              "simulation"
-            ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         }
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:10:08.533Z",
+    "last_updated": "2026-09-05T00:11:47.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3593,7 +3593,7 @@
       "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 987,
+      "stars": 988,
       "topics": [
         "awesome",
         "awesome-list",
