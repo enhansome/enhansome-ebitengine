@@ -71,7 +71,7 @@
             "open_issues": 7,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "agent-based-modeling",
               "ecs",
@@ -197,7 +197,7 @@
             "open_issues": 2,
             "owner": "joelschutz",
             "repo": "stagehand",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "ebitengine",
               "gamedev",
@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 936,
+            "stars": 937,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -655,7 +655,7 @@
             "open_issues": 1,
             "owner": "tanema",
             "repo": "gween",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "easing-functions",
               "golang",
@@ -1735,7 +1735,7 @@
             "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3832,
+            "stars": 3833,
             "topics": [
               "compiler",
               "embedded-language",
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T15:31:30Z",
+            "last_commit": "2026-09-06T15:42:29Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:59:46.081Z",
+    "last_updated": "2026-09-07T00:03:25.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3593,7 +3593,7 @@
       "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 988,
+      "stars": 989,
       "topics": [
         "awesome",
         "awesome-list",
