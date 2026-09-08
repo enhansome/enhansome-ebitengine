@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3412,
+            "stars": 3414,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -1072,7 +1072,7 @@
             "open_issues": 9,
             "owner": "zergon321",
             "repo": "reisen",
-            "stars": 146,
+            "stars": 145,
             "topics": [
               "audio",
               "avcodec",
@@ -1232,7 +1232,7 @@
             "open_issues": 9,
             "owner": "SolarLune",
             "repo": "resolv",
-            "stars": 531,
+            "stars": 532,
             "topics": [
               "bump",
               "check",
@@ -1735,7 +1735,7 @@
             "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3833,
+            "stars": 3834,
             "topics": [
               "compiler",
               "embedded-language",
@@ -2115,11 +2115,11 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:42:29Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-07T17:54:56Z",
+            "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "2d",
               "game",
@@ -3280,7 +3280,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "cat",
               "ebitengine",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:03:25.814Z",
+    "last_updated": "2026-09-08T00:30:38.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
