@@ -1387,7 +1387,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "coll",
-            "stars": 8,
+            "stars": 7,
             "topics": [
               "2d-collision",
               "2d-collision-checker",
@@ -1578,7 +1578,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "kamera",
-            "stars": 36,
+            "stars": 35,
             "topics": [
               "2d-camera",
               "camera-shake",
@@ -1735,7 +1735,7 @@
             "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3834,
+            "stars": 3836,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1991,7 +1991,7 @@
             "open_issues": 14,
             "owner": "quasilyte",
             "repo": "ebitengine-input",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -2026,7 +2026,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11088,
+            "stars": 11089,
             "topics": [
               "2d",
               "arpg",
@@ -2115,11 +2115,11 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T17:54:56Z",
+            "last_commit": "2026-09-08T16:52:05Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 301,
+            "stars": 300,
             "topics": [
               "2d",
               "game",
@@ -3280,7 +3280,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 635,
+            "stars": 637,
             "topics": [
               "cat",
               "ebitengine",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:30:38.665Z",
+    "last_updated": "2026-09-09T00:21:18.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
