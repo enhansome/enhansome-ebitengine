@@ -367,7 +367,7 @@
             "open_issues": 1,
             "owner": "greenthepear",
             "repo": "egriden",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -1263,7 +1263,7 @@
             "open_issues": 2,
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "chipmunk2d",
               "physics",
@@ -1870,7 +1870,7 @@
             "open_issues": 1,
             "owner": "leap-fish",
             "repo": "necs",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "donburi",
               "ebitengine",
@@ -2026,7 +2026,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11089,
+            "stars": 11088,
             "topics": [
               "2d",
               "arpg",
@@ -2115,7 +2115,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:54:21Z",
+            "last_commit": "2026-09-10T16:40:21Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3581,7 +3581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:19:29.296Z",
+    "last_updated": "2026-09-11T00:15:15.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",

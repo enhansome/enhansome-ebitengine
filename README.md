@@ -4,7 +4,7 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,463 | 🐛 288 | 🌐 Go | 📅 2026-09-09 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,464 | 🐛 290 | 🌐 Go | 📅 2026-09-10 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
@@ -49,7 +49,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebiten\_extended](https://github.com/LuigiVanacore/ebiten_extended) ⭐ 15 | 🐛 1 | 🌐 Go | 📅 2026-08-01 - A 2D Godot-inspired framework for Ebiten written in Go. It provides a scene graph, layers, camera, sprites, animations, collision detection, input handling, and resource management so you can focus on game logic.
 * [goecs](https://github.com/x-hgg-x/goecs) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2022-09-09 - An implementation of the ECS paradigm in Go.
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2024-04-13 - A state and stack machine framework for Ebitengine.
-* [egriden](https://github.com/greenthepear/egriden) ⭐ 12 | 🐛 1 | 🌐 Go | 📅 2026-05-21 - Framework for creating grid-based games and more.
+* [egriden](https://github.com/greenthepear/egriden) ⭐ 13 | 🐛 1 | 🌐 Go | 📅 2026-05-21 - Framework for creating grid-based games and more.
 * [bamenn](https://github.com/noppikinatta/bamenn) ⭐ 9 | 🐛 1 | 🌐 Go | 📅 2025-08-11 - Simple scene library for Ebitengine.
 * [gohan](https://codeberg.org/tslocum/gohan) - Entity Component System framework for Ebitengine.
 
@@ -57,7 +57,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Libraries for building GUI Applications*
 
-* [ebitenui](https://github.com/ebitenui/ebitenui) ⭐ 937 | 🐛 75 | 🌐 Go | 📅 2026-08-19 - A user interface engine and widget library for Ebitengine.
+* [ebitenui](https://github.com/ebitenui/ebitenui) ⭐ 938 | 🐛 75 | 🌐 Go | 📅 2026-08-19 - A user interface engine and widget library for Ebitengine.
 * [furex](https://github.com/yohamta/furex) ⭐ 168 | 🐛 8 | 🌐 Go | 📅 2026-07-18 - A simple UI framework with a subset of flexbox layout specification.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) ⭐ 141 | 🐛 6 | 🌐 Go | 📅 2023-10-31 - Dear ImGui renderer for Ebitengine.
 * [ultralight-ebitengine-port](https://github.com/YindSoft/ultralight-ebitengine-port) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-05-11 - Render HTML/CSS/JS interfaces as textures in Ebitengine using Ultralight.
@@ -109,7 +109,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Rigid-body dynamics, collision detection and resolution*
 
 * [resolv](https://github.com/SolarLune/resolv) ⭐ 532 | 🐛 9 | 🌐 Go | 📅 2024-12-19 - 2D collision detection and resolution library.
-* [cp](https://github.com/jakecoffman/cp) ⭐ 397 | 🐛 2 | 🌐 Go | 📅 2025-12-26 - A 2D rigid body physics library - Chipmunk2D, ported to Go.
+* [cp](https://github.com/jakecoffman/cp) ⭐ 398 | 🐛 2 | 🌐 Go | 📅 2025-12-26 - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [physix-go](https://github.com/rudransh61/Physix-go) ⭐ 239 | 🐛 5 | 🌐 Go | 📅 2026-03-21 - A simple physics engine in Golang.
 * [box2d-go](https://github.com/oliverbestmann/box2d-go) ⭐ 25 | 🐛 1 | 🌐 Go | 📅 2025-09-16 - A Go port of Box2D v3 physics library.
 * [box2d](https://github.com/Alexander-r/box2d) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2023-04-15 - A Go port of Box2D v2.4.1 physics library.
@@ -151,7 +151,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,552 | 🐛 70 | 🌐 Go | 📅 2026-05-15 - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
 * [go-enet](https://github.com/codecat/go-enet) ⭐ 61 | 🐛 1 | 🌐 C | 📅 2025-07-28 - Enet bindings for Go.
-* [necs](https://github.com/leap-fish/necs) ⭐ 33 | 🐛 1 | 🌐 Go | 📅 2025-06-25 - A networking layer for Donburi ECS.
+* [necs](https://github.com/leap-fish/necs) ⭐ 32 | 🐛 1 | 🌐 Go | 📅 2025-06-25 - A networking layer for Donburi ECS.
 
 ### Integration
 
@@ -181,7 +181,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) ⚠️ Archived - A toy GameBoy Color emulator written in golang.
 * [roboden-game](https://github.com/quasilyte/roboden-game) ⭐ 488 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - An indirect control real-time strategy game about robot colonies.
-* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 8 | 🌐 Go | 📅 2026-09-09 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 8 | 🌐 Go | 📅 2026-09-10 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) ⭐ 127 | 🐛 2 | 🌐 Go | 📅 2026-04-25 - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) ⭐ 86 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [gosol](https://github.com/oddstream/gosol) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2023-03-18 - Polymorphic solitaire engine in Go+Ebitengine.
@@ -266,4 +266,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
