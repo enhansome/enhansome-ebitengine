@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3414,
+            "stars": 3415,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 938,
+            "stars": 939,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -453,7 +453,7 @@
             "open_issues": 8,
             "owner": "yohamta0",
             "repo": "furex-ui",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "ebitengine",
               "flex",
@@ -1411,6 +1411,66 @@
             ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
+        },
+        {
+          "node_type": "item",
+          "title": "jel",
+          "description": "2D soft-body physics library with extensible architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "2D soft-body physics library with extensible architecture in Go",
+            "homepage": "https://pkg.go.dev/github.com/setanarut/jel",
+            "id": 1343831106,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-11T14:57:43Z",
+            "open_issues": 0,
+            "owner": "setanarut",
+            "repo": "jel",
+            "stars": 0,
+            "topics": [
+              "2d-physics",
+              "2d-physics-engine",
+              "ebiten",
+              "ebiten-framework",
+              "ebiten-game-library",
+              "ebitengine",
+              "go",
+              "golang",
+              "soft-body",
+              "soft-body-physics",
+              "soft-body-simulation"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
+        },
+        {
+          "node_type": "item",
+          "title": "quark",
+          "description": "A Go port of QuarkPhysics, a 2D physics engine for games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Go port of QuarkPhysics, a 2D physics engine for games.",
+            "homepage": "https://pkg.go.dev/github.com/setanarut/quark",
+            "id": 1342313540,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-25T19:19:32Z",
+            "open_issues": 0,
+            "owner": "setanarut",
+            "repo": "quark",
+            "stars": 0,
+            "topics": [
+              "2d-physics",
+              "2d-physics-engine",
+              "2d-physics-game",
+              "soft-body",
+              "soft-body-physics"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
         }
       ],
       "title": "Physics"
@@ -1821,7 +1881,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4552,
+            "stars": 4553,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2026,7 +2086,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11088,
+            "stars": 11089,
             "topics": [
               "2d",
               "arpg",
@@ -2115,7 +2175,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T16:40:21Z",
+            "last_commit": "2026-09-11T16:44:45Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2904,6 +2964,35 @@
         },
         {
           "node_type": "item",
+          "title": "aram-emu",
+          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ARAM: Archived Runtime for ARM Mobiles",
+            "homepage": "https://aram.mir.sh/en/",
+            "id": 1315882678,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-11T09:34:27Z",
+            "open_issues": 1,
+            "owner": "mirusu400",
+            "repo": "aram-emu",
+            "stars": 3,
+            "topics": [
+              "arm",
+              "emulator",
+              "mobile",
+              "mobile-application",
+              "mobile-game",
+              "phone",
+              "wipi"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
+        },
+        {
+          "node_type": "item",
           "title": "red-cat-run-2d",
           "description": "Become enlightened in this cat platformer game.",
           "children": [],
@@ -3250,7 +3339,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3083,
+            "stars": 3084,
             "topics": [
               "golang",
               "opengl",
@@ -3581,7 +3670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:15:15.935Z",
+    "last_updated": "2026-09-12T00:23:01.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3589,8 +3678,8 @@
       "id": 388439886,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-29T09:21:32Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-11T08:57:06Z",
+      "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
       "stars": 989,
@@ -3605,7 +3694,7 @@
         "golang"
       ]
     },
-    "original_repository_sha": "07a0720cdcecdae346a2b13026e215fe18ad369d",
+    "original_repository_sha": "325b8bc4efbe7e66ff4740715068a95217028b9f",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
     "title": "Awesome Ebitengine with stars"
