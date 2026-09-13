@@ -564,7 +564,7 @@
             "open_issues": 4,
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1428,7 +1428,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "jel",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "2d-physics",
               "2d-physics-engine",
@@ -1461,7 +1461,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "quark",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "2d-physics",
               "2d-physics-engine",
@@ -1825,7 +1825,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3454,
+            "stars": 3453,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1881,7 +1881,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4553,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2175,7 +2175,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:44:45Z",
+            "last_commit": "2026-09-12T15:49:05Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2896,6 +2896,35 @@
         },
         {
           "node_type": "item",
+          "title": "aram-emu",
+          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ARAM: Archived Runtime for ARM Mobiles",
+            "homepage": "https://aram.mir.sh/en/",
+            "id": 1315882678,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-12T09:43:20Z",
+            "open_issues": 1,
+            "owner": "mirusu400",
+            "repo": "aram-emu",
+            "stars": 4,
+            "topics": [
+              "arm",
+              "emulator",
+              "mobile",
+              "mobile-application",
+              "mobile-game",
+              "phone",
+              "wipi"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
+        },
+        {
+          "node_type": "item",
           "title": "revdriller",
           "description": "Control a character that has a drill, and dig through the ceiling, reverse breakable and unbreakable blocks.",
           "children": [],
@@ -2961,35 +2990,6 @@
             ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "aram-emu",
-          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ARAM: Archived Runtime for ARM Mobiles",
-            "homepage": "https://aram.mir.sh/en/",
-            "id": 1315882678,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-11T09:34:27Z",
-            "open_issues": 1,
-            "owner": "mirusu400",
-            "repo": "aram-emu",
-            "stars": 3,
-            "topics": [
-              "arm",
-              "emulator",
-              "mobile",
-              "mobile-application",
-              "mobile-game",
-              "phone",
-              "wipi"
-            ]
-          },
-          "first_seen": "2026-09-12T00:23:01.868Z"
         },
         {
           "node_type": "item",
@@ -3339,7 +3339,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3084,
+            "stars": 3083,
             "topics": [
               "golang",
               "opengl",
@@ -3369,7 +3369,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "cat",
               "ebitengine",
@@ -3418,7 +3418,7 @@
             "open_issues": 2,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3670,7 +3670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:23:01.868Z",
+    "last_updated": "2026-09-13T00:03:31.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3682,7 +3682,7 @@
       "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 989,
+      "stars": 990,
       "topics": [
         "awesome",
         "awesome-list",
