@@ -4,11 +4,11 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,472 | 🐛 287 | 🌐 Go | 📅 2026-09-12 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,480 | 🐛 284 | 🌐 Go | 📅 2026-09-13 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 990 | 🐛 1 | 📅 2026-09-11 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 990 | 🐛 1 | 📅 2026-09-11; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 991 | 🐛 1 | 📅 2026-09-11 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 991 | 🐛 1 | 📅 2026-09-11; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
@@ -69,7 +69,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for graphics*
 
 * [go-colorful](https://github.com/lucasb-eyer/go-colorful) ⭐ 1,255 | 🐛 9 | 🌐 Go | 📅 2026-08-02 - A complex library for handling color spaces and comparing colors.
-* [tetra3d](https://github.com/SolarLune/Tetra3d) ⭐ 516 | 🐛 4 | 🌐 Go | 📅 2026-08-19 - A 3D software renderer written in Go by means of Ebitengine, primarily for video games.
+* [tetra3d](https://github.com/SolarLune/Tetra3d) ⭐ 517 | 🐛 4 | 🌐 Go | 📅 2026-08-19 - A 3D software renderer written in Go by means of Ebitengine, primarily for video games.
 * [colorgrad](https://github.com/mazznoer/colorgrad) ⭐ 231 | 🐛 0 | 🌐 Go | 📅 2026-01-16 - Go color scales library for data visualization, charts, games, maps, generative art and others.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) ⭐ 173 | 🐛 0 | 🌐 Go | 📅 2025-04-07 - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) ⭐ 103 | 🐛 1 | 🌐 Go | 📅 2025-05-22 - A small library to perform tweening in Go.
@@ -109,7 +109,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Rigid-body dynamics, collision detection and resolution*
 
 * [resolv](https://github.com/SolarLune/resolv) ⭐ 532 | 🐛 9 | 🌐 Go | 📅 2024-12-19 - 2D collision detection and resolution library.
-* [cp](https://github.com/jakecoffman/cp) ⭐ 398 | 🐛 2 | 🌐 Go | 📅 2025-12-26 - A 2D rigid body physics library - Chipmunk2D, ported to Go.
+* [cp](https://github.com/jakecoffman/cp) ⭐ 399 | 🐛 2 | 🌐 Go | 📅 2025-12-26 - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [physix-go](https://github.com/rudransh61/Physix-go) ⭐ 239 | 🐛 5 | 🌐 Go | 📅 2026-03-21 - A simple physics engine in Golang.
 * [box2d-go](https://github.com/oliverbestmann/box2d-go) ⭐ 25 | 🐛 1 | 🌐 Go | 📅 2025-09-16 - A Go port of Box2D v3 physics library.
 * [box2d](https://github.com/Alexander-r/box2d) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2023-04-15 - A Go port of Box2D v2.4.1 physics library.
@@ -183,7 +183,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) ⚠️ Archived - A toy GameBoy Color emulator written in golang.
 * [roboden-game](https://github.com/quasilyte/roboden-game) ⭐ 488 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - An indirect control real-time strategy game about robot colonies.
-* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 8 | 🌐 Go | 📅 2026-09-12 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 300 | 🐛 8 | 🌐 Go | 📅 2026-09-13 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) ⭐ 127 | 🐛 2 | 🌐 Go | 📅 2026-04-25 - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) ⭐ 86 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [gosol](https://github.com/oddstream/gosol) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2023-03-18 - Polymorphic solitaire engine in Go+Ebitengine.
@@ -212,7 +212,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gtris](https://github.com/luisparravicini/gtris) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2022-06-18 - A Tetris clone.
 * [cr1ckt](https://github.com/sinisterstuf/cr1ckt) ⭐ 4 | 🐛 16 | 🌐 Go | 📅 2024-10-06 - Tap left and right to jump through the caves to the fruit... as long as the game.
 * [snake-ebitengine](https://github.com/fancellu/snake-ebitengine) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2025-07-15 - Snake game with hopefully useful example code and WASM demo.
-* [aram-emu](https://github.com/mirusu400/aram-emu) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-12 - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
+* [aram-emu](https://github.com/mirusu400/aram-emu) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-09-13 - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
 * [revdriller](https://github.com/yohamta/revdriller) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2023-06-25 - Control a character that has a drill, and dig through the ceiling, reverse breakable and unbreakable blocks.
 * [btod](https://github.com/Zyko0/GameOff2021) ⭐ 3 | 🐛 3 | 🌐 Go | 📅 2022-01-04 - This is a runner game made in Go with Ebitengine.
 * [pong](https://github.com/drpaneas/pong) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-03-30 - Pong is a classic arcade game developed by Atari and originally released back in 1972.
@@ -269,4 +269,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
