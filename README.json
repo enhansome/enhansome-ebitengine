@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3417,
+            "stars": 3416,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "ebitengine",
               "ecs",
@@ -449,8 +449,8 @@
             "id": 300657568,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-18T04:08:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-16T03:23:02Z",
+            "open_issues": 8,
             "owner": "yohamta0",
             "repo": "furex-ui",
             "stars": 170,
@@ -1424,7 +1424,7 @@
             "id": 1343831106,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T14:57:43Z",
+            "last_commit": "2026-09-16T16:34:22Z",
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "jel",
@@ -1795,7 +1795,7 @@
             "open_issues": 90,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3837,
+            "stars": 3838,
             "topics": [
               "compiler",
               "embedded-language",
@@ -2175,8 +2175,8 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T17:16:29Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-16T18:50:45Z",
+            "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 300,
@@ -2856,7 +2856,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T03:13:47Z",
+            "last_commit": "2026-09-16T17:42:55Z",
             "open_issues": 1,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3369,7 +3369,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 639,
+            "stars": 641,
             "topics": [
               "cat",
               "ebitengine",
@@ -3653,7 +3653,7 @@
                 "open_issues": 1,
                 "owner": "tinne26",
                 "repo": "tps-vs-fps",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "ebitengine"
                 ]
@@ -3670,7 +3670,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:30:09.322Z",
+    "last_updated": "2026-09-17T00:39:07.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3679,10 +3679,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-11T08:57:06Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 991,
+      "stars": 992,
       "topics": [
         "awesome",
         "awesome-list",
