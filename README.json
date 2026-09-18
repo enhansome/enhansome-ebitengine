@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3416,
+            "stars": 3415,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -769,8 +769,8 @@
             "id": 738800593,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2025-02-04T15:22:16Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-17T23:13:04Z",
+            "open_issues": 9,
             "owner": "aethiopicuschan",
             "repo": "cubism-go",
             "stars": 32,
@@ -1772,6 +1772,27 @@
             ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kassetpack",
+          "description": "Lightweight asset packaging with deduplication, splitting, and XOR obfuscation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "kassetpack Lightweight asset packaging for Go applications and games.",
+            "homepage": null,
+            "id": 1372088804,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-16T22:37:20Z",
+            "open_issues": 0,
+            "owner": "kadevland",
+            "repo": "kassetpack",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-18T00:28:36.901Z"
         }
       ],
       "title": "Resources"
@@ -1792,7 +1813,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-04-29T08:48:00Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "d5",
             "repo": "tengo",
             "stars": 3838,
@@ -1825,7 +1846,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3453,
+            "stars": 3452,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1881,7 +1902,7 @@
             "open_issues": 70,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4554,
+            "stars": 4555,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2175,7 +2196,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T18:50:45Z",
+            "last_commit": "2026-09-17T15:49:27Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2856,8 +2877,8 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T17:42:55Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-17T19:03:10Z",
+            "open_issues": 0,
             "owner": "mirusu400",
             "repo": "aram-emu",
             "stars": 5,
@@ -3141,7 +3162,7 @@
             "id": 80924593,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-09-14T21:06:09Z",
+            "last_commit": "2026-09-17T23:33:18Z",
             "open_issues": 0,
             "owner": "Zebbeni",
             "repo": "protozoa",
@@ -3369,7 +3390,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "cat",
               "ebitengine",
@@ -3653,7 +3674,7 @@
                 "open_issues": 1,
                 "owner": "tinne26",
                 "repo": "tps-vs-fps",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "ebitengine"
                 ]
@@ -3670,7 +3691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:39:07.883Z",
+    "last_updated": "2026-09-18T00:28:36.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3678,8 +3699,8 @@
       "id": 388439886,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-11T08:57:06Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-17T07:07:10Z",
+      "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
       "stars": 992,
@@ -3694,7 +3715,7 @@
         "golang"
       ]
     },
-    "original_repository_sha": "325b8bc4efbe7e66ff4740715068a95217028b9f",
+    "original_repository_sha": "f1f35488da4fbc0f1b3cd201803a09be2d413983",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
     "title": "Awesome Ebitengine with stars"
