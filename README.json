@@ -564,7 +564,7 @@
             "open_issues": 4,
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1790,7 +1790,16 @@
             "owner": "kadevland",
             "repo": "kassetpack",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "2d-game",
+              "ebiten",
+              "ebiten-game-library",
+              "ebitengine",
+              "game",
+              "gamedev",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-09-18T00:28:36.901Z"
         }
@@ -1816,7 +1825,7 @@
             "open_issues": 91,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3838,
+            "stars": 3840,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1846,7 +1855,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3452,
+            "stars": 3453,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1899,10 +1908,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-05-15T06:23:56Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4555,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2038,7 +2047,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "android",
               "clipboard",
@@ -2196,7 +2205,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T15:49:27Z",
+            "last_commit": "2026-09-18T15:18:09Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2877,7 +2886,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T19:03:10Z",
+            "last_commit": "2026-09-18T19:15:52Z",
             "open_issues": 0,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3390,7 +3399,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "cat",
               "ebitengine",
@@ -3691,7 +3700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:28:36.901Z",
+    "last_updated": "2026-09-19T00:25:07.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3700,10 +3709,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-09-17T07:07:10Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 992,
+      "stars": 993,
       "topics": [
         "awesome",
         "awesome-list",
