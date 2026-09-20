@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 939,
+            "stars": 940,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -531,10 +531,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-02T09:05:14Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1256,
+            "stars": 1255,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -877,7 +877,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "anim",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "2d-animation",
               "ebiten-game-library",
@@ -1428,7 +1428,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "jel",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "2d-physics",
               "2d-physics-engine",
@@ -1855,7 +1855,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3453,
+            "stars": 3452,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1911,7 +1911,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4554,
+            "stars": 4555,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2116,7 +2116,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11089,
+            "stars": 11092,
             "topics": [
               "2d",
               "arpg",
@@ -2205,7 +2205,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T15:18:09Z",
+            "last_commit": "2026-09-19T14:56:10Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2855,6 +2855,35 @@
         },
         {
           "node_type": "item",
+          "title": "aram-emu",
+          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ARAM: Archived Runtime for ARM Mobiles",
+            "homepage": "https://aram.mir.sh/en/",
+            "id": 1315882678,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-18T19:15:52Z",
+            "open_issues": 0,
+            "owner": "mirusu400",
+            "repo": "aram-emu",
+            "stars": 6,
+            "topics": [
+              "arm",
+              "emulator",
+              "mobile",
+              "mobile-application",
+              "mobile-game",
+              "phone",
+              "wipi"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
+        },
+        {
+          "node_type": "item",
           "title": "gtris",
           "description": "A Tetris clone.",
           "children": [],
@@ -2873,35 +2902,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "aram-emu",
-          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ARAM: Archived Runtime for ARM Mobiles",
-            "homepage": "https://aram.mir.sh/en/",
-            "id": 1315882678,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:15:52Z",
-            "open_issues": 0,
-            "owner": "mirusu400",
-            "repo": "aram-emu",
-            "stars": 5,
-            "topics": [
-              "arm",
-              "emulator",
-              "mobile",
-              "mobile-application",
-              "mobile-game",
-              "phone",
-              "wipi"
-            ]
-          },
-          "first_seen": "2026-09-12T00:23:01.868Z"
         },
         {
           "node_type": "item",
@@ -3171,7 +3171,7 @@
             "id": 80924593,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-09-17T23:33:18Z",
+            "last_commit": "2026-09-19T23:14:22Z",
             "open_issues": 0,
             "owner": "Zebbeni",
             "repo": "protozoa",
@@ -3700,7 +3700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:25:07.741Z",
+    "last_updated": "2026-09-20T00:10:46.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
