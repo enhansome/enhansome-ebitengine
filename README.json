@@ -422,7 +422,7 @@
             "open_issues": 75,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 940,
+            "stars": 941,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -531,7 +531,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-02T09:05:14Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
             "stars": 1255,
@@ -2205,7 +2205,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T14:56:10Z",
+            "last_commit": "2026-09-20T15:02:39Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2771,6 +2771,35 @@
         },
         {
           "node_type": "item",
+          "title": "aram-emu",
+          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ARAM: Archived Runtime for ARM Mobiles",
+            "homepage": "https://aram.mir.sh/en/",
+            "id": 1315882678,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-20T17:22:00Z",
+            "open_issues": 0,
+            "owner": "mirusu400",
+            "repo": "aram-emu",
+            "stars": 8,
+            "topics": [
+              "arm",
+              "emulator",
+              "mobile",
+              "mobile-application",
+              "mobile-game",
+              "phone",
+              "wipi"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
+        },
+        {
+          "node_type": "item",
           "title": "tetriverse",
           "description": "Tetris... in reverse.",
           "children": [],
@@ -2852,35 +2881,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "aram-emu",
-          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ARAM: Archived Runtime for ARM Mobiles",
-            "homepage": "https://aram.mir.sh/en/",
-            "id": 1315882678,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:15:52Z",
-            "open_issues": 0,
-            "owner": "mirusu400",
-            "repo": "aram-emu",
-            "stars": 6,
-            "topics": [
-              "arm",
-              "emulator",
-              "mobile",
-              "mobile-application",
-              "mobile-game",
-              "phone",
-              "wipi"
-            ]
-          },
-          "first_seen": "2026-09-12T00:23:01.868Z"
         },
         {
           "node_type": "item",
@@ -3700,7 +3700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:10:46.156Z",
+    "last_updated": "2026-09-21T00:19:18.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
