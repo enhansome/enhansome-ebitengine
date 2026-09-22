@@ -534,7 +534,7 @@
             "open_issues": 9,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1255,
+            "stars": 1256,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -1855,7 +1855,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3452,
+            "stars": 3453,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1911,7 +1911,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4555,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2116,7 +2116,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11092,
+            "stars": 11093,
             "topics": [
               "2d",
               "arpg",
@@ -2205,8 +2205,8 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T15:02:39Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-21T17:21:08Z",
+            "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 300,
@@ -2781,8 +2781,8 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T17:22:00Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-21T16:24:48Z",
+            "open_issues": 1,
             "owner": "mirusu400",
             "repo": "aram-emu",
             "stars": 8,
@@ -3369,7 +3369,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3083,
+            "stars": 3082,
             "topics": [
               "golang",
               "opengl",
@@ -3448,7 +3448,7 @@
             "open_issues": 1,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 140,
+            "stars": 142,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3700,7 +3700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:19:18.642Z",
+    "last_updated": "2026-09-22T00:54:47.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
