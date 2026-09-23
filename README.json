@@ -245,12 +245,33 @@
             "open_issues": 0,
             "owner": "tinne26",
             "repo": "mipix",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "ebitengine",
               "game-development",
               "golang"
             ]
+          },
+          "first_seen": "2026-08-28T06:11:01.315Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ebiten_extended",
+          "description": "A 2D Godot-inspired framework for Ebiten written in Go. It provides a scene graph, layers, camera, sprites, animations, collision detection, input handling, and resource management so you can focus on game logic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 690549828,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-01T12:55:55Z",
+            "open_issues": 1,
+            "owner": "LuigiVanacore",
+            "repo": "ludum",
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -280,27 +301,6 @@
               "routine",
               "scheduling"
             ]
-          },
-          "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ebiten_extended",
-          "description": "A 2D Godot-inspired framework for Ebiten written in Go. It provides a scene graph, layers, camera, sprites, animations, collision detection, input handling, and resource management so you can focus on game logic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 690549828,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-01T12:55:55Z",
-            "open_issues": 1,
-            "owner": "LuigiVanacore",
-            "repo": "ludum",
-            "stars": 15,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
         },
@@ -1855,7 +1855,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3453,
+            "stars": 3452,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1876,7 +1876,7 @@
             "open_issues": 104,
             "owner": "open2b",
             "repo": "scriggo",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "cross-platform",
               "embedded",
@@ -2116,7 +2116,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11093,
+            "stars": 11094,
             "topics": [
               "2d",
               "arpg",
@@ -2180,7 +2180,7 @@
             "open_issues": 8,
             "owner": "quasilyte",
             "repo": "roboden-game",
-            "stars": 488,
+            "stars": 487,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -2205,7 +2205,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T17:21:08Z",
+            "last_commit": "2026-09-22T15:53:32Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2781,8 +2781,8 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T16:24:48Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-22T13:00:26Z",
+            "open_issues": 2,
             "owner": "mirusu400",
             "repo": "aram-emu",
             "stars": 8,
@@ -3700,7 +3700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:54:47.390Z",
+    "last_updated": "2026-09-23T00:42:34.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
