@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3416,
+            "stars": 3418,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -564,7 +564,7 @@
             "open_issues": 4,
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1825,7 +1825,7 @@
             "open_issues": 91,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3840,
+            "stars": 3841,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1855,7 +1855,7 @@
             "open_issues": 50,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3452,
+            "stars": 3453,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1911,7 +1911,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4555,
+            "stars": 4556,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2116,7 +2116,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11094,
+            "stars": 11096,
             "topics": [
               "2d",
               "arpg",
@@ -2205,7 +2205,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T15:44:29Z",
+            "last_commit": "2026-09-24T17:30:02Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3241,7 +3241,7 @@
             "open_issues": 0,
             "owner": "alexanderscrimgeour",
             "repo": "biogo",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -3369,7 +3369,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3082,
+            "stars": 3083,
             "topics": [
               "golang",
               "opengl",
@@ -3482,7 +3482,7 @@
             "open_issues": 0,
             "owner": "aldernero",
             "repo": "sketchy",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "creative-coding",
               "ebiten",
@@ -3700,7 +3700,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:35:41.792Z",
+    "last_updated": "2026-09-25T00:36:42.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
