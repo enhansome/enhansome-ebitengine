@@ -2137,7 +2137,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11103,
+            "stars": 11102,
             "topics": [
               "2d",
               "arpg",
@@ -2226,11 +2226,11 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:32:35Z",
+            "last_commit": "2026-10-03T16:40:05Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "2d",
               "game",
@@ -2522,20 +2522,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Clone of the classic arcade game Battle City (NES, 1985), built with Go.",
+            "description": "Tanks from the 90s the way we remember them, with real-time 2D lighting. Go + Ebitengine, desktop and web.",
             "homepage": "https://shpaker.github.io/tnk9x/",
             "id": 1073723765,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:23:38Z",
+            "last_commit": "2026-10-03T18:49:29Z",
             "open_issues": 1,
             "owner": "shpaker",
             "repo": "tnk9x",
             "stars": 25,
             "topics": [
-              "battlecity",
+              "2d-lighting",
               "ebiten",
-              "ebitengine"
+              "ebitengine",
+              "retro-game",
+              "tanks"
             ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2763,6 +2765,35 @@
         },
         {
           "node_type": "item",
+          "title": "aram-emu",
+          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ARAM: Archived Runtime for ARM Mobiles",
+            "homepage": "https://aram.mir.sh/en/",
+            "id": 1315882678,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-03T21:12:16Z",
+            "open_issues": 3,
+            "owner": "mirusu400",
+            "repo": "aram-emu",
+            "stars": 10,
+            "topics": [
+              "arm",
+              "emulator",
+              "mobile",
+              "mobile-application",
+              "mobile-game",
+              "phone",
+              "wipi"
+            ]
+          },
+          "first_seen": "2026-09-12T00:23:01.868Z"
+        },
+        {
+          "node_type": "item",
           "title": "retromancer",
           "description": "Harness the powers of reversing time and fight the Lich in this short action-adventure pseudo bullet-hell game.",
           "children": [],
@@ -2789,35 +2820,6 @@
             ]
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "aram-emu",
-          "description": "An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ARAM: Archived Runtime for ARM Mobiles",
-            "homepage": "https://aram.mir.sh/en/",
-            "id": 1315882678,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:42:09Z",
-            "open_issues": 3,
-            "owner": "mirusu400",
-            "repo": "aram-emu",
-            "stars": 9,
-            "topics": [
-              "arm",
-              "emulator",
-              "mobile",
-              "mobile-application",
-              "mobile-game",
-              "phone",
-              "wipi"
-            ]
-          },
-          "first_seen": "2026-09-12T00:23:01.868Z"
         },
         {
           "node_type": "item",
@@ -3469,7 +3471,7 @@
             "open_issues": 1,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3721,7 +3723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:18.639Z",
+    "last_updated": "2026-10-04T00:51:33.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
