@@ -534,7 +534,7 @@
             "open_issues": 13,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1258,
+            "stars": 1259,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -1876,7 +1876,7 @@
             "open_issues": 50,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3457,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2137,7 +2137,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11102,
+            "stars": 11104,
             "topics": [
               "2d",
               "arpg",
@@ -2226,7 +2226,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T16:40:05Z",
+            "last_commit": "2026-10-04T17:00:39Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2527,7 +2527,7 @@
             "id": 1073723765,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:49:29Z",
+            "last_commit": "2026-10-04T10:41:01Z",
             "open_issues": 1,
             "owner": "shpaker",
             "repo": "tnk9x",
@@ -2775,7 +2775,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T21:12:16Z",
+            "last_commit": "2026-10-04T06:30:48Z",
             "open_issues": 3,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3471,7 +3471,7 @@
             "open_issues": 1,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3723,7 +3723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:51:33.062Z",
+    "last_updated": "2026-10-05T01:02:38.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",

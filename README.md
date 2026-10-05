@@ -4,7 +4,7 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,533 | 🐛 293 | 🌐 Go | 📅 2026-10-03 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,536 | 🐛 291 | 🌐 Go | 📅 2026-10-04 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
@@ -68,7 +68,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for graphics*
 
-* [go-colorful](https://github.com/lucasb-eyer/go-colorful) ⭐ 1,258 | 🐛 13 | 🌐 Go | 📅 2026-08-02 - A complex library for handling color spaces and comparing colors.
+* [go-colorful](https://github.com/lucasb-eyer/go-colorful) ⭐ 1,259 | 🐛 13 | 🌐 Go | 📅 2026-08-02 - A complex library for handling color spaces and comparing colors.
 * [tetra3d](https://github.com/SolarLune/Tetra3d) ⭐ 521 | 🐛 8 | 🌐 Go | 📅 2026-08-19 - A 3D software renderer written in Go by means of Ebitengine, primarily for video games.
 * [colorgrad](https://github.com/mazznoer/colorgrad) ⭐ 231 | 🐛 0 | 🌐 Go | 📅 2026-01-16 - Go color scales library for data visualization, charts, games, maps, generative art and others.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) ⭐ 173 | 🐛 0 | 🌐 Go | 📅 2025-04-07 - Golang raycaster engine using the Ebitengine 2D Game Library.
@@ -146,7 +146,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Embedded languages ​​and related tools*
 
 * [tengo](https://github.com/d5/tengo) ⭐ 3,841 | 🐛 92 | 🌐 Go | 📅 2026-10-03 - Fast scripting language for Go.
-* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,457 | 🐛 50 | 🌐 Go | 📅 2026-09-23 - Port of Lua VM in Go.
+* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,458 | 🐛 50 | 🌐 Go | 📅 2026-09-23 - Port of Lua VM in Go.
 * [scriggo](https://github.com/open2b/scriggo) ⭐ 576 | 🐛 104 | 🌐 Go | 📅 2026-05-15 - Powerful template engine and Go embeddable interpreter.
 
 ### Networking
@@ -185,7 +185,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) ⚠️ Archived - A toy GameBoy Color emulator written in golang.
 * [roboden-game](https://github.com/quasilyte/roboden-game) ⭐ 487 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - An indirect control real-time strategy game about robot colonies.
-* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 303 | 🐛 7 | 🌐 Go | 📅 2026-10-03 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 303 | 🐛 7 | 🌐 Go | 📅 2026-10-04 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) ⭐ 127 | 🐛 2 | 🌐 Go | 📅 2026-04-25 - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) ⭐ 86 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [gosol](https://github.com/oddstream/gosol) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2023-03-18 - Polymorphic solitaire engine in Go+Ebitengine.
@@ -197,7 +197,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) ⭐ 30 | 🐛 0 | 🌐 Go | 📅 2023-08-21 - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
 * [bindless](https://github.com/tinne26/bindless) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2022-12-21 - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
 * [decipherism-game](https://github.com/quasilyte/decipherism-game) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2023-02-02 - A puzzle game where you solve the encoding machine ciphers.
-* [tnk9x](https://github.com/shpaker/tnk9x) ⭐ 25 | 🐛 1 | 🌐 Go | 📅 2026-10-03 - A remake of the classic arcade game Battle City (NES, 1985).
+* [tnk9x](https://github.com/shpaker/tnk9x) ⭐ 25 | 🐛 1 | 🌐 Go | 📅 2026-10-04 - A remake of the classic arcade game Battle City (NES, 1985).
 * [sinecord](https://github.com/quasilyte/sinecord) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2023-10-09 - Solve the puzzles and create the music along the way.
 * [go-space-crane](https://github.com/spiritofsim/go-space-crane) ⭐ 19 | 🐛 3 | 🌐 Go | 📅 2021-10-21 - Simple moonlander like game with some new mechanics.
 * [escort-mission](https://github.com/sinisterstuf/escort-mission) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2025-10-24 - Follow a dog through a post-apocalytpic wasteland full of zombies.
@@ -206,7 +206,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [assemblox](https://github.com/quasilyte/gmtk2023) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2023-09-18 - A 2D real-time strategy game made for a GMTK2023 game jam.
 * [mag](https://github.com/kettek/ebijam22) ⭐ 10 | 🐛 7 | 🌐 Go | 📅 2022-07-20 - Defend the embryonic core from the onslaught of magnetic robottos.
 * [kuronan-dash](https://github.com/kemokemo/kuronan-dash) ⭐ 10 | 🐛 2 | 🌐 Go | 📅 2026-03-30 - Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi".
-* [aram-emu](https://github.com/mirusu400/aram-emu) ⭐ 10 | 🐛 3 | 🌐 Go | 📅 2026-10-03 - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
+* [aram-emu](https://github.com/mirusu400/aram-emu) ⭐ 10 | 🐛 3 | 🌐 Go | 📅 2026-10-04 - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
 * [retromancer](https://github.com/ketMix/retromancer) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2024-01-11 - Harness the powers of reversing time and fight the Lich in this short action-adventure pseudo bullet-hell game.
 * [tetriverse](https://github.com/Critters/TETRIVERSE) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2023-06-29 - Tetris... in reverse.
 * [game-engine-dev-sim](https://github.com/hajimehoshi/ebitenginegamejam2023) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-06-26 - Tackle endless bugs and feature requests that relentlessly attack, and strive for a world-class game engine.
@@ -252,7 +252,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [darktile](https://github.com/liamg/darktile) ⭐ 3,083 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - A GPU rendered terminal emulator designed for tiling window managers.
 * [neko](https://github.com/crgimenes/neko) ⭐ 644 | 🐛 7 | 🌐 Go | 📅 2026-09-26 - Neko is a cross-platform open-source animated cursor-chasing cat.
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) ⭐ 292 | 🐛 1 | 🌐 Go | 📅 2025-09-02 - An HTTP server for Wasm testing like gopherjs serve.
-* [kutta](https://github.com/crgimenes/kutta) ⭐ 146 | 🐛 1 | 🌐 Go | 📅 2026-09-30 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
+* [kutta](https://github.com/crgimenes/kutta) ⭐ 147 | 🐛 1 | 🌐 Go | 📅 2026-09-30 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
 * [sketchy](https://github.com/aldernero/sketchy) ⭐ 106 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - A framework for creating generative art in Go.
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2022-06-22 - An implementation of the popular graphics benchmark written on Ebitengine.
 * [kageviewer](https://github.com/TLINDEN/kageviewer) ⚠️ Archived - A CLI tool to run, view and test Kage shaders.
@@ -271,4 +271,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
