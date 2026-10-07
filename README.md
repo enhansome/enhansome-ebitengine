@@ -4,7 +4,7 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,539 | 🐛 290 | 🌐 Go | 📅 2026-10-06 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,539 | 🐛 296 | 🌐 Go | 📅 2026-10-06 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
@@ -41,7 +41,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ark](https://github.com/mlange-42/ark) ⭐ 302 | 🐛 7 | 🌐 Go | 📅 2026-08-17 - An archetype-based Entity Component System for Go.
 * [unitoftime-ecs](https://github.com/unitoftime/ecs) ⭐ 150 | 🐛 0 | 🌐 Go | 📅 2026-08-04 - A simple and generic ECS implementation in Go.
 * [mizu](https://github.com/sedyh/mizu) ⭐ 95 | 🐛 6 | 🌐 Go | 📅 2023-04-02 - Entity Component System framework for Ebitengine.
-* [pi](https://github.com/elgopher/pi) ⭐ 72 | 🐛 4 | 🌐 Go | 📅 2026-04-01 - Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
+* [pi](https://github.com/elgopher/pi) ⭐ 72 | 🐛 5 | 🌐 Go | 📅 2026-10-06 - Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
 * [stagehand](https://github.com/joelschutz/stagehand) ⭐ 48 | 🐛 2 | 🌐 Go | 📅 2024-11-05 - The only scene manager you will ever need for Ebitengine.
 * [gameengine-ecs](https://github.com/marioolofo/go-gameengine-ecs) ⭐ 34 | 🐛 2 | 🌐 Go | 📅 2023-07-12 - A fast Entity Component System in Golang.
 * [mipix](https://github.com/tinne26/mipix) ⭐ 25 | 🐛 0 | 🌐 Go | 📅 2024-10-04 - A pixel art aware layout and camera managment.
@@ -59,7 +59,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [ebitenui](https://github.com/ebitenui/ebitenui) ⭐ 943 | 🐛 76 | 🌐 Go | 📅 2026-08-19 - A user interface engine and widget library for Ebitengine.
 * [furex](https://github.com/yohamta/furex) ⭐ 171 | 🐛 8 | 🌐 Go | 📅 2026-09-16 - A simple UI framework with a subset of flexbox layout specification.
-* [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) ⭐ 141 | 🐛 6 | 🌐 Go | 📅 2023-10-31 - Dear ImGui renderer for Ebitengine.
+* [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) ⭐ 140 | 🐛 6 | 🌐 Go | 📅 2023-10-31 - Dear ImGui renderer for Ebitengine.
 * [ultralight-ebitengine-port](https://github.com/YindSoft/ultralight-ebitengine-port) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-05-11 - Render HTML/CSS/JS interfaces as textures in Ebitengine using Ultralight.
 * [messeji](https://codeberg.org/tslocum/etk/src/branch/main/messeji) - Text input and display widgets for Ebitengine.
 * [etk](https://codeberg.org/tslocum/etk) - Tool kit for creating graphical user interfaces.
@@ -82,7 +82,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [canvas](https://github.com/eihigh/canvas) ⭐ 23 | 🐛 4 | 🌐 Go | 📅 2022-06-26 - Cairo in Go for Ebitengine.
 * [ebitengine-graphics](https://github.com/quasilyte/ebitengine-graphics) ⭐ 21 | 🐛 2 | 🌐 Go | 📅 2026-08-17 - A library that implements graphical primitives like Sprite, Line, Rect, etc.
 * [anim](https://github.com/setanarut/anim) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2025-03-16 - An animation player for Ebitengine.
-* [shapes](https://github.com/erparts/go-shapes) ⭐ 17 | 🐛 4 | 🌐 Go | 📅 2026-10-01 — A lightweight Ebitengine package for drawing common 2D shapes and simple effects.
+* [shapes](https://github.com/erparts/go-shapes) ⭐ 17 | 🐛 4 | 🌐 Go | 📅 2026-10-06 — A lightweight Ebitengine package for drawing common 2D shapes and simple effects.
 * [willow](https://github.com/devthicket/willow) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2026-08-20 - A display-tree 2D rendering layer for Ebitengine with batching, cameras, culling, and hit detection. Inspired by Starling and PixiJS, with a focus on performance.
 * [bitsweetfont](https://github.com/quasilyte/bitsweetfont) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-03-01 - A plug-and-play `font.Face` that has limited language support, but has multiple sizes
 * [aseprite](https://github.com/setanarut/aseprite) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2026-02-16 - Aseprite file parser, supports layers, tags, slices, flags, cels and more.
@@ -146,7 +146,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Embedded languages ​​and related tools*
 
 * [tengo](https://github.com/d5/tengo) ⭐ 3,841 | 🐛 92 | 🌐 Go | 📅 2026-10-03 - Fast scripting language for Go.
-* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,458 | 🐛 50 | 🌐 Go | 📅 2026-09-23 - Port of Lua VM in Go.
+* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,458 | 🐛 49 | 🌐 Go | 📅 2026-10-06 - Port of Lua VM in Go.
 * [scriggo](https://github.com/open2b/scriggo) ⭐ 576 | 🐛 104 | 🌐 Go | 📅 2026-05-15 - Powerful template engine and Go embeddable interpreter.
 
 ### Networking
@@ -161,7 +161,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Integration with other programs*
 
-* [go-steamworks](https://github.com/hajimehoshi/go-steamworks) ⭐ 155 | 🐛 2 | 🌐 Go | 📅 2026-10-02 - A Steamworks SDK binding for Go.
+* [go-steamworks](https://github.com/hajimehoshi/go-steamworks) ⭐ 156 | 🐛 2 | 🌐 Go | 📅 2026-10-02 - A Steamworks SDK binding for Go.
 * [ebitengine-discord-rpc](https://github.com/EldersJavas/ebitengine-discord-rpc) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2023-03-04 - Discord Rich Presence for Ebitengine.
 
 ### Input
@@ -203,10 +203,10 @@ If you see a package or project here that is no longer maintained or is not a go
 * [escort-mission](https://github.com/sinisterstuf/escort-mission) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2025-10-24 - Follow a dog through a post-apocalytpic wasteland full of zombies.
 * [mini-tanks](https://github.com/DTLP/mini_tanks) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-08-13 - Fight enemy tanks and defend your base.
 * [sokoban-go](https://github.com/x-hgg-x/sokoban-go) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2026-07-08 - Sokoban game in Go using Ebitengine game engine with ECS.
+* [aram-emu](https://github.com/mirusu400/aram-emu) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2026-10-06 - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
 * [assemblox](https://github.com/quasilyte/gmtk2023) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2023-09-18 - A 2D real-time strategy game made for a GMTK2023 game jam.
 * [mag](https://github.com/kettek/ebijam22) ⭐ 10 | 🐛 7 | 🌐 Go | 📅 2022-07-20 - Defend the embryonic core from the onslaught of magnetic robottos.
 * [kuronan-dash](https://github.com/kemokemo/kuronan-dash) ⭐ 10 | 🐛 2 | 🌐 Go | 📅 2026-03-30 - Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi".
-* [aram-emu](https://github.com/mirusu400/aram-emu) ⭐ 10 | 🐛 4 | 🌐 Go | 📅 2026-10-06 - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
 * [retromancer](https://github.com/ketMix/retromancer) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2024-01-11 - Harness the powers of reversing time and fight the Lich in this short action-adventure pseudo bullet-hell game.
 * [tetriverse](https://github.com/Critters/TETRIVERSE) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2023-06-29 - Tetris... in reverse.
 * [game-engine-dev-sim](https://github.com/hajimehoshi/ebitenginegamejam2023) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2023-06-26 - Tackle endless bugs and feature requests that relentlessly attack, and strive for a world-class game engine.
@@ -237,9 +237,9 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demoscenes and simulations written in Ebitengine*
 
-* [protozoa](https://github.com/Zebbeni/protozoa) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2026-10-05 - A simulation of protozoan behavior and evolution.
+* [protozoa](https://github.com/Zebbeni/protozoa) ⭐ 37 | 🐛 0 | 🌐 Go | 📅 2026-10-06 - A simulation of protozoan behavior and evolution.
 * [ray-engine](https://github.com/Myu-Unix/ray_engine) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2022-01-22 - A toy raycasting engine built with Go and Ebitengine.
-* [biogo](https://github.com/alexanderscrimgeour/biogo) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2026-07-23 - A simple genetic simulator written in Go.
+* [biogo](https://github.com/alexanderscrimgeour/biogo) ⭐ 20 | 🐛 0 | 🌐 Go | 📅 2026-07-23 - A simple genetic simulator written in Go.
 * [fire](https://github.com/dim13/fire) ⭐ 12 | 🐛 2 | 🌐 Go | 📅 2025-10-21 - Experiments with Ebitengine - Doomfire.
 * [ebitengine-hexboard](https://github.com/ConValance/ebitengine-hexboard) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2024-05-07 - A simple example of hexboard with Ebitengine.
 * [nature-of-code-ebiten](https://github.com/philyawj/nature-of-code-ebiten) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2025-09-07 - Ports of The Nature of Code examples to Go using the Ebitengine game engine.
@@ -249,9 +249,9 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebitengine*
 
-* [darktile](https://github.com/liamg/darktile) ⭐ 3,083 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - A GPU rendered terminal emulator designed for tiling window managers.
+* [darktile](https://github.com/liamg/darktile) ⭐ 3,082 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - A GPU rendered terminal emulator designed for tiling window managers.
 * [neko](https://github.com/crgimenes/neko) ⭐ 644 | 🐛 7 | 🌐 Go | 📅 2026-09-26 - Neko is a cross-platform open-source animated cursor-chasing cat.
-* [wasmserve](https://github.com/hajimehoshi/wasmserve) ⭐ 292 | 🐛 1 | 🌐 Go | 📅 2025-09-02 - An HTTP server for Wasm testing like gopherjs serve.
+* [wasmserve](https://github.com/hajimehoshi/wasmserve) ⭐ 291 | 🐛 1 | 🌐 Go | 📅 2025-09-02 - An HTTP server for Wasm testing like gopherjs serve.
 * [kutta](https://github.com/crgimenes/kutta) ⭐ 147 | 🐛 1 | 🌐 Go | 📅 2026-09-30 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
 * [sketchy](https://github.com/aldernero/sketchy) ⭐ 106 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - A framework for creating generative art in Go.
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2022-06-22 - An implementation of the popular graphics benchmark written on Ebitengine.
@@ -271,4 +271,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
