@@ -723,7 +723,7 @@
             "id": 476890794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T16:24:17Z",
+            "last_commit": "2026-10-07T14:56:10Z",
             "open_issues": 2,
             "owner": "tinne26",
             "repo": "etxt",
@@ -1284,7 +1284,7 @@
             "open_issues": 2,
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "chipmunk2d",
               "physics",
@@ -1515,7 +1515,7 @@
             "open_issues": 3,
             "owner": "beefsack",
             "repo": "go-astar",
-            "stars": 629,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1846,7 +1846,7 @@
             "open_issues": 92,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3841,
+            "stars": 3840,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1872,7 +1872,7 @@
             "id": 15344288,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T13:56:47Z",
+            "last_commit": "2026-10-07T13:23:09Z",
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
@@ -1932,7 +1932,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4554,
+            "stars": 4553,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2226,7 +2226,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:36:51Z",
+            "last_commit": "2026-10-07T18:07:29Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2527,7 +2527,7 @@
             "id": 1073723765,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:37:29Z",
+            "last_commit": "2026-10-07T11:11:42Z",
             "open_issues": 1,
             "owner": "shpaker",
             "repo": "tnk9x",
@@ -2683,7 +2683,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T20:07:45Z",
+            "last_commit": "2026-10-07T09:04:06Z",
             "open_issues": 3,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3194,7 +3194,7 @@
             "id": 80924593,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-06T18:09:20Z",
+            "last_commit": "2026-10-07T14:05:36Z",
             "open_issues": 0,
             "owner": "Zebbeni",
             "repo": "protozoa",
@@ -3471,7 +3471,7 @@
             "open_issues": 1,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3723,7 +3723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:39:12.908Z",
+    "last_updated": "2026-10-08T02:04:07.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
