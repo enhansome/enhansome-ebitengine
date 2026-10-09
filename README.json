@@ -154,7 +154,7 @@
             "id": 515452970,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T21:02:33Z",
+            "last_commit": "2026-10-08T21:46:01Z",
             "open_issues": 5,
             "owner": "elgopher",
             "repo": "pi",
@@ -270,7 +270,7 @@
             "open_issues": 1,
             "owner": "LuigiVanacore",
             "repo": "ludum",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -511,6 +511,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
+        },
+        {
+          "node_type": "item",
+          "title": "worldiety/gift",
+          "description": "Declarative UI toolkit for Go: SwiftUI-style views, typed state and GPU rendering with Ebitengine, without a browser or WebView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "gift is a high performance ui and widget framework inspired by swift ui",
+            "homepage": null,
+            "id": 1368387847,
+            "language": "Go",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-09-27T18:13:46Z",
+            "open_issues": 0,
+            "owner": "worldiety",
+            "repo": "gift",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T02:17:43.756Z"
         }
       ],
       "title": "GUI"
@@ -561,7 +582,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-19T00:45:23Z",
-            "open_issues": 8,
+            "open_issues": 14,
             "owner": "SolarLune",
             "repo": "tetra3d",
             "stars": 521,
@@ -723,7 +744,7 @@
             "id": 476890794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:56:10Z",
+            "last_commit": "2026-10-08T18:03:12Z",
             "open_issues": 2,
             "owner": "tinne26",
             "repo": "etxt",
@@ -1284,7 +1305,7 @@
             "open_issues": 2,
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "chipmunk2d",
               "physics",
@@ -1876,7 +1897,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3458,
+            "stars": 3457,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2137,7 +2158,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11103,
+            "stars": 11102,
             "topics": [
               "2d",
               "arpg",
@@ -2226,7 +2247,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T18:07:29Z",
+            "last_commit": "2026-10-08T19:01:23Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2683,7 +2704,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T09:04:06Z",
+            "last_commit": "2026-10-09T02:14:42Z",
             "open_issues": 3,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3194,7 +3215,7 @@
             "id": 80924593,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-07T14:05:36Z",
+            "last_commit": "2026-10-08T17:12:30Z",
             "open_issues": 0,
             "owner": "Zebbeni",
             "repo": "protozoa",
@@ -3422,7 +3443,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 644,
+            "stars": 645,
             "topics": [
               "cat",
               "ebitengine",
@@ -3723,7 +3744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:04:07.035Z",
+    "last_updated": "2026-10-09T02:17:43.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3731,11 +3752,11 @@
       "id": 388439886,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-27T10:56:38Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-08T21:45:24Z",
+      "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 997,
+      "stars": 999,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3747,7 +3768,7 @@
         "golang"
       ]
     },
-    "original_repository_sha": "c46db04815b9f6a096ded95ed8be62e2801f18ab",
+    "original_repository_sha": "71e309628115c835a72f48a783950314d9f3333c",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
     "title": "Awesome Ebitengine with stars"
