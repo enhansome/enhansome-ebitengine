@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3419,
+            "stars": 3420,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "ebitengine",
               "ecs",
@@ -585,7 +585,7 @@
             "open_issues": 5,
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 522,
+            "stars": 523,
             "topics": [
               "3d",
               "3d-graphics",
@@ -920,7 +920,7 @@
             "id": 967541120,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T11:45:06Z",
+            "last_commit": "2026-10-13T14:59:58Z",
             "open_issues": 4,
             "owner": "bstkhq",
             "repo": "go-shapes",
@@ -1638,7 +1638,7 @@
             "open_issues": 3,
             "owner": "SolarLune",
             "repo": "ldtkgo",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1680,7 +1680,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "kamera",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "2d-camera",
               "camera-shake",
@@ -1863,11 +1863,11 @@
             "id": 164809872,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-11T15:45:35Z",
-            "open_issues": 92,
+            "last_commit": "2026-10-13T06:10:23Z",
+            "open_issues": 91,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3840,
+            "stars": 3842,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1897,7 +1897,7 @@
             "open_issues": 49,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3457,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1918,7 +1918,7 @@
             "open_issues": 104,
             "owner": "open2b",
             "repo": "scriggo",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "cross-platform",
               "embedded",
@@ -1953,7 +1953,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4555,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2158,7 +2158,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11103,
+            "stars": 11104,
             "topics": [
               "2d",
               "arpg",
@@ -2247,8 +2247,8 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T21:26:02Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-13T19:30:10Z",
+            "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 305,
@@ -2704,7 +2704,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T19:10:32Z",
+            "last_commit": "2026-10-13T20:21:59Z",
             "open_issues": 3,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3413,7 +3413,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3082,
+            "stars": 3083,
             "topics": [
               "golang",
               "opengl",
@@ -3744,7 +3744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:04:34.171Z",
+    "last_updated": "2026-10-14T01:16:46.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
