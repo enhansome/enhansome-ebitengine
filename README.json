@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3420,
+            "stars": 3419,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 380,
+            "stars": 379,
             "topics": [
               "ebitengine",
               "ecs",
@@ -71,7 +71,7 @@
             "open_issues": 7,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "agent-based-modeling",
               "ecs",
@@ -422,7 +422,7 @@
             "open_issues": 79,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 943,
+            "stars": 942,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -581,8 +581,8 @@
             "id": 424376048,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T18:43:19Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-14T15:52:53Z",
+            "open_issues": 0,
             "owner": "SolarLune",
             "repo": "tetra3d",
             "stars": 523,
@@ -920,7 +920,7 @@
             "id": 967541120,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:59:58Z",
+            "last_commit": "2026-10-14T11:35:10Z",
             "open_issues": 4,
             "owner": "bstkhq",
             "repo": "go-shapes",
@@ -1177,7 +1177,7 @@
             "open_issues": 0,
             "owner": "bstkhq",
             "repo": "go-ffmpeg-ffi",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-30T00:26:41.515Z"
@@ -1305,7 +1305,7 @@
             "open_issues": 2,
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 402,
+            "stars": 401,
             "topics": [
               "chipmunk2d",
               "physics",
@@ -1557,7 +1557,7 @@
             "open_issues": 3,
             "owner": "lafriks",
             "repo": "go-tiled",
-            "stars": 257,
+            "stars": 256,
             "topics": [
               "go",
               "golang",
@@ -1953,7 +1953,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4554,
+            "stars": 4553,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2089,7 +2089,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 863,
+            "stars": 865,
             "topics": [
               "android",
               "clipboard",
@@ -2158,7 +2158,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11104,
+            "stars": 11107,
             "topics": [
               "2d",
               "arpg",
@@ -2247,7 +2247,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T19:30:10Z",
+            "last_commit": "2026-10-14T17:32:23Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2412,7 +2412,7 @@
             "open_issues": 0,
             "owner": "x-hgg-x",
             "repo": "space-invaders-go",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2704,7 +2704,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T20:21:59Z",
+            "last_commit": "2026-10-14T14:42:02Z",
             "open_issues": 3,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3215,7 +3215,7 @@
             "id": 80924593,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-08T17:12:30Z",
+            "last_commit": "2026-10-14T20:07:19Z",
             "open_issues": 0,
             "owner": "Zebbeni",
             "repo": "protozoa",
@@ -3492,7 +3492,7 @@
             "open_issues": 1,
             "owner": "crgimenes",
             "repo": "kutta",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "aerodynamics",
               "aeromodelling",
@@ -3744,7 +3744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:16:46.407Z",
+    "last_updated": "2026-10-15T00:36:26.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
