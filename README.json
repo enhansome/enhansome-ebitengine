@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3419,
+            "stars": 3418,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -101,7 +101,7 @@
             "open_issues": 0,
             "owner": "unitoftime",
             "repo": "ecs",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "ecs",
               "go",
@@ -582,7 +582,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-14T15:52:53Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "SolarLune",
             "repo": "tetra3d",
             "stars": 523,
@@ -898,7 +898,7 @@
             "open_issues": 0,
             "owner": "setanarut",
             "repo": "anim",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "2d-animation",
               "ebiten-game-library",
@@ -920,7 +920,7 @@
             "id": 967541120,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T11:35:10Z",
+            "last_commit": "2026-10-15T11:21:19Z",
             "open_issues": 4,
             "owner": "bstkhq",
             "repo": "go-shapes",
@@ -1070,6 +1070,42 @@
             "topics": []
           },
           "first_seen": "2026-09-28T00:54:12.991Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kinescope",
+          "description": "The picture of an old tube TV: scanlines, phosphor mask, glow, afterglow, bulging glass and the flaws of a worn set, with an online lab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The picture of an old tube TV for Go games: scanlines, mask, glow, afterglow and the moods of a worn set. Ebitengine backend and a lab.",
+            "homepage": "https://shpaker.github.io/kinescope/",
+            "id": 1403491001,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-12T17:28:35Z",
+            "open_issues": 0,
+            "owner": "shpaker",
+            "repo": "kinescope",
+            "stars": 1,
+            "topics": [
+              "crt",
+              "crt-shader",
+              "ebiten",
+              "ebitengine",
+              "gamedev",
+              "go",
+              "golang",
+              "kage",
+              "pixel-art",
+              "post-processing",
+              "retro",
+              "scanlines",
+              "shader",
+              "wasm"
+            ]
+          },
+          "first_seen": "2026-10-16T00:29:31.059Z"
         }
       ],
       "title": "Graphics"
@@ -1864,7 +1900,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-13T06:10:23Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "d5",
             "repo": "tengo",
             "stars": 3842,
@@ -1953,7 +1989,7 @@
             "open_issues": 71,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4553,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2247,7 +2283,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T17:32:23Z",
+            "last_commit": "2026-10-15T17:20:14Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2704,7 +2740,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T14:42:02Z",
+            "last_commit": "2026-10-15T13:15:46Z",
             "open_issues": 3,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3443,7 +3479,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "cat",
               "ebitengine",
@@ -3744,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:36:26.403Z",
+    "last_updated": "2026-10-16T00:29:31.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3752,8 +3788,8 @@
       "id": 388439886,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-08T21:45:24Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-15T23:16:50Z",
+      "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
       "stars": 999,
@@ -3768,7 +3804,7 @@
         "golang"
       ]
     },
-    "original_repository_sha": "71e309628115c835a72f48a783950314d9f3333c",
+    "original_repository_sha": "6cad0cef56201b4172c040a7aa9ec69a2415bf27",
     "enhanced_repository": "enhansome/enhansome-ebitengine",
     "enhanced_repository_description": null,
     "title": "Awesome Ebitengine with stars"
