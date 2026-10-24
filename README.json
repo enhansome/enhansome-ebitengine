@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3420,
+            "stars": 3421,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -68,7 +68,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T10:16:18Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "mlange-42",
             "repo": "ark",
             "stars": 305,
@@ -158,7 +158,7 @@
             "open_issues": 4,
             "owner": "elgopher",
             "repo": "pi",
-            "stars": 72,
+            "stars": 71,
             "topics": [
               "amiga",
               "ebiten",
@@ -528,7 +528,7 @@
             "open_issues": 0,
             "owner": "worldiety",
             "repo": "gift",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-10-09T02:17:43.756Z"
@@ -555,7 +555,7 @@
             "open_issues": 13,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1260,
+            "stars": 1261,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -1310,7 +1310,7 @@
             "open_issues": 9,
             "owner": "SolarLune",
             "repo": "resolv",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "bump",
               "check",
@@ -1641,7 +1641,7 @@
             "open_issues": 0,
             "owner": "quasilyte",
             "repo": "pathing",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "a-star",
               "ebiten",
@@ -1695,7 +1695,7 @@
             "open_issues": 4,
             "owner": "SolarLune",
             "repo": "paths",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1985,11 +1985,11 @@
             "id": 37511821,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-22T10:49:36Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-23T02:59:00Z",
+            "open_issues": 69,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4555,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2194,7 +2194,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11105,
+            "stars": 11103,
             "topics": [
               "2d",
               "arpg",
@@ -2283,7 +2283,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T17:36:51Z",
+            "last_commit": "2026-10-23T17:24:22Z",
             "open_issues": 10,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2448,7 +2448,7 @@
             "open_issues": 0,
             "owner": "x-hgg-x",
             "repo": "space-invaders-go",
-            "stars": 42,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2740,7 +2740,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T12:04:27Z",
+            "last_commit": "2026-10-23T11:49:29Z",
             "open_issues": 2,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3449,7 +3449,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3084,
+            "stars": 3085,
             "topics": [
               "golang",
               "opengl",
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:44:19.456Z",
+    "last_updated": "2026-10-24T00:48:59.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3792,7 +3792,7 @@
       "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 1002,
+      "stars": 1001,
       "topics": [
         "awesome",
         "awesome-list",
