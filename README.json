@@ -615,7 +615,7 @@
             "id": 282250117,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T11:59:16Z",
+            "last_commit": "2026-10-27T12:41:30Z",
             "open_issues": 0,
             "owner": "mazznoer",
             "repo": "colorgrad",
@@ -1593,7 +1593,7 @@
             "open_issues": 3,
             "owner": "lafriks",
             "repo": "go-tiled",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "go",
               "golang",
@@ -1641,7 +1641,7 @@
             "open_issues": 0,
             "owner": "quasilyte",
             "repo": "pathing",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "a-star",
               "ebiten",
@@ -1930,10 +1930,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-07T13:23:09Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3459,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1989,7 +1989,7 @@
             "open_issues": 67,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4552,
+            "stars": 4553,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2125,7 +2125,7 @@
             "open_issues": 0,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 865,
+            "stars": 864,
             "topics": [
               "android",
               "clipboard",
@@ -2194,7 +2194,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11105,
+            "stars": 11106,
             "topics": [
               "2d",
               "arpg",
@@ -2283,8 +2283,8 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T18:55:18Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-27T18:12:18Z",
+            "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
             "stars": 305,
@@ -3479,7 +3479,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 648,
+            "stars": 647,
             "topics": [
               "cat",
               "ebitengine",
@@ -3507,7 +3507,7 @@
             "open_issues": 1,
             "owner": "hajimehoshi",
             "repo": "wasmserve",
-            "stars": 291,
+            "stars": 292,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:31:31.697Z",
+    "last_updated": "2026-10-28T01:27:59.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
