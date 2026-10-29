@@ -703,7 +703,7 @@
             "open_issues": 0,
             "owner": "yohamta0",
             "repo": "ganim8-lib",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "ebitengine",
               "sprite-animation"
@@ -1572,7 +1572,7 @@
             "open_issues": 3,
             "owner": "beefsack",
             "repo": "go-astar",
-            "stars": 630,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1903,7 +1903,7 @@
             "open_issues": 99,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3842,
+            "stars": 3843,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1950,8 +1950,8 @@
             "id": 170464043,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-05-15T13:21:08Z",
-            "open_issues": 104,
+            "last_commit": "2026-10-28T17:07:26Z",
+            "open_issues": 105,
             "owner": "open2b",
             "repo": "scriggo",
             "stars": 577,
@@ -1985,7 +1985,7 @@
             "id": 37511821,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T02:32:47Z",
+            "last_commit": "2026-10-28T09:57:11Z",
             "open_issues": 67,
             "owner": "xtaci",
             "repo": "kcp-go",
@@ -2194,7 +2194,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11106,
+            "stars": 11107,
             "topics": [
               "2d",
               "arpg",
@@ -2283,11 +2283,11 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T18:12:18Z",
+            "last_commit": "2026-10-28T18:30:36Z",
             "open_issues": 7,
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "2d",
               "game",
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:27:59.721Z",
+    "last_updated": "2026-10-29T01:51:53.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
