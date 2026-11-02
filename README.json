@@ -493,6 +493,27 @@
         },
         {
           "node_type": "item",
+          "title": "worldiety/gift",
+          "description": "Declarative UI toolkit for Go: SwiftUI-style views, typed state and GPU rendering with Ebitengine, without a browser or WebView.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "gift is a high performance ui and widget framework inspired by swift ui",
+            "homepage": null,
+            "id": 1368387847,
+            "language": "Go",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-11-01T17:42:05Z",
+            "open_issues": 1,
+            "owner": "worldiety",
+            "repo": "gift",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T02:17:43.756Z"
+        },
+        {
+          "node_type": "item",
           "title": "ultralight-ebitengine-port",
           "description": "Render HTML/CSS/JS interfaces as textures in Ebitengine using Ultralight.",
           "children": [],
@@ -511,27 +532,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
-        },
-        {
-          "node_type": "item",
-          "title": "worldiety/gift",
-          "description": "Declarative UI toolkit for Go: SwiftUI-style views, typed state and GPU rendering with Ebitengine, without a browser or WebView.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "gift is a high performance ui and widget framework inspired by swift ui",
-            "homepage": null,
-            "id": 1368387847,
-            "language": "Go",
-            "license": "BSD-2-Clause",
-            "last_commit": "2026-10-31T22:01:45Z",
-            "open_issues": 1,
-            "owner": "worldiety",
-            "repo": "gift",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-10-09T02:17:43.756Z"
         }
       ],
       "title": "GUI"
@@ -555,7 +555,7 @@
             "open_issues": 14,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1261,
+            "stars": 1260,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -1265,7 +1265,7 @@
             "id": 707116408,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-01-05T07:10:56Z",
+            "last_commit": "2026-11-01T11:45:56Z",
             "open_issues": 2,
             "owner": "quasilyte",
             "repo": "xm",
@@ -1341,7 +1341,7 @@
             "open_issues": 2,
             "owner": "jakecoffman",
             "repo": "cp",
-            "stars": 401,
+            "stars": 402,
             "topics": [
               "chipmunk2d",
               "physics",
@@ -1899,8 +1899,8 @@
             "id": 164809872,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-13T06:10:23Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-01T16:40:31Z",
+            "open_issues": 109,
             "owner": "d5",
             "repo": "tengo",
             "stars": 3844,
@@ -1930,7 +1930,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-07T13:23:09Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "Shopify",
             "repo": "go-lua",
             "stars": 3460,
@@ -1989,7 +1989,7 @@
             "open_issues": 66,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4553,
+            "stars": 4554,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2067,8 +2067,8 @@
             "id": 400825870,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T09:10:12Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-01T06:57:51Z",
+            "open_issues": 2,
             "owner": "hajimehoshi",
             "repo": "go-steamworks",
             "stars": 157,
@@ -2194,7 +2194,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11109,
+            "stars": 11110,
             "topics": [
               "2d",
               "arpg",
@@ -2283,7 +2283,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T17:22:53Z",
+            "last_commit": "2026-11-01T18:05:27Z",
             "open_issues": 8,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2740,8 +2740,8 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T00:51:29Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T01:08:52Z",
+            "open_issues": 1,
             "owner": "mirusu400",
             "repo": "aram-emu",
             "stars": 11,
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:16:47.703Z",
+    "last_updated": "2026-11-02T01:35:29.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
