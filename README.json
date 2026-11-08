@@ -1150,7 +1150,7 @@
             "open_issues": 9,
             "owner": "zergon321",
             "repo": "reisen",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "audio",
               "avcodec",
@@ -1930,10 +1930,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-07T13:23:09Z",
-            "open_issues": 56,
+            "open_issues": 58,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3461,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1985,8 +1985,8 @@
             "id": 37511821,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-06T02:37:21Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-07T11:46:39Z",
+            "open_issues": 19,
             "owner": "xtaci",
             "repo": "kcp-go",
             "stars": 4553,
@@ -2283,7 +2283,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T19:40:58Z",
+            "last_commit": "2026-11-07T17:53:17Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:01:19.949Z",
+    "last_updated": "2026-11-08T01:30:39.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
