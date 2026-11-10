@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3424,
+            "stars": 3426,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -619,7 +619,7 @@
             "open_issues": 0,
             "owner": "mazznoer",
             "repo": "colorgrad",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "color",
               "color-scales",
@@ -794,7 +794,7 @@
             "open_issues": 9,
             "owner": "aethiopicuschan",
             "repo": "cubism-go",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -924,7 +924,7 @@
             "open_issues": 4,
             "owner": "bstkhq",
             "repo": "go-shapes",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1933,7 +1933,7 @@
             "open_issues": 58,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3460,
+            "stars": 3462,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1985,11 +1985,11 @@
             "id": 37511821,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-08T10:04:25Z",
+            "last_commit": "2026-11-09T14:05:39Z",
             "open_issues": 18,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4551,
+            "stars": 4552,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2071,7 +2071,7 @@
             "open_issues": 1,
             "owner": "hajimehoshi",
             "repo": "go-steamworks",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2122,7 +2122,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-26T10:45:30Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "golang-design",
             "repo": "clipboard",
             "stars": 865,
@@ -2194,7 +2194,7 @@
             "open_issues": 75,
             "owner": "OpenDiablo2",
             "repo": "OpenDiablo2",
-            "stars": 11105,
+            "stars": 11106,
             "topics": [
               "2d",
               "arpg",
@@ -2283,7 +2283,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T18:02:56Z",
+            "last_commit": "2026-11-09T22:42:09Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2740,7 +2740,7 @@
             "id": 1315882678,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T01:39:34Z",
+            "last_commit": "2026-11-09T07:06:49Z",
             "open_issues": 1,
             "owner": "mirusu400",
             "repo": "aram-emu",
@@ -3422,7 +3422,7 @@
             "open_issues": 0,
             "owner": "icza",
             "repo": "balls-ebiten",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -3475,7 +3475,7 @@
             "id": 407919887,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-08T14:58:20Z",
+            "last_commit": "2026-11-10T03:45:36Z",
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
@@ -3524,7 +3524,7 @@
             "id": 1287173180,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-08T15:01:11Z",
+            "last_commit": "2026-11-10T03:49:02Z",
             "open_issues": 1,
             "owner": "crgimenes",
             "repo": "kutta",
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:46:18.805Z",
+    "last_updated": "2026-11-10T04:11:29.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3789,7 +3789,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-10-15T23:16:50Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
       "stars": 1003,
