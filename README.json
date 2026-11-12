@@ -158,7 +158,7 @@
             "open_issues": 4,
             "owner": "elgopher",
             "repo": "pi",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "amiga",
               "ebiten",
@@ -507,7 +507,7 @@
             "open_issues": 1,
             "owner": "worldiety",
             "repo": "gift",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-10-09T02:17:43.756Z"
@@ -1125,8 +1125,8 @@
             "id": 556299931,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-06-26T05:46:09Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-11T21:21:31Z",
+            "open_issues": 0,
             "owner": "gen2brain",
             "repo": "mpeg",
             "stars": 179,
@@ -1900,7 +1900,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-08T04:20:03Z",
-            "open_issues": 97,
+            "open_issues": 98,
             "owner": "d5",
             "repo": "tengo",
             "stars": 3847,
@@ -2125,7 +2125,7 @@
             "open_issues": 1,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 866,
+            "stars": 868,
             "topics": [
               "android",
               "clipboard",
@@ -2283,7 +2283,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T19:57:48Z",
+            "last_commit": "2026-11-11T19:52:06Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3479,7 +3479,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "cat",
               "ebitengine",
@@ -3780,7 +3780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:59:20.571Z",
+    "last_updated": "2026-11-12T03:08:36.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
