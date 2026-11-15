@@ -71,7 +71,7 @@
             "open_issues": 8,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "agent-based-modeling",
               "ecs",
@@ -419,10 +419,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-19T02:33:24Z",
-            "open_issues": 80,
+            "open_issues": 85,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 947,
+            "stars": 946,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -1876,7 +1876,7 @@
             "open_issues": 98,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3848,
+            "stars": 3850,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1927,7 +1927,7 @@
             "open_issues": 106,
             "owner": "open2b",
             "repo": "scriggo",
-            "stars": 578,
+            "stars": 579,
             "topics": [
               "cross-platform",
               "embedded",
@@ -1959,7 +1959,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-09T14:05:39Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "xtaci",
             "repo": "kcp-go",
             "stars": 4552,
@@ -2256,7 +2256,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T20:01:01Z",
+            "last_commit": "2026-11-14T18:28:24Z",
             "open_issues": 9,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -2989,11 +2989,11 @@
           "repo_info": {
             "archived": false,
             "description": "The classic Snake game written in Go. Using Ebitengine",
-            "homepage": null,
+            "homepage": "snake-ebitengine.vercel.app",
             "id": 981709534,
             "language": "Go",
             "license": null,
-            "last_commit": "2025-07-15T10:53:32Z",
+            "last_commit": "2026-11-14T17:38:21Z",
             "open_issues": 0,
             "owner": "fancellu",
             "repo": "snake-ebitengine",
@@ -3753,7 +3753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:30:53.143Z",
+    "last_updated": "2026-11-15T01:59:06.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
