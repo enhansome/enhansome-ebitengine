@@ -4,11 +4,11 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,634 | 🐛 288 | 🌐 Go | 📅 2026-11-15 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,636 | 🐛 289 | 🌐 Go | 📅 2026-11-17 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 1,004 | 🐛 2 | 📅 2026-10-15 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 1,004 | 🐛 2 | 📅 2026-10-15; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/sedyh/awesome-ebiten/blob/main/CONTRIBUTING.md) ⭐ 1,004 | 🐛 1 | 📅 2026-11-17 first. Thanks to all [contributors](https://github.com/sedyh/awesome-ebiten/graphs/contributors) ⭐ 1,004 | 🐛 1 | 📅 2026-11-17; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
@@ -37,8 +37,8 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Various architectural patterns and approaches to game design*
 
 * [looplab-fsm](https://github.com/looplab/fsm) ⭐ 3,429 | 🐛 29 | 🌐 Go | 📅 2026-08-27 - A Finite State Machine for Go.
-* [donburi](https://github.com/yohamta/donburi) ⭐ 382 | 🐛 8 | 🌐 Go | 📅 2026-05-17 - Just another Entity Component System library for Ebitengine.
-* [ark](https://github.com/mlange-42/ark) ⭐ 310 | 🐛 8 | 🌐 Go | 📅 2026-11-10 - An archetype-based Entity Component System for Go.
+* [donburi](https://github.com/yohamta/donburi) ⭐ 383 | 🐛 8 | 🌐 Go | 📅 2026-05-17 - Just another Entity Component System library for Ebitengine.
+* [ark](https://github.com/mlange-42/ark) ⭐ 310 | 🐛 9 | 🌐 Go | 📅 2026-11-17 - An archetype-based Entity Component System for Go.
 * [unitoftime-ecs](https://github.com/unitoftime/ecs) ⭐ 151 | 🐛 0 | 🌐 Go | 📅 2026-11-06 - A simple and generic ECS implementation in Go.
 * [mizu](https://github.com/sedyh/mizu) ⭐ 95 | 🐛 6 | 🌐 Go | 📅 2023-04-02 - Entity Component System framework for Ebitengine.
 * [pi](https://github.com/elgopher/pi) ⭐ 72 | 🐛 4 | 🌐 Go | 📅 2026-10-12 - Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
@@ -58,9 +58,9 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Libraries for building GUI Applications*
 
 * [ebitenui](https://github.com/ebitenui/ebitenui) ⭐ 946 | 🐛 85 | 🌐 Go | 📅 2026-08-19 - A user interface engine and widget library for Ebitengine.
-* [furex](https://github.com/yohamta/furex) ⭐ 171 | 🐛 8 | 🌐 Go | 📅 2026-11-16 - A simple UI framework with a subset of flexbox layout specification.
+* [furex](https://github.com/yohamta/furex) ⭐ 171 | 🐛 10 | 🌐 Go | 📅 2026-11-18 - A simple UI framework with a subset of flexbox layout specification.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) ⭐ 140 | 🐛 6 | 🌐 Go | 📅 2023-10-31 - Dear ImGui renderer for Ebitengine.
-* [worldiety/gift](https://github.com/worldiety/gift) ⭐ 18 | 🐛 1 | 🌐 Go | 📅 2026-11-06 - Declarative UI toolkit for Go: SwiftUI-style views, typed state and GPU rendering with Ebitengine, without a browser or WebView.
+* [worldiety/gift](https://github.com/worldiety/gift) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2026-11-17 - Declarative UI toolkit for Go: SwiftUI-style views, typed state and GPU rendering with Ebitengine, without a browser or WebView.
 * [ultralight-ebitengine-port](https://github.com/YindSoft/ultralight-ebitengine-port) ⭐ 13 | 🐛 0 | 🌐 C | 📅 2026-05-11 - Render HTML/CSS/JS interfaces as textures in Ebitengine using Ultralight.
 * [messeji](https://codeberg.org/tslocum/etk/src/branch/main/messeji) - Text input and display widgets for Ebitengine.
 * [etk](https://codeberg.org/tslocum/etk) - Tool kit for creating graphical user interfaces.
@@ -76,7 +76,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gween](https://github.com/tanema/gween) ⭐ 104 | 🐛 1 | 🌐 Go | 📅 2025-05-22 - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) ⭐ 84 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8) ⭐ 1,006 | 🐛 8 | 🌐 Lua | 📅 2022-01-20.
 * [goaseprite](https://github.com/SolarLune/goaseprite) ⭐ 69 | 🐛 0 | 🌐 Go | 📅 2026-07-28 - A JSON loader for Aseprite files for Golang.
-* [etxt](https://github.com/tinne26/etxt) ⭐ 68 | 🐛 5 | 🌐 Go | 📅 2026-11-16 - A library for font management and text rendering in Ebitengine.
+* [etxt](https://github.com/tinne26/etxt) ⭐ 68 | 🐛 1 | 🌐 Go | 📅 2026-11-17 - A library for font management and text rendering in Ebitengine.
 * [bitmapfont](https://github.com/hajimehoshi/bitmapfont) ⭐ 62 | 🐛 3 | 🌐 Go | 📅 2026-11-10 - A plug-and-play `font.Face`, that supports a wide range of languages and symbols
 * [cubism-go](https://github.com/aethiopicuschan/cubism-go) ⭐ 31 | 🐛 9 | 🌐 Go | 📅 2026-09-17 - Unofficial Live2D Cubism SDK for Golang.
 * [aseprite](https://github.com/askeladdk/aseprite) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2026-01-12 - An image loader for Aseprite files, supports animation tags and more.
@@ -147,15 +147,15 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Embedded languages ​​and related tools*
 
-* [tengo](https://github.com/d5/tengo) ⭐ 3,850 | 🐛 98 | 🌐 Go | 📅 2026-11-08 - Fast scripting language for Go.
-* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,462 | 🐛 58 | 🌐 Go | 📅 2026-10-07 - Port of Lua VM in Go.
+* [tengo](https://github.com/d5/tengo) ⭐ 3,851 | 🐛 98 | 🌐 Go | 📅 2026-11-08 - Fast scripting language for Go.
+* [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,461 | 🐛 58 | 🌐 Go | 📅 2026-10-07 - Port of Lua VM in Go.
 * [scriggo](https://github.com/open2b/scriggo) ⭐ 579 | 🐛 106 | 🌐 Go | 📅 2026-11-13 - Powerful template engine and Go embeddable interpreter.
 
 ### Networking
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Realtime messaging and multiplayer on different platforms*
 
-* [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,551 | 🐛 19 | 🌐 Go | 📅 2026-11-16 - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
+* [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,552 | 🐛 19 | 🌐 Go | 📅 2026-11-16 - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
 * [go-enet](https://github.com/codecat/go-enet) ⭐ 61 | 🐛 1 | 🌐 C | 📅 2025-07-28 - Enet bindings for Go.
 * [necs](https://github.com/leap-fish/necs) ⭐ 32 | 🐛 1 | 🌐 Go | 📅 2025-06-25 - A networking layer for Donburi ECS.
 
@@ -187,7 +187,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) ⚠️ Archived - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) ⚠️ Archived - A toy GameBoy Color emulator written in golang.
 * [roboden-game](https://github.com/quasilyte/roboden-game) ⭐ 490 | 🐛 8 | 🌐 Go | 📅 2024-06-02 - An indirect control real-time strategy game about robot colonies.
-* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 305 | 🐛 12 | 🌐 Go | 📅 2026-11-16 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) ⭐ 305 | 🐛 12 | 🌐 Go | 📅 2026-11-17 - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) ⭐ 127 | 🐛 2 | 🌐 Go | 📅 2026-04-25 - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) ⭐ 86 | 🐛 0 | 🌐 Go | 📅 2026-07-07 - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [gosol](https://github.com/oddstream/gosol) ⭐ 53 | 🐛 5 | 🌐 Go | 📅 2023-03-18 - Polymorphic solitaire engine in Go+Ebitengine.
@@ -259,6 +259,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2022-06-22 - An implementation of the popular graphics benchmark written on Ebitengine.
 * [kageviewer](https://github.com/TLINDEN/kageviewer) ⚠️ Archived - A CLI tool to run, view and test Kage shaders.
 * [kagei](https://github.com/MatusOllah/kagei) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2025-06-03 - A CLI tool for testing Kage shaders.
+* [gozen](https://github.com/nao1215/gozen) ⭐ 4 | 🐛 7 | 🌐 Go | 📅 2026-11-16 - A no-code toolkit for making 2D RPGs, visual novels and strategy games from YAML and assets.
 * [luluka](https://github.com/Tsukumogami-Software/luluka) ⚠️ Archived - A CLI tool to preview Kage shaders, with support for PNG textures and uniform values defined in YAML.
 * [turtle](https://github.com/gary23b/turtle) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2025-02-27 - Turtle graphics. Teach Golang programming with instant visual feedback.
 * [kageland](https://www.kageland.com/) - A website to create, find and share Kage shaders - inspired by Shadertoy.
@@ -273,4 +274,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
