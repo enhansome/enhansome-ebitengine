@@ -422,7 +422,7 @@
             "open_issues": 85,
             "owner": "ebitenui",
             "repo": "ebitenui",
-            "stars": 946,
+            "stars": 945,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -555,7 +555,7 @@
             "open_issues": 14,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1262,
+            "stars": 1261,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -585,7 +585,7 @@
             "open_issues": 2,
             "owner": "SolarLune",
             "repo": "tetra3d",
-            "stars": 528,
+            "stars": 527,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1310,7 +1310,7 @@
             "open_issues": 9,
             "owner": "SolarLune",
             "repo": "resolv",
-            "stars": 536,
+            "stars": 535,
             "topics": [
               "bump",
               "check",
@@ -1876,7 +1876,7 @@
             "open_issues": 98,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3852,
+            "stars": 3851,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1906,7 +1906,7 @@
             "open_issues": 58,
             "owner": "Shopify",
             "repo": "go-lua",
-            "stars": 3463,
+            "stars": 3464,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -1923,7 +1923,7 @@
             "id": 170464043,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T10:56:10Z",
+            "last_commit": "2026-11-19T09:50:59Z",
             "open_issues": 106,
             "owner": "open2b",
             "repo": "scriggo",
@@ -1958,11 +1958,11 @@
             "id": 37511821,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-19T03:15:57Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-19T07:05:07Z",
+            "open_issues": 19,
             "owner": "xtaci",
             "repo": "kcp-go",
-            "stars": 4553,
+            "stars": 4552,
             "topics": [
               "automatic-repeat-request",
               "forward-error-correction",
@@ -2044,7 +2044,7 @@
             "open_issues": 1,
             "owner": "hajimehoshi",
             "repo": "go-steamworks",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T06:11:01.315Z"
@@ -2098,7 +2098,7 @@
             "open_issues": 1,
             "owner": "golang-design",
             "repo": "clipboard",
-            "stars": 868,
+            "stars": 867,
             "topics": [
               "android",
               "clipboard",
@@ -2200,7 +2200,7 @@
             "open_issues": 9,
             "owner": "akatsuki105",
             "repo": "worldwide",
-            "stars": 592,
+            "stars": 591,
             "topics": [
               "emulation",
               "emulator",
@@ -2231,7 +2231,7 @@
             "open_issues": 8,
             "owner": "quasilyte",
             "repo": "roboden-game",
-            "stars": 490,
+            "stars": 489,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -2256,11 +2256,11 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T20:50:51Z",
+            "last_commit": "2026-11-19T20:57:44Z",
             "open_issues": 12,
             "owner": "divVerent",
             "repo": "aaaaxy",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "2d",
               "game",
@@ -3422,7 +3422,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3084,
+            "stars": 3083,
             "topics": [
               "golang",
               "opengl",
@@ -3452,7 +3452,7 @@
             "open_issues": 7,
             "owner": "crgimenes",
             "repo": "neko",
-            "stars": 649,
+            "stars": 648,
             "topics": [
               "cat",
               "ebitengine",
@@ -3653,8 +3653,8 @@
             "id": 1424345119,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-19T03:34:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-20T02:59:13Z",
+            "open_issues": 1,
             "owner": "nao1215",
             "repo": "gozen",
             "stars": 4,
@@ -3790,7 +3790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:40:49.636Z",
+    "last_updated": "2026-11-20T03:32:09.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3802,7 +3802,7 @@
       "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 1005,
+      "stars": 1002,
       "topics": [
         "awesome",
         "awesome-list",
