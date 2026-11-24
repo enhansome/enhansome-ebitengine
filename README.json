@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "looplab",
             "repo": "fsm",
-            "stars": 3429,
+            "stars": 3428,
             "topics": [
               "finite-state-machine",
               "fsm",
@@ -44,7 +44,7 @@
             "open_issues": 8,
             "owner": "yohamta0",
             "repo": "donburi-ecs",
-            "stars": 400,
+            "stars": 403,
             "topics": [
               "ebitengine",
               "ecs",
@@ -71,7 +71,7 @@
             "open_issues": 9,
             "owner": "mlange-42",
             "repo": "ark",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "agent-based-modeling",
               "ecs",
@@ -555,7 +555,7 @@
             "open_issues": 15,
             "owner": "lucasb-eyer",
             "repo": "go-colorful",
-            "stars": 1261,
+            "stars": 1262,
             "topics": [
               "cie-spaces",
               "colorspace",
@@ -920,7 +920,7 @@
             "id": 967541120,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T14:14:04Z",
+            "last_commit": "2026-11-23T17:18:51Z",
             "open_issues": 4,
             "owner": "bstkhq",
             "repo": "go-shapes",
@@ -1873,10 +1873,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-08T04:20:03Z",
-            "open_issues": 98,
+            "open_issues": 97,
             "owner": "d5",
             "repo": "tengo",
-            "stars": 3851,
+            "stars": 3850,
             "topics": [
               "compiler",
               "embedded-language",
@@ -1923,11 +1923,11 @@
             "id": 170464043,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T10:31:16Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-23T13:13:13Z",
+            "open_issues": 123,
             "owner": "open2b",
             "repo": "scriggo",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "cross-platform",
               "embedded",
@@ -1958,8 +1958,8 @@
             "id": 37511821,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-21T10:20:09Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-24T05:01:38Z",
+            "open_issues": 20,
             "owner": "xtaci",
             "repo": "kcp-go",
             "stars": 4554,
@@ -2231,7 +2231,7 @@
             "open_issues": 8,
             "owner": "quasilyte",
             "repo": "roboden-game",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "ebiten",
               "ebitengine",
@@ -2256,7 +2256,7 @@
             "id": 324191722,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T19:58:51Z",
+            "last_commit": "2026-11-24T00:14:34Z",
             "open_issues": 12,
             "owner": "divVerent",
             "repo": "aaaaxy",
@@ -3422,7 +3422,7 @@
             "open_issues": 40,
             "owner": "liamg",
             "repo": "darktile",
-            "stars": 3082,
+            "stars": 3081,
             "topics": [
               "golang",
               "opengl",
@@ -3790,7 +3790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:54:34.234Z",
+    "last_updated": "2026-11-24T06:09:35.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ebitengine frameworks, libraries and software ",
@@ -3802,7 +3802,7 @@
       "open_issues": 1,
       "owner": "sedyh",
       "repo": "awesome-ebitengine",
-      "stars": 1003,
+      "stars": 1002,
       "topics": [
         "awesome",
         "awesome-list",
