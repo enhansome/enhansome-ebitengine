@@ -4,7 +4,7 @@
 
 A curated list of awesome Ebitengine frameworks, libraries and software
 
-[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,647 | 🐛 293 | 🌐 Go | 📅 2026-11-24 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
+[Ebitengine](https://github.com/hajimehoshi/ebiten) ⭐ 13,649 | 🐛 293 | 🌐 Go | 📅 2026-11-24 is an open source game library for the Go programming language. Ebitengine's simple API allows you to quickly and easily develop 2D games that can be deployed across multiple platforms. Ebitengine is made by [Hajime Hoshi](https://github.com/hajimehoshi).
 
 ### Contributing
 
@@ -155,7 +155,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Realtime messaging and multiplayer on different platforms*
 
-* [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,554 | 🐛 20 | 🌐 Go | 📅 2026-11-24 - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
+* [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,554 | 🐛 19 | 🌐 Go | 📅 2026-11-24 - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
 * [go-enet](https://github.com/codecat/go-enet) ⭐ 61 | 🐛 1 | 🌐 C | 📅 2025-07-28 - Enet bindings for Go.
 * [necs](https://github.com/leap-fish/necs) ⭐ 32 | 🐛 1 | 🌐 Go | 📅 2025-06-25 - A networking layer for Donburi ECS.
 
@@ -254,7 +254,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [darktile](https://github.com/liamg/darktile) ⭐ 3,081 | 🐛 40 | 🌐 Go | 📅 2023-03-19 - A GPU rendered terminal emulator designed for tiling window managers.
 * [neko](https://github.com/crgimenes/neko) ⭐ 648 | 🐛 6 | 🌐 Go | 📅 2026-11-20 - Neko is a cross-platform open-source animated cursor-chasing cat.
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) ⭐ 292 | 🐛 1 | 🌐 Go | 📅 2025-09-02 - An HTTP server for Wasm testing like gopherjs serve.
-* [kutta](https://github.com/crgimenes/kutta) ⭐ 148 | 🐛 0 | 🌐 Go | 📅 2026-11-20 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
+* [kutta](https://github.com/crgimenes/kutta) ⭐ 149 | 🐛 0 | 🌐 Go | 📅 2026-11-20 - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
 * [sketchy](https://github.com/aldernero/sketchy) ⭐ 108 | 🐛 0 | 🌐 Go | 📅 2026-08-16 - A framework for creating generative art in Go.
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) ⭐ 29 | 🐛 2 | 🌐 Go | 📅 2022-06-22 - An implementation of the popular graphics benchmark written on Ebitengine.
 * [kageviewer](https://github.com/TLINDEN/kageviewer) ⚠️ Archived - A CLI tool to run, view and test Kage shaders.
@@ -274,4 +274,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
